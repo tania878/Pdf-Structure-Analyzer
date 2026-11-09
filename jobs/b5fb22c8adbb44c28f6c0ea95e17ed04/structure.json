@@ -1,0 +1,254 @@
+[
+  {
+    "type": "image",
+    "src": "images/p1_img0.png",
+    "bbox": [
+      78.0,
+      66.0,
+      198.0,
+      106.0
+    ],
+    "page": 1,
+    "id": 0
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "PURCHASE ORDER",
+    "runs": [
+      {
+        "text": "PURCHASE ORDER"
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      212.1,
+      114.7,
+      383.1,
+      139.5
+    ],
+    "id": 1
+  },
+  {
+    "type": "paragraph",
+    "text": "PO Number: PO-2026-0042    Date: 15 January 2026 Vendor: Acme Pvt Ltd, 12 Main Street, Chennai Ship To: Beta Corp, 99 Park Avenue, Mumbai",
+    "runs": [
+      {
+        "text": "PO Number: PO-2026-0042    Date: 15 January 2026"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Vendor: Acme Pvt Ltd, 12 Main Street, Chennai"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Ship To: Beta Corp, 99 Park Avenue, Mumbai"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      78.0,
+      143.2,
+      326.0,
+      185.6
+    ],
+    "id": 2
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "1. Order Details",
+    "runs": [
+      {
+        "text": "1. Order Details"
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      78.0,
+      194.9,
+      196.3,
+      216.9
+    ],
+    "id": 3
+  },
+  {
+    "type": "table",
+    "bbox": [
+      70.1,
+      224.0,
+      525.1,
+      314.0
+    ],
+    "header": [
+      "Item",
+      "Description",
+      "Qty",
+      "UnitPrice",
+      "Total"
+    ],
+    "rows": [
+      [
+        "A 101\n-",
+        "Laptop14inch",
+        "5",
+        "80000\n.",
+        "400000\n."
+      ],
+      [
+        "B 205\n-",
+        "WirelessMouse",
+        "10",
+        "1500\n.",
+        "15000\n."
+      ],
+      [
+        "C 310\n-",
+        "USB -CDock",
+        "5",
+        "6000\n.",
+        "30000\n."
+      ],
+      [
+        "",
+        "",
+        "",
+        "Total",
+        "445000\n."
+      ]
+    ],
+    "page": 1,
+    "id": 4
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "2. Terms and Conditions",
+    "runs": [
+      {
+        "text": "2. Terms and Conditions"
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      78.0,
+      322.9,
+      264.7,
+      344.9
+    ],
+    "id": 5
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "text": "2.1 Delivery",
+    "runs": [
+      {
+        "text": "2.1 Delivery"
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      78.0,
+      357.1,
+      150.3,
+      375.0
+    ],
+    "id": 6
+  },
+  {
+    "type": "paragraph",
+    "text": "Goods must be delivered within 14 days of this order. The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement.",
+    "runs": [
+      {
+        "text": "Goods must be delivered within 14 days of this order. The parties agree to perform their"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "obligations in good faith and in accordance with the terms set out in this Agreement."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      78.0,
+      381.2,
+      484.8,
+      409.6
+    ],
+    "id": 7
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "text": "2.2 Payment",
+    "runs": [
+      {
+        "text": "2.2 Payment"
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      78.0,
+      421.1,
+      153.9,
+      439.0
+    ],
+    "id": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "Payment within 30 days of invoice. Questions: orders@example.com",
+    "runs": [
+      {
+        "text": "Payment within 30 days of invoice. Questions: "
+      },
+      {
+        "text": "orders@example.com",
+        "uri": "mailto:orders@example.com"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      78.0,
+      445.2,
+      397.9,
+      459.6
+    ],
+    "id": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "Authorized Signature: ____________________",
+    "runs": [
+      {
+        "text": "Authorized Signature: ____________________"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      78.0,
+      479.2,
+      298.6,
+      493.6
+    ],
+    "id": 10
+  }
+]

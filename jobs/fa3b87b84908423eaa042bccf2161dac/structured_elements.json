@@ -1,0 +1,690 @@
+{
+  "source_pdf": "C:\\Users\\kevin\\Downloads\\yatzar\\jobs\\fa3b87b84908423eaa042bccf2161dac\\input.pdf",
+  "element_count": 21,
+  "type_styles": {
+    "h1": {
+      "font_family": "Arial",
+      "font_size": 22,
+      "bold": true,
+      "italic": false,
+      "color": "#111111"
+    },
+    "h2": {
+      "font_family": "Arial",
+      "font_size": 18,
+      "bold": true,
+      "italic": false,
+      "color": "#222222"
+    },
+    "h3": {
+      "font_family": "Arial",
+      "font_size": 15,
+      "bold": true,
+      "italic": false,
+      "color": "#333333"
+    },
+    "h4": {
+      "font_family": "Arial",
+      "font_size": 13,
+      "bold": true,
+      "italic": true,
+      "color": "#444444"
+    },
+    "paragraph": {
+      "font_family": "Georgia",
+      "font_size": 12,
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    "table_header": {
+      "font_family": "Arial",
+      "font_size": 12,
+      "bold": true,
+      "italic": false,
+      "color": "#000000",
+      "background": "#e8e8e8"
+    },
+    "table_cell": {
+      "font_family": "Arial",
+      "font_size": 11,
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    "link_color": "#0645ad"
+  },
+  "elements": [
+    {
+      "type": "image",
+      "content": "images/p1_img1.png",
+      "page": 1,
+      "bbox": [
+        78.0,
+        66.0,
+        198.0,
+        106.0
+      ],
+      "id": "el_0000",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "h1",
+      "content": "SERVICE AGREEMENT",
+      "page": 1,
+      "bbox": [
+        198.1,
+        114.7,
+        397.2,
+        139.5
+      ],
+      "id": "el_0001",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "runs": [
+          {
+            "text": "SERVICE AGREEMENT"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "This Agreement is made on 1 January 2026 between Acme Pvt Ltd (the Supplier) and Beta Corp (the Client). Visit our policy page at example.com/policy for details.",
+      "page": 1,
+      "bbox": [
+        78.0,
+        143.2,
+        506.3,
+        171.7
+      ],
+      "id": "el_0002",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "This Agreement is made on 1 January 2026 between Acme Pvt Ltd (the Supplier) and Beta"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Corp (the Client). Visit our policy page at "
+          },
+          {
+            "text": "example.com/policy",
+            "uri": "https://example.com/policy"
+          },
+          {
+            "text": " for details."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h1",
+      "content": "WHEREAS",
+      "page": 1,
+      "bbox": [
+        78.0,
+        170.9,
+        159.8,
+        192.9
+      ],
+      "id": "el_0003",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "runs": [
+          {
+            "text": "WHEREAS"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The Supplier provides software services and the Client wishes to engage those services. The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement.",
+      "page": 1,
+      "bbox": [
+        78.0,
+        199.2,
+        517.3,
+        241.6
+      ],
+      "id": "el_0004",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "The Supplier provides software services and the Client wishes to engage those services. The"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "parties agree to perform their obligations in good faith and in accordance with the terms set out"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "in this Agreement."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h1",
+      "content": "1. Definitions",
+      "page": 1,
+      "bbox": [
+        78.0,
+        240.9,
+        178.5,
+        262.9
+      ],
+      "id": "el_0005",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "runs": [
+          {
+            "text": "1. Definitions"
+          }
+        ]
+      }
+    },
+    {
+      "type": "h2",
+      "content": "1.1 Services",
+      "page": 1,
+      "bbox": [
+        78.0,
+        275.1,
+        153.2,
+        293.0
+      ],
+      "id": "el_0006",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "1.1 Services"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement. The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement. The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement. The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement.",
+      "page": 1,
+      "bbox": [
+        78.0,
+        299.2,
+        517.3,
+        383.6
+      ],
+      "id": "el_0007",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "The parties agree to perform their obligations in good faith and in accordance with the terms"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "set out in this Agreement. The parties agree to perform their obligations in good faith and in"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "accordance with the terms set out in this Agreement. The parties agree to perform their"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "obligations in good faith and in accordance with the terms set out in this Agreement. The"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "parties agree to perform their obligations in good faith and in accordance with the terms set out"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "in this Agreement."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h2",
+      "content": "1.2 Confidential Information",
+      "page": 1,
+      "bbox": [
+        78.0,
+        395.1,
+        249.9,
+        413.0
+      ],
+      "id": "el_0008",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "1.2 Confidential Information"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement. The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement. The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement. The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement.",
+      "page": 1,
+      "bbox": [
+        78.0,
+        419.2,
+        517.3,
+        503.6
+      ],
+      "id": "el_0009",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "The parties agree to perform their obligations in good faith and in accordance with the terms"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "set out in this Agreement. The parties agree to perform their obligations in good faith and in"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "accordance with the terms set out in this Agreement. The parties agree to perform their"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "obligations in good faith and in accordance with the terms set out in this Agreement. The"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "parties agree to perform their obligations in good faith and in accordance with the terms set out"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "in this Agreement."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h1",
+      "content": "2. Payment Terms",
+      "page": 1,
+      "bbox": [
+        78.0,
+        502.9,
+        214.9,
+        524.9
+      ],
+      "id": "el_0010",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "runs": [
+          {
+            "text": "2. Payment Terms"
+          }
+        ]
+      }
+    },
+    {
+      "type": "h2",
+      "content": "2.1 Fees",
+      "page": 1,
+      "bbox": [
+        78.0,
+        537.1,
+        129.3,
+        555.0
+      ],
+      "id": "el_0011",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "2.1 Fees"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement. The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement. The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement.",
+      "page": 1,
+      "bbox": [
+        78.0,
+        561.2,
+        504.6,
+        617.6
+      ],
+      "id": "el_0012",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "The parties agree to perform their obligations in good faith and in accordance with the terms"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "set out in this Agreement. The parties agree to perform their obligations in good faith and in"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "accordance with the terms set out in this Agreement. The parties agree to perform their"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "obligations in good faith and in accordance with the terms set out in this Agreement."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "header": [
+          "Service",
+          "Rate",
+          "Billing"
+        ],
+        "rows": [
+          [
+            "Development",
+            "$50/hr",
+            "Monthly"
+          ],
+          [
+            "Support",
+            "$30/hr",
+            "Monthly"
+          ],
+          [
+            "Hosting",
+            "$100",
+            "Quarterly"
+          ]
+        ]
+      },
+      "page": 1,
+      "bbox": [
+        215.4,
+        618.0,
+        379.8,
+        690.0
+      ],
+      "id": "el_0013",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "h2",
+      "content": "2.2 Late Payment",
+      "page": 1,
+      "bbox": [
+        78.0,
+        709.1,
+        184.2,
+        727.0
+      ],
+      "id": "el_0014",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "2.2 Late Payment"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement. The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement. The parties agree to perform their",
+      "page": 1,
+      "bbox": [
+        78.0,
+        733.2,
+        504.6,
+        775.6
+      ],
+      "id": "el_0015",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "The parties agree to perform their obligations in good faith and in accordance with the terms"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "set out in this Agreement. The parties agree to perform their obligations in good faith and in"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "accordance with the terms set out in this Agreement. The parties agree to perform their"
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "obligations in good faith and in accordance with the terms set out in this Agreement.",
+      "page": 2,
+      "bbox": [
+        78.0,
+        65.2,
+        467.3,
+        79.6
+      ],
+      "id": "el_0016",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "obligations in good faith and in accordance with the terms set out in this Agreement."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h1",
+      "content": "3. Termination",
+      "page": 2,
+      "bbox": [
+        78.0,
+        78.9,
+        187.4,
+        100.9
+      ],
+      "id": "el_0017",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "runs": [
+          {
+            "text": "3. Termination"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement. The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement. The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement. The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement. The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement.",
+      "page": 2,
+      "bbox": [
+        78.0,
+        107.2,
+        517.3,
+        205.6
+      ],
+      "id": "el_0018",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "The parties agree to perform their obligations in good faith and in accordance with the terms"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "set out in this Agreement. The parties agree to perform their obligations in good faith and in"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "accordance with the terms set out in this Agreement. The parties agree to perform their"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "obligations in good faith and in accordance with the terms set out in this Agreement. The"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "parties agree to perform their obligations in good faith and in accordance with the terms set out"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "in this Agreement. The parties agree to perform their obligations in good faith and in"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "accordance with the terms set out in this Agreement."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h1",
+      "content": "SCHEDULE A",
+      "page": 2,
+      "bbox": [
+        78.0,
+        204.9,
+        182.0,
+        226.9
+      ],
+      "id": "el_0019",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "runs": [
+          {
+            "text": "SCHEDULE A"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Deliverables are listed as agreed in writing. The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement. Signed: ____________________ (Supplier)    ____________________ (Client)",
+      "page": 2,
+      "bbox": [
+        78.0,
+        233.2,
+        501.7,
+        275.6
+      ],
+      "id": "el_0020",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Deliverables are listed as agreed in writing. The parties agree to perform their obligations in"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "good faith and in accordance with the terms set out in this Agreement."
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Signed: ____________________ (Supplier)    ____________________ (Client)"
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    }
+  ]
+}

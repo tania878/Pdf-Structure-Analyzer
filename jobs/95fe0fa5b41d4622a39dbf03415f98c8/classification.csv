@@ -1,0 +1,22 @@
+﻿page,text,label,level,role,score,confidence,needs_review,reasons,font_size,size_ratio,bold,italic,font_family,x0,y0,x1,y1,gap_before,gap_after,n_chars,n_words,numbering,y_rel,first_on_page,alignment,indent
+1,1. Name of the Student: TANIA CARROLLINE T,heading,1,clause_heading,3.5,0.6,True,numbered; short numbered section,10.3,1.06,False,False,ArialMT,54.1,129.7,319.9,149.2,0.0,0.0,42,8,decimal:1,0.164,False,left,2.1
+1,PSG COLLEGE OF TECHNOLOGY,heading,1,section_heading,5.0,0.9,False,font much larger; caps; centered,12.8,1.32,False,False,ArialMT,186.7,61.0,428.8,78.9,0.0,0.0,25,4,,0.077,True,center,134.7
+1,PEELAMEDU-COIMBATORE - 641 004.,paragraph,,,1.5,0.8,False,font larger; caps; centered; ends like a sentence,10.5,1.08,False,False,ArialMT,198.6,78.1,411.0,96.8,0.0,0.0,31,4,,0.099,False,center,146.6
+1,APPLICATION FOR LEAVE,heading,1,section_heading,3.5,0.6,True,font larger; caps; centered,11.1,1.14,False,False,ArialMT,228.2,94.9,391.9,112.8,0.0,12.4,21,3,,0.12,False,center,176.2
+1,2.,paragraph,,,-2.0,1.0,False,ends like a sentence,7.6,0.78,False,False,ArialMT,52.4,154.2,64.4,170.2,0.0,0.0,2,1,,0.195,False,left,0.4
+1,Class & Branch: BTECH IT,field,,,0.0,0.9,False,label: value,9.8,1.01,False,False,ArialMT,71.1,154.2,217.3,170.2,0.0,0.0,24,5,,0.195,False,left,19.1
+1,4. Reason: SIH PRESENTATION,heading,1,clause_heading,3.5,0.6,True,numbered; short numbered section,10.2,1.05,False,False,ArialMT,53.6,197.6,235.2,213.6,3.1,5.4,27,4,decimal:1,0.249,False,left,1.6
+1,3. Leave Required Date On /From: 24/09/2026 FN To : 24/09/2026 FN Hours: 2 -,paragraph,,,2.0,0.7,False,numbered,9.7,1.0,False,False,ArialMT,51.2,168.0,495.1,194.5,0.0,3.1,76,15,decimal:1,0.212,False,left,-0.8
+1,4,skip,,,0,1.0,False,,,,,,,,,,,,,,,,,,,
+1,5. Date of online entry by student: 27/09/2026,heading,1,clause_heading,3.5,0.6,True,numbered; short numbered section,9.6,0.99,False,False,ArialMT,50.0,219.0,315.9,236.0,5.4,7.0,46,8,decimal:1,0.277,False,left,-2.0
+1,6. Leave Type : Exception Leave,heading,1,clause_heading,3.5,0.6,True,numbered; short numbered section,9.9,1.02,False,False,ArialMT,49.3,243.0,237.5,260.3,7.0,47.7,31,6,decimal:1,0.307,False,left,-2.7
+1,Signature of the Student : Tani a larrollin,signature,,,0.0,0.9,False,signature line,11.1,1.14,False,False,ArialMT,44.3,308.0,357.7,333.9,47.7,0.0,43,8,,0.389,False,left,-7.7
+1,Date: 28 |q,field,,,0.0,0.9,False,label: value,10.8,1.11,False,False,ArialMT,37.0,342.1,141.1,362.7,0.0,0.0,11,3,,0.432,False,left,-15.0
+1,|,paragraph,,,0.0,1.0,False,,7.0,0.72,False,False,ArialMT,146.8,341.5,153.7,357.5,0.0,0.0,1,1,,0.431,False,left,94.8
+1,o b,paragraph,,,0.0,1.0,False,,7.0,0.72,False,False,ArialMT,162.4,340.6,178.3,357.0,0.0,0.0,3,2,,0.43,False,left,110.4
+1,Date of approval by the tutor:,paragraph,,,0.0,1.0,False,,10.3,1.06,False,False,ArialMT,35.4,373.6,233.7,392.1,0.0,13.8,30,6,,0.472,False,left,-16.6
+1,Signature of the Tutor:,signature,,,0.0,0.9,False,signature line,10.8,1.11,False,False,ArialMT,33.4,405.9,190.0,424.7,13.8,0.0,23,4,,0.512,False,left,-18.6
+1,Roll No:251267,field,,,0.0,0.9,False,label: value,9.5,0.98,False,False,ArialMT,369.2,125.2,458.4,140.8,12.4,0.0,14,2,,0.158,False,left,317.2
+1,8/a/26,heading,2,section_heading,4.0,0.7,False,font much larger; centered,23.7,2.44,False,False,ArialMT,252.8,351.1,333.1,405.9,0.0,0.0,6,1,,0.443,False,center,200.8
+1,Sem:3,field,,,0.0,0.9,False,label: value,9.4,0.97,False,False,ArialMT,364.9,148.8,410.0,161.9,0.0,0.0,5,1,,0.188,False,left,312.9
+1,S7t-SPOc,heading,2,section_heading,3.0,0.5,True,font much larger,17.2,1.77,False,False,ArialMT,447.5,307.7,527.3,344.5,0.0,0.0,8,1,,0.389,False,right,395.5

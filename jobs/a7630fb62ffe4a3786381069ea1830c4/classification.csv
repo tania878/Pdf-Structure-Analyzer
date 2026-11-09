@@ -1,0 +1,181 @@
+﻿page,text,label,level,role,score,confidence,needs_review,reasons,font_size,size_ratio,bold,italic,font_family,x0,y0,x1,y1,gap_before,gap_after,n_chars,n_words,numbering,y_rel,first_on_page,alignment,indent
+1,AIR POLLUTION,heading,1,section_heading,3.5,0.6,True,bold; caps; centered,13.9,1.0,True,False,"Times New Roman,Bold",249.5,72.6,366.3,88.0,0.0,12.9,13,2,,0.092,True,center,123.5
+1,"Air pollution is define as the composition of air is disturbed due to presence of gas,",paragraph,,,-4.0,1.0,False,space above; long text; ends like a sentence,13.9,1.0,False,False,Times New Roman,72.0,100.9,543.2,116.3,12.9,3.1,86,16,,0.127,False,left,-54.0
+1,"smoke, dust, chemical particulate etc., which are injurious to human being, plant",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,72.0,119.4,543.4,134.8,3.1,3.1,81,12,,0.151,False,left,-54.0
+1,and animal.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,72.0,137.9,140.8,153.3,3.1,13.4,11,2,,0.174,False,left,-54.0
+1,Types of Air pollution,paragraph,,,2.5,0.6,True,bold; space above,13.9,1.0,True,False,"Times New Roman,Bold",72.0,166.7,207.3,182.1,13.4,12.9,22,4,,0.21,False,left,-54.0
+1,i),paragraph,,,1.0,0.9,False,space above,13.9,1.0,False,False,Times New Roman,90.0,195.0,98.5,210.4,12.9,0.0,2,1,,0.246,False,left,-36.0
+1,Primary pollutant: Pollutants that are emitted directly from the human,field,,,0.0,0.9,False,label: value,13.9,1.0,False,False,"Times New Roman,Bold",126.1,195.0,530.6,210.4,0.0,3.1,70,10,,0.246,False,left,0.1
+1,"or natural activities are known as primary pollutant. For example, CO2,",paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,213.5,528.1,229.3,3.1,2.7,71,11,,0.27,False,left,0.1
+1,"SO2, NOx, particulate matter, hydrocarbons etc.",paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,232.0,395.5,247.8,2.7,2.7,47,6,,0.293,False,left,0.1
+1,ii),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,250.5,102.3,265.9,2.7,0.0,3,1,,0.316,False,left,-36.0
+1,Secondary pollutant: when primary pollutants are react with,field,,,0.0,0.9,False,label: value,13.9,1.0,False,False,"Times New Roman,Bold",126.1,250.5,543.3,265.9,0.0,3.0,59,8,,0.316,False,left,0.1
+1,"atmospheric moisture content then a new category of pollutants is form,",paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,268.9,543.7,284.4,3.0,3.1,71,11,,0.34,False,left,0.1
+1,"known as secondary pollutant. For example, carbonic acid, nitric acid,",paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,287.5,543.3,302.9,3.1,3.3,70,10,,0.363,False,left,0.1
+1,sulphuric acid etc.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,306.2,231.8,321.6,3.3,13.1,19,3,,0.387,False,left,0.1
+1,Cause of Air pollution,paragraph,,,2.5,0.6,True,bold; space above,13.9,1.0,True,False,"Times New Roman,Bold",72.0,334.7,208.3,350.1,13.1,13.0,22,4,,0.423,False,left,-54.0
+1,a)Urbanization,paragraph,,,1.0,0.9,False,space above,13.9,1.0,False,False,Times New Roman,90.0,363.1,184.5,378.5,13.0,3.1,14,1,,0.458,False,left,-36.0
+1,b)Population,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,381.6,172.3,397.0,3.1,3.0,12,1,,0.482,False,left,-36.0
+1,c)Deforestation,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,400.0,191.2,415.4,3.0,3.4,15,1,,0.505,False,left,-36.0
+1,d)Industrialization,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,418.8,203.2,434.2,3.4,3.0,19,1,,0.529,False,left,-36.0
+1,e)Vehicle emission,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,437.2,208.3,452.6,3.0,13.5,18,2,,0.552,False,left,-36.0
+1,Major Air pollutants and their effects,paragraph,,,2.5,0.6,True,bold; space above,13.9,1.0,True,False,"Times New Roman,Bold",72.0,466.1,300.7,481.5,13.5,12.6,38,6,,0.589,False,left,-54.0
+1,a)Carbon dioxide: the concentration of CO2 gas increase in atmosphere due to,field,,,0.0,0.9,False,label: value,13.9,1.0,False,False,Times New Roman,90.0,494.1,543.3,509.9,12.6,2.7,76,12,,0.624,False,left,-36.0
+1,"emission from vehicles, burning of fossil fuel, emission from volcano,",paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,512.6,543.3,528.0,2.7,3.4,70,10,,0.647,False,left,-17.9
+1,"industries, agricultural activity etc. it increase green house effect which",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,531.4,543.3,546.8,3.4,3.0,75,10,,0.671,False,left,-17.9
+1,causes global warming and climate change.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,549.8,355.0,565.3,3.0,3.0,41,6,,0.694,False,left,-17.9
+1,b)Carbon monoxide: carbon monoxide gas releases after incomplete,field,,,0.0,0.9,False,label: value,13.9,1.0,False,False,Times New Roman,90.0,568.3,543.6,583.7,3.0,3.1,64,8,,0.718,False,left,-36.0
+1,combustion of fossil fuel or other product. The source of CO is vehicle,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,586.8,543.5,602.2,3.1,3.1,71,13,,0.741,False,left,-17.9
+1,"emission, burning of coal, biomass combustion etc. CO causes headache,",paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,605.3,543.3,620.7,3.1,3.1,70,10,,0.764,False,left,-17.9
+1,"dizziness, heart failure (in blood CO combines with oxygen which reduced",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,623.8,543.4,639.2,3.1,3.1,72,11,,0.788,False,left,-17.9
+1,"the affinity of haemoglobin towards oxygen), etc.",paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,642.3,392.7,657.7,3.1,3.3,49,7,,0.811,False,left,-17.9
+1,"c)Sulphur dioxide: SO2 releases from oil refineries, volcanic eruption, and",field,,,0.0,0.9,False,label: value,13.9,1.0,False,False,Times New Roman,90.0,661.0,543.6,676.8,3.3,2.7,75,10,,0.835,False,left,-36.0
+1,chemical industries etc. sulphur dioxide react with moisture to form,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,679.5,543.7,694.9,2.7,0.0,68,10,,0.858,False,left,-17.9
+2,secondary pollutant which causes eye irritation. It can also cause allergic,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,72.3,543.3,87.7,0.0,3.1,75,11,,0.091,True,left,-17.9
+2,reaction and asthma.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,90.8,227.0,106.2,3.1,3.1,20,3,,0.115,False,left,-17.9
+2,d)Lead: tetra ethyl lead used as anti-knocking agents in petrol for smooth,field,,,0.0,0.9,False,label: value,13.9,1.0,False,False,Times New Roman,90.0,109.3,543.5,124.7,3.1,3.1,74,12,,0.138,False,left,-36.0
+2,function vehicle. Lead particle coming out from the exhaust of vehicle and,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,127.8,543.2,143.2,3.1,3.3,74,12,,0.161,False,left,-17.9
+2,mixed with air. It causes injurious effect on kidney and liver. It also lowers,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,146.5,543.7,161.9,3.3,3.1,78,14,,0.185,False,left,-17.9
+2,down the intelligence power in children.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,165.0,337.9,180.4,3.1,3.1,40,6,,0.208,False,left,-17.9
+2,"e)Nitrogen oxide: it release from vehicle exhausts, volcanic eruption, lighting",field,,,0.0,0.9,False,label: value,13.9,1.0,False,False,Times New Roman,90.0,183.5,543.2,198.9,3.1,3.1,79,10,,0.232,False,left,-36.0
+2,"etc. like SO2, it also react with moisture content present in atmosphere and",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,202.0,543.2,217.8,3.1,2.7,76,13,,0.255,False,left,-17.9
+2,causes eye irritation.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,220.5,230.6,235.9,2.7,13.4,22,3,,0.278,False,left,-17.9
+2,Techniques used for prevention of Air pollution,paragraph,,,2.5,0.6,True,bold; space above,13.9,1.0,True,False,"Times New Roman,Bold",90.0,249.3,378.3,264.7,13.4,12.9,47,7,,0.315,False,left,-36.0
+2,i),paragraph,,,1.0,0.9,False,space above,13.9,1.0,False,False,Times New Roman,90.0,277.6,98.5,293.0,12.9,0.0,2,1,,0.351,False,left,-36.0
+2,Filters: filter remove particulate matter from the gas stream. Bag house,field,,,0.0,0.9,False,label: value,13.9,1.0,False,False,Times New Roman,126.1,277.6,543.2,293.0,0.0,3.1,72,11,,0.351,False,left,0.1
+2,filter system is the most common and it is made up of cotton fibers.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,296.1,543.5,311.5,3.1,3.1,68,14,,0.374,False,left,0.1
+2,"When polluted gas passed through it, then polluted gas are deposited on",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,126.1,314.6,543.2,330.0,3.1,3.1,71,12,,0.397,False,left,0.1
+2,cotton fibers.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,333.1,203.5,348.5,3.1,3.0,14,2,,0.421,False,left,0.1
+2,ii),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,351.5,102.3,366.9,3.0,0.0,3,1,,0.444,False,left,-36.0
+2,Electrostatic scrubber: the emitting dust is charged with ions and ionized,field,,,0.0,0.9,False,label: value,13.9,1.0,False,False,Times New Roman,126.1,351.5,543.0,366.9,0.0,3.1,74,11,,0.444,False,left,0.1
+2,particulate matter is collected on oppositely charged surface. The,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,126.1,370.0,543.1,385.4,3.1,3.4,66,9,,0.467,False,left,0.1
+2,collected particles are removed by shaking the surface.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,388.8,436.9,404.2,3.4,3.0,55,8,,0.491,False,left,0.1
+2,iii),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,407.2,106.2,422.6,3.0,0.0,4,1,,0.514,False,left,-36.0
+2,Scrubbers: Scrubbers are wet collectors. They remove aerosol from a,field,,,0.0,0.9,False,label: value,13.9,1.0,False,False,Times New Roman,126.1,407.2,543.3,422.6,0.0,3.1,67,10,,0.514,False,left,0.1
+2,stream of gas either by collecting wet particle on a surface followed by,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,126.1,425.7,542.9,441.1,3.1,3.1,72,13,,0.537,False,left,0.1
+2,their removal on the particles are wetted by scrubber liquid.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,444.2,464.0,459.6,3.1,42.0,61,10,,0.561,False,left,0.1
+2,WATER POLLUTION,heading,1,section_heading,4.5,0.8,False,bold; caps; space above; centered,13.9,1.0,True,False,"Times New Roman,Bold",235.8,501.6,379.7,517.0,42.0,12.7,15,2,,0.633,False,center,109.8
+2,The undesirable biological or chemical substance present in water which adversely,paragraph,,,1.0,0.9,False,space above,13.9,1.0,False,False,Times New Roman,72.0,529.7,539.0,545.1,12.7,3.3,81,11,,0.669,False,left,-54.0
+2,affect living organism is referred as water pollution.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,72.0,548.4,370.8,563.8,3.3,13.2,54,8,,0.692,False,left,-54.0
+2,Source of Water pollution,paragraph,,,2.5,0.6,True,bold; space above,13.9,1.0,True,False,"Times New Roman,Bold",72.0,577.0,230.6,592.4,13.2,12.9,25,4,,0.729,False,left,-54.0
+2,i),paragraph,,,1.0,0.9,False,space above,13.9,1.0,False,False,Times New Roman,90.0,605.3,98.5,620.7,12.9,0.0,2,1,,0.764,False,left,-36.0
+2,Point source pollution: if pollutants discharge from single identifiable,field,,,0.0,0.9,False,label: value,13.9,1.0,False,False,"Times New Roman,Bold",126.1,605.3,543.7,620.7,0.0,3.1,72,9,,0.764,False,left,0.1
+2,"source then it is known as point source. For example, municipal sources,",paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,623.8,543.0,639.2,3.1,3.1,72,12,,0.788,False,left,0.1
+2,industrial sources etc.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,642.3,251.3,657.7,3.1,0.0,23,3,,0.811,False,left,0.1
+3,ii),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,72.3,102.3,87.7,0.0,0.0,3,1,,0.091,True,left,-36.0
+3,Non-point source pollution: if pollutants discharge from random or,field,,,0.0,0.9,False,label: value,13.9,1.0,False,False,"Times New Roman,Bold",126.1,72.3,543.3,87.7,0.0,3.1,66,9,,0.091,False,left,0.1
+3,"scattered source then it is known as non-point source. For example,",paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,90.8,543.5,106.2,3.1,3.1,67,11,,0.115,False,left,0.1
+3,"construction site, agricultural site, Acid rain, animal waste etc.",paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,109.3,482.9,124.7,3.1,31.9,66,9,,0.138,False,left,0.1
+3,Cause & effects of Water pollution,paragraph,,,2.5,0.6,True,bold; space above,13.9,1.0,True,False,"Times New Roman,Bold",72.0,156.6,282.7,172.0,31.9,12.9,34,6,,0.198,False,left,-54.0
+3,"a)Disease causing agents: the micro-organism including bacteria, virus,",field,,,0.0,0.9,False,label: value,13.9,1.0,False,False,Times New Roman,90.0,184.9,543.4,200.3,12.9,3.1,71,8,,0.233,False,left,-36.0
+3,"protozoa, if present in drinking water causes disease. For example,",paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,203.4,488.2,218.8,3.1,3.1,67,10,,0.257,False,left,-17.9
+3,b)Oxygen depleting waste: organic matters present in water are degraded by,field,,,0.0,0.9,False,label: value,13.9,1.0,False,False,Times New Roman,90.0,221.9,543.3,237.3,3.1,3.1,74,11,,0.28,False,left,-36.0
+3,microorganism present in water which required oxygen. If large amount of,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,240.4,543.5,255.8,3.1,3.3,72,11,,0.304,False,left,-17.9
+3,organic matter present in waste water then large amount of oxygen is,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,259.1,543.2,274.5,3.3,3.1,68,12,,0.327,False,left,-17.9
+3,required by the microorganism to degrade the waste. Therefore oxygen,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,277.6,543.5,293.0,3.1,3.1,68,10,,0.351,False,left,-17.9
+3,content in water decrease. The amount of oxygen consumed by,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,296.1,543.3,311.5,3.1,3.1,59,10,,0.374,False,left,-17.9
+3,microorganism is referred as Biological Oxygen Demand (BOD). High level,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,314.6,543.2,330.0,3.1,3.1,71,10,,0.397,False,left,-17.9
+3,of BOC means large amount of waste present in water.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,333.1,422.4,348.5,3.1,3.0,52,10,,0.421,False,left,-17.9
+3,"c)Water soluble inorganic chemicals: the elements like lead, mercury,",paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,90.0,351.5,543.5,366.9,3.0,3.1,69,9,,0.444,False,left,-36.0
+3,"cadmium, arsenic adversely affect the human being and animals. For",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,370.0,543.6,385.4,3.1,3.4,66,10,,0.467,False,left,-17.9
+3,"example, cadmium causes Itai-Itai disease, mercury causes Minamata",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,388.8,543.3,404.2,3.4,3.0,66,8,,0.491,False,left,-17.9
+3,disease.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,407.2,155.4,422.6,3.0,3.1,8,1,,0.514,False,left,-17.9
+3,"d)Suspended solids: if suspended solid present in water bodies, then water",field,,,0.0,0.9,False,label: value,13.9,1.0,False,False,Times New Roman,90.0,425.7,543.6,441.1,3.1,3.1,74,11,,0.537,False,left,-36.0
+3,become turbid and therefore proper sunlight does not reach to the aquatic,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,444.2,543.3,459.6,3.1,3.1,73,12,,0.561,False,left,-17.9
+3,plant and animal which disturb the life of aquatic ecosystem.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,462.7,452.2,478.1,3.1,13.4,61,10,,0.584,False,left,-17.9
+3,Control measure for preventing water pollution,paragraph,,,2.5,0.6,True,bold; space above,13.9,1.0,True,False,"Times New Roman,Bold",72.0,491.5,360.5,506.9,13.4,12.9,46,6,,0.621,False,left,-54.0
+3,i),paragraph,,,1.0,0.9,False,space above,13.9,1.0,False,False,Times New Roman,90.0,519.8,98.5,535.2,12.9,0.0,2,1,,0.656,False,left,-36.0
+3,Industrial effluent and domestic waste must be treated before disposal.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,519.8,524.7,535.2,0.0,3.1,71,10,,0.656,False,left,0.1
+3,ii),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,538.3,102.3,553.7,3.1,0.0,3,1,,0.68,False,left,-36.0
+3,Recycling of waste water through waste water treatment.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,538.3,448.4,553.7,0.0,3.1,55,8,,0.68,False,left,0.1
+3,iii),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,556.8,106.2,572.2,3.1,0.0,4,1,,0.703,False,left,-36.0
+3,Public awareness program.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,556.8,284.4,572.2,0.0,31.9,25,3,,0.703,False,left,0.1
+3,SOIL POLLUTION,heading,1,section_heading,4.5,0.8,False,bold; caps; space above; centered,13.9,1.0,True,False,"Times New Roman,Bold",245.6,604.1,370.1,619.5,31.9,12.9,14,2,,0.763,False,center,119.6
+3,Soil pollution can be defined as introduction of undesirable substance in soil which,paragraph,,,1.0,0.9,False,space above,13.9,1.0,False,False,Times New Roman,72.0,632.4,543.6,647.8,12.9,3.1,84,13,,0.798,False,left,-54.0
+3,"adversely affects its physical, chemical and biological properties.",paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,72.0,650.9,440.7,666.3,3.1,13.4,67,8,,0.822,False,left,-54.0
+3,Source of Soil pollution,paragraph,,,2.5,0.6,True,bold; space above,13.9,1.0,True,False,"Times New Roman,Bold",72.0,679.7,215.2,695.1,13.4,0.0,24,4,,0.858,False,left,-54.0
+4,Cause of Soil pollution or degradation,paragraph,,,1.5,0.8,False,bold,13.9,1.0,True,False,"Times New Roman,Bold",72.0,72.6,303.1,88.0,0.0,12.9,38,6,,0.092,True,left,-54.0
+4,a)Soil erosion: removal or movement of top soil from one place to another,paragraph,,,1.0,0.9,False,space above,13.9,1.0,False,False,Times New Roman,90.0,100.9,543.5,116.3,12.9,3.1,73,13,,0.127,False,left,-36.0
+4,"place is known as soil erosion, it is a natural process. But the erosion",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,119.4,543.3,134.8,3.1,3.1,72,14,,0.151,False,left,-17.9
+4,"enhances by human activities like mining, construction, new land for",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,137.9,543.6,153.3,3.1,3.1,68,10,,0.174,False,left,-17.9
+4,"agricultural practices, deforestation, overgrazing etc. Due to erosion, soil",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,156.4,543.5,171.8,3.1,3.0,76,9,,0.197,False,left,-17.9
+4,become less fertile and erosion also reduce the soil water holding capacity.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,174.8,530.5,190.3,3.0,3.3,76,12,,0.221,False,left,-17.9
+4,"b)Excess use of fertilizers: Essential micronutrients like N, P, K are supplied",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,193.6,543.6,209.0,3.3,3.1,79,12,,0.244,False,left,-36.0
+4,by chemical fertilizer to increase the crop yield or productivity. The,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,212.1,543.7,227.5,3.1,3.0,70,11,,0.268,False,left,-17.9
+4,microorganism present in the soil converts nitrogen into nitrate ions; enter,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,230.5,543.1,246.0,3.0,3.0,76,11,,0.291,False,left,-17.9
+4,into food chain from soil disturbing the biochemical process.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,249.0,452.7,264.4,3.0,3.1,61,9,,0.314,False,left,-17.9
+4,c)Acid Rain: acid rain increases the acidity of soil which reduces the crop,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,267.5,543.6,282.9,3.1,3.1,75,13,,0.338,False,left,-36.0
+4,yield.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,286.0,143.0,301.4,3.1,3.1,6,1,,0.361,False,left,-17.9
+4,"d)Salinity of water: Due to excessive irrigation, concentration of soluble salt",field,,,0.0,0.9,False,label: value,13.9,1.0,False,False,Times New Roman,90.0,304.5,543.4,319.9,3.1,3.1,79,11,,0.384,False,left,-36.0
+4,"increase in soil, then productivity and quality of soil decrease. These salts",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,323.0,543.6,338.4,3.1,3.3,77,12,,0.408,False,left,-17.9
+4,deposit on the surface then diffusion of oxygen and drainage of water in soil,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,341.7,543.7,357.1,3.3,3.1,77,14,,0.431,False,left,-17.9
+4,does not occur therefore growth of plant is slow down.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,360.2,417.9,375.6,3.1,3.1,54,10,,0.455,False,left,-17.9
+4,e)Industrial waste: various pollutants present in the environment from,field,,,0.0,0.9,False,label: value,13.9,1.0,False,False,Times New Roman,90.0,378.7,543.1,394.1,3.1,3.1,70,9,,0.478,False,left,-36.0
+4,"industrial waste. Discharge from chemical industries, fertilizer and",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,397.2,543.1,412.6,3.1,3.0,68,8,,0.502,False,left,-17.9
+4,pharmaceutical companies are highly polluting.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,415.6,377.8,431.0,3.0,13.4,46,5,,0.525,False,left,-17.9
+4,Effect of Soil pollution,paragraph,,,2.5,0.6,True,bold; space above,13.9,1.0,True,False,"Times New Roman,Bold",72.0,444.4,209.7,459.8,13.4,13.0,24,4,,0.561,False,left,-54.0
+4,i),paragraph,,,1.0,0.9,False,space above,13.9,1.0,False,False,Times New Roman,90.0,472.8,98.5,488.2,13.0,0.0,2,1,,0.597,False,left,-36.0
+4,Salinity and water logging reduce the fertility of soil and crop yield.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,472.8,510.6,488.2,0.0,3.1,71,12,,0.597,False,left,0.1
+4,ii),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,491.3,102.3,506.7,3.1,0.0,3,1,,0.62,False,left,-36.0
+4,Toxic chemical present in the soil also affect the plant growth and human,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,126.1,491.3,543.1,506.7,0.0,3.0,73,13,,0.62,False,left,0.1
+4,life.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,509.7,151.6,525.1,3.0,3.1,5,1,,0.644,False,left,0.1
+4,iii),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,528.2,106.2,543.6,3.1,0.0,4,1,,0.667,False,left,-36.0
+4,Soil pollution contaminated the underground water.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,528.2,418.8,543.6,0.0,13.4,50,6,,0.667,False,left,0.1
+4,Control measures for preventing soil pollution,paragraph,,,2.5,0.6,True,bold; space above,13.9,1.0,True,False,"Times New Roman,Bold",72.0,557.0,352.1,572.5,13.4,12.9,46,6,,0.703,False,left,-54.0
+4,i),paragraph,,,1.0,0.9,False,space above,13.9,1.0,False,False,Times New Roman,90.0,585.4,98.5,600.8,12.9,0.0,2,1,,0.739,False,left,-36.0
+4,Soil erosion must be prevented by proper tree plantation.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,585.4,447.9,600.8,0.0,3.0,57,9,,0.739,False,left,0.1
+4,ii),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,603.8,102.3,619.3,3.0,0.0,3,1,,0.762,False,left,-36.0
+4,Waste from industry and domestic must be treated before dumping.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,603.8,507.7,619.3,0.0,3.0,64,10,,0.762,False,left,0.1
+4,iii),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,622.3,106.2,637.8,3.0,0.0,4,1,,0.786,False,left,-36.0
+4,Replace synthetic fertilizers with organic fertilizers.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,622.3,420.5,637.8,0.0,3.0,55,6,,0.786,False,left,0.1
+4,iv),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,640.8,105.5,656.2,3.0,0.0,3,1,,0.809,False,left,-36.0
+4,Toxic and non degradable materials must be banned.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,640.8,424.9,656.2,0.0,3.1,50,8,,0.809,False,left,0.1
+4,v),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,659.3,101.6,674.7,3.1,0.0,2,1,,0.832,False,left,-36.0
+4,Recycling and reuse of waste materials.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,659.3,351.8,674.7,0.0,3.3,39,6,,0.832,False,left,0.1
+4,vi),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,678.0,105.5,693.4,3.3,0.0,3,1,,0.856,False,left,-36.0
+4,Public awareness.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,678.0,236.9,693.4,0.0,0.0,17,2,,0.856,False,left,0.1
+5,MARINE POLLUTION,heading,1,section_heading,3.5,0.6,True,bold; caps; centered,13.9,1.0,True,False,"Times New Roman,Bold",233.1,72.6,382.6,88.0,0.0,12.9,16,2,,0.092,True,center,107.1
+5,"Marine pollution defined as contamination of oceans or seas, due to presence of",paragraph,,,1.0,0.9,False,space above,13.9,1.0,False,False,Times New Roman,72.0,100.9,543.5,116.3,12.9,3.1,79,13,,0.127,False,left,-54.0
+5,"unwanted materials or pollutants. The most common pollutants include chemicals,",paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,72.0,119.4,543.6,134.8,3.1,3.1,79,10,,0.151,False,left,-54.0
+5,"oils, toxic bio-matter, plastics etc.",paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,72.0,137.9,264.9,153.3,3.1,13.4,37,5,,0.174,False,left,-54.0
+5,Cause of Marine pollution,paragraph,,,2.5,0.6,True,bold; space above,13.9,1.0,True,False,"Times New Roman,Bold",72.0,166.7,232.3,182.1,13.4,12.9,25,4,,0.21,False,left,-54.0
+5,i),paragraph,,,1.0,0.9,False,space above,13.9,1.0,False,False,Times New Roman,90.0,195.0,98.5,210.4,12.9,0.0,2,1,,0.246,False,left,-36.0
+5,"Rivers receive huge amount of sewage, garbage, pesticides, toxic",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,126.1,195.0,543.1,210.4,0.0,3.1,64,9,,0.246,False,left,0.1
+5,chemical from industries ends up in the sea.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,213.5,375.4,228.9,3.1,3.1,44,8,,0.27,False,left,0.1
+5,ii),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,232.0,102.3,247.4,3.1,0.0,3,1,,0.293,False,left,-36.0
+5,"Dumping of radioactive elements, discharge of oils and petroleum",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,126.1,232.0,543.1,247.4,0.0,3.1,64,9,,0.293,False,left,0.1
+5,product into the sea also causes marine pollution.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,250.5,405.6,265.9,3.1,3.0,50,8,,0.316,False,left,0.1
+5,iii),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,268.9,106.2,284.4,3.0,0.0,4,1,,0.34,False,left,-36.0
+5,Large amount of plastic bags dumped into sea also causes marine,paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,126.1,268.9,543.3,284.4,0.0,3.1,63,11,,0.34,False,left,0.1
+5,pollution.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,287.5,183.6,302.9,3.1,3.3,10,1,,0.363,False,left,0.1
+5,iv),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,306.2,105.5,321.6,3.3,0.0,3,1,,0.387,False,left,-36.0
+5,"The waste material from container ships like gases, chemicals, and",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,126.1,306.2,543.1,321.6,0.0,3.1,66,10,,0.387,False,left,0.1
+5,sewage also causes marine pollution.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,324.7,336.7,340.1,3.1,3.0,36,5,,0.41,False,left,0.1
+5,v),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,343.1,101.6,358.5,3.0,0.0,2,1,,0.433,False,left,-36.0
+5,"Greenhouse gases releases from burning of fossil fuel, dissolve in the sea",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,126.1,343.1,543.3,358.5,0.0,3.1,74,12,,0.433,False,left,0.1
+5,water and making sea water more acidic.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,361.6,361.9,377.0,3.1,3.1,39,7,,0.457,False,left,0.1
+5,vi),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,380.1,105.5,395.5,3.1,0.0,3,1,,0.48,False,left,-36.0
+5,Deep sea mining also causes marine pollution.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,380.1,389.8,395.5,0.0,13.4,45,7,,0.48,False,left,0.1
+5,Effect of marine pollution,paragraph,,,2.5,0.6,True,bold; space above,13.9,1.0,True,False,"Times New Roman,Bold",72.0,408.9,229.9,424.3,13.4,12.9,26,4,,0.516,False,left,-54.0
+5,"a)Dumping of sewage, chemicals, organic matters into ocean can results in",paragraph,,,1.0,0.9,False,space above,13.9,1.0,False,False,Times New Roman,90.0,437.2,543.1,452.6,12.9,3.1,73,11,,0.552,False,left,-36.0
+5,"depletion of oxygen. Due to depletion of oxygen, it is hard to survive aquatic",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,108.1,455.7,543.2,471.1,3.1,3.1,78,14,,0.575,False,left,-17.9
+5,plants and animals.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,474.2,219.3,489.6,3.1,3.1,19,3,,0.599,False,left,-17.9
+5,"b)Discharge of oil and petroleum products into the ocean, can block the",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,492.7,543.5,508.1,3.1,3.1,71,12,,0.622,False,left,-36.0
+5,sunlight which is used by aquatic plants for photosynthesis.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,511.2,444.8,526.6,3.1,3.1,60,9,,0.645,False,left,-17.9
+5,"c)Many aquatic animals and marine birds ingest small piece of plastic, causes",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,529.7,543.3,545.1,3.1,3.3,77,12,,0.669,False,left,-36.0
+5,gastro-intestinal disorder and damage the tissue of eggs.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,548.4,425.8,563.8,3.3,3.1,57,8,,0.692,False,left,-17.9
+5,"d)When greenhouse gas like CO2 when dissolve, increase the acidity of sea",paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,566.9,543.3,582.7,3.1,2.7,73,12,,0.716,False,left,-36.0
+5,water ad affect the aquatic plant and animal.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,108.1,585.4,359.8,600.8,2.7,13.4,45,8,,0.739,False,left,-17.9
+5,Control measure for marine pollution,paragraph,,,2.5,0.6,True,bold; space above,13.9,1.0,True,False,"Times New Roman,Bold",72.0,614.2,301.2,629.6,13.4,12.7,36,5,,0.776,False,left,-54.0
+5,i),paragraph,,,1.0,0.9,False,space above,13.9,1.0,False,False,Times New Roman,90.0,642.3,98.5,657.7,12.7,0.0,2,1,,0.811,False,left,-36.0
+5,Waste water must be treated before dumping.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,642.3,387.6,657.7,0.0,3.3,43,7,,0.811,False,left,0.1
+5,ii),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,661.0,102.3,676.4,3.3,0.0,3,1,,0.835,False,left,-36.0
+5,Reduce the use of single use plastic.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,661.0,332.2,676.4,0.0,3.1,37,7,,0.835,False,left,0.1
+5,iii),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,679.5,106.2,694.9,3.1,0.0,4,1,,0.858,False,left,-36.0
+5,To minimize the greenhouse gases use alternative energy resources.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,679.5,509.4,694.9,0.0,3.1,66,9,,0.858,False,left,0.1
+5,iv),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,698.0,105.5,713.4,3.1,0.0,3,1,,0.881,False,left,-36.0
+5,Chemical fertilizers may be replacing by organic fertilizers.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,698.0,464.0,713.4,0.0,0.0,61,8,,0.881,False,left,0.1
+6,v),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,72.3,101.6,87.7,0.0,0.0,2,1,,0.091,True,left,-36.0
+6,Proper monitoring of sea water.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,72.3,307.2,87.7,0.0,3.1,31,5,,0.091,False,left,0.1
+6,vi),paragraph,,,0.0,1.0,False,,13.9,1.0,False,False,Times New Roman,90.0,90.8,105.5,106.2,3.1,0.0,3,1,,0.115,False,left,-36.0
+6,Various campaigns should be done to prohibit marine pollution.,paragraph,,,-2.0,1.0,False,ends like a sentence,13.9,1.0,False,False,Times New Roman,126.1,90.8,487.8,106.2,0.0,0.0,62,9,,0.115,False,left,0.1

@@ -1,0 +1,1069 @@
+[
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "title",
+    "text": "ENVIRONMENTAL MANAGEMENT REVIEW",
+    "runs": [
+      {
+        "text": "ENVIRONMENTAL MANAGEMENT REVIEW"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      113.1,
+      55.8,
+      482.1,
+      80.5
+    ],
+    "id": 0
+  },
+  {
+    "type": "paragraph",
+    "text": "Synthetic report with mixed heading styles and nested technical subsections",
+    "runs": [
+      {
+        "text": "Synthetic report with mixed heading styles and nested technical subsections"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      146.1,
+      92.3,
+      449.2,
+      104.7
+    ],
+    "id": 1
+  },
+  {
+    "type": "paragraph",
+    "role": "field",
+    "label": "Prepared by",
+    "value": "Applied Ecology Lab | Report code: AEL-ENV-2026-11",
+    "text": "Prepared by: Applied Ecology Lab | Report code: AEL-ENV-2026-11",
+    "runs": [
+      {
+        "text": "Prepared by: Applied Ecology Lab | Report code: AEL-ENV-2026-11"
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      123.4,
+      298.8,
+      134.4
+    ],
+    "id": 2
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "section_heading",
+    "text": "Executive Summary",
+    "runs": [
+      {
+        "text": "Executive Summary"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      148.0,
+      199.6,
+      168.6
+    ],
+    "id": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "This fictional environmental assessment describes a desktop review of waste handling and storm-water conditions at a model industrial campus. It is designed to test heading detection where headings are unnumbered, mixed in style and followed by short paragraphs or lists.",
+    "runs": [
+      {
+        "text": "This fictional environmental assessment describes a desktop review of waste handling and storm-water conditions at a"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "model industrial campus. It is designed to test heading detection where headings are unnumbered, mixed in style and"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "followed by short paragraphs or lists."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      175.3,
+      538.3,
+      213.7
+    ],
+    "id": 4
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "section_heading",
+    "text": "Introduction",
+    "runs": [
+      {
+        "text": "Introduction"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      228.0,
+      144.5,
+      248.6
+    ],
+    "id": 5
+  },
+  {
+    "type": "paragraph",
+    "text": "Industrial campuses generate several waste streams and can alter the movement of rainwater across a site. A practical review should consider routine operations, storage practices and the condition of drainage infrastructure.",
+    "runs": [
+      {
+        "text": "Industrial campuses generate several waste streams and can alter the movement of rainwater across a site. A practical"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "review should consider routine operations, storage practices and the condition of drainage infrastructure."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      255.3,
+      538.3,
+      280.7
+    ],
+    "id": 6
+  },
+  {
+    "type": "h3",
+    "level": 3,
+    "role": "section_heading",
+    "text": "Purpose of the assessment",
+    "runs": [
+      {
+        "text": "Purpose of the assessment"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      291.2,
+      213.1,
+      307.7
+    ],
+    "id": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "The purpose is to demonstrate a report structure with major sections, descriptive subheadings and technical notes.",
+    "runs": [
+      {
+        "text": "The purpose is to demonstrate a report structure with major sections, descriptive subheadings and technical notes."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      312.3,
+      513.2,
+      324.7
+    ],
+    "id": 8
+  },
+  {
+    "type": "h3",
+    "level": 3,
+    "role": "section_heading",
+    "text": "Scope and boundaries",
+    "runs": [
+      {
+        "text": "Scope and boundaries"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      335.2,
+      185.7,
+      351.7
+    ],
+    "id": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "The review covers waste segregation, temporary storage, storm-water pathways and basic monitoring recommendations. It does not represent a site inspection or regulatory audit.",
+    "runs": [
+      {
+        "text": "The review covers waste segregation, temporary storage, storm-water pathways and basic monitoring recommendations."
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "It does not represent a site inspection or regulatory audit."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      356.3,
+      538.3,
+      381.7
+    ],
+    "id": 10
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "section_heading",
+    "text": "Site Setting",
+    "runs": [
+      {
+        "text": "Site Setting"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      396.0,
+      139.5,
+      416.6
+    ],
+    "id": 11
+  },
+  {
+    "type": "h3",
+    "level": 3,
+    "role": "section_heading",
+    "text": "Land use around the campus",
+    "runs": [
+      {
+        "text": "Land use around the campus"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      425.2,
+      223.7,
+      441.7
+    ],
+    "id": 12
+  },
+  {
+    "type": "paragraph",
+    "text": "The fictional campus includes a workshop, warehouse, office block, vehicle yard and landscaped buffer.",
+    "runs": [
+      {
+        "text": "The fictional campus includes a workshop, warehouse, office block, vehicle yard and landscaped buffer."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      446.3,
+      469.7,
+      458.7
+    ],
+    "id": 13
+  },
+  {
+    "type": "h3",
+    "level": 3,
+    "role": "section_heading",
+    "text": "Drainage characteristics",
+    "runs": [
+      {
+        "text": "Drainage characteristics"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      469.2,
+      196.4,
+      485.7
+    ],
+    "id": 14
+  },
+  {
+    "type": "h4",
+    "level": 4,
+    "role": "section_heading",
+    "text": "Surface runoff",
+    "runs": [
+      {
+        "text": "Surface runoff"
+      }
+    ],
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      491.3,
+      125.4,
+      505.1
+    ],
+    "id": 15
+  },
+  {
+    "type": "paragraph",
+    "text": "Runoff is assumed to flow from paved areas toward two collection channels before reaching a retention basin.",
+    "runs": [
+      {
+        "text": "Runoff is assumed to flow from paved areas toward two collection channels before reaching a retention basin."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      510.3,
+      493.7,
+      522.7
+    ],
+    "id": 16
+  },
+  {
+    "type": "h4",
+    "level": 4,
+    "role": "section_heading",
+    "text": "Potential ponding locations",
+    "runs": [
+      {
+        "text": "Potential ponding locations"
+      }
+    ],
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      530.3,
+      188.2,
+      544.1
+    ],
+    "id": 17
+  },
+  {
+    "type": "paragraph",
+    "text": "Low points near loading bays and the vehicle yard are included as example locations for inspection.",
+    "runs": [
+      {
+        "text": "Low points near loading bays and the vehicle yard are included as example locations for inspection."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      549.3,
+      453.2,
+      561.7
+    ],
+    "id": 18
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "section_heading",
+    "text": "Environmental Aspects and Potential Impacts",
+    "runs": [
+      {
+        "text": "Environmental Aspects and Potential Impacts"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      576.0,
+      382.9,
+      596.6
+    ],
+    "id": 19
+  },
+  {
+    "type": "h3",
+    "level": 3,
+    "role": "section_heading",
+    "text": "Solid waste management",
+    "runs": [
+      {
+        "text": "Solid waste management"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      605.2,
+      200.4,
+      621.7
+    ],
+    "id": 20
+  },
+  {
+    "type": "h4",
+    "level": 4,
+    "role": "section_heading",
+    "text": "Segregation at source",
+    "runs": [
+      {
+        "text": "Segregation at source"
+      }
+    ],
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      627.3,
+      162.1,
+      641.1
+    ],
+    "id": 21
+  },
+  {
+    "type": "paragraph",
+    "text": "Separate labelled containers are recommended for recyclable packaging, general waste and hazardous materials. Container labels should be legible and consistent.",
+    "runs": [
+      {
+        "text": "Separate labelled containers are recommended for recyclable packaging, general waste and hazardous materials."
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Container labels should be legible and consistent."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      646.3,
+      538.3,
+      671.7
+    ],
+    "id": 22
+  },
+  {
+    "type": "h4",
+    "level": 4,
+    "role": "section_heading",
+    "text": "Temporary storage area",
+    "runs": [
+      {
+        "text": "Temporary storage area"
+      }
+    ],
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      679.3,
+      171.0,
+      693.1
+    ],
+    "id": 23
+  },
+  {
+    "type": "paragraph",
+    "text": "The storage area should have an intact floor, weather protection and access controls appropriate to the materials stored.",
+    "runs": [
+      {
+        "text": "The storage area should have an intact floor, weather protection and access controls appropriate to the materials stored."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      698.3,
+      536.3,
+      710.7
+    ],
+    "id": 24
+  },
+  {
+    "type": "h3",
+    "level": 3,
+    "role": "section_heading",
+    "text": "Water and wastewater",
+    "runs": [
+      {
+        "text": "Water and wastewater"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      721.2,
+      183.1,
+      737.7
+    ],
+    "id": 25
+  },
+  {
+    "type": "h4",
+    "level": 4,
+    "role": "section_heading",
+    "text": "Storm-water contamination pathways",
+    "runs": [
+      {
+        "text": "Storm-water contamination pathways"
+      }
+    ],
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      57.0,
+      743.3,
+      234.8,
+      757.1
+    ],
+    "id": 26
+  },
+  {
+    "type": "paragraph",
+    "text": "Spills, uncovered waste and sediment can be transported by runoff. Routine housekeeping reduces the likelihood of material entering drains.",
+    "runs": [
+      {
+        "text": "Spills, uncovered waste and sediment can be transported by runoff. Routine housekeeping reduces the likelihood of"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "material entering drains."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      57.0,
+      56.3,
+      538.3,
+      81.7
+    ],
+    "id": 27
+  },
+  {
+    "type": "h4",
+    "level": 4,
+    "role": "section_heading",
+    "text": "Monitoring indicators",
+    "runs": [
+      {
+        "text": "Monitoring indicators"
+      }
+    ],
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      57.0,
+      89.3,
+      159.3,
+      103.1
+    ],
+    "id": 28
+  },
+  {
+    "type": "paragraph",
+    "text": "Suggested screening indicators include visible colour, odour, pH, conductivity and suspended solids where suitable equipment is available.",
+    "runs": [
+      {
+        "text": "Suggested screening indicators include visible colour, odour, pH, conductivity and suspended solids where suitable"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "equipment is available."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      57.0,
+      108.3,
+      538.3,
+      133.7
+    ],
+    "id": 29
+  },
+  {
+    "type": "h3",
+    "level": 3,
+    "role": "section_heading",
+    "text": "Air and noise",
+    "runs": [
+      {
+        "text": "Air and noise"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      57.0,
+      144.2,
+      133.0,
+      160.7
+    ],
+    "id": 30
+  },
+  {
+    "type": "paragraph",
+    "text": "Vehicle movement and workshop activity may contribute to dust and noise. Operating hours, maintenance and local barriers can influence exposure.",
+    "runs": [
+      {
+        "text": "Vehicle movement and workshop activity may contribute to dust and noise. Operating hours, maintenance and local"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "barriers can influence exposure."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      57.0,
+      165.3,
+      538.3,
+      190.7
+    ],
+    "id": 31
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "section_heading",
+    "text": "Recommended Management Measures",
+    "runs": [
+      {
+        "text": "Recommended Management Measures"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      57.0,
+      205.0,
+      333.8,
+      225.6
+    ],
+    "id": 32
+  },
+  {
+    "type": "h3",
+    "level": 3,
+    "role": "section_heading",
+    "text": "Immediate actions",
+    "runs": [
+      {
+        "text": "Immediate actions"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      57.0,
+      234.2,
+      161.7,
+      250.7
+    ],
+    "id": 33
+  },
+  {
+    "type": "paragraph",
+    "text": "Inspect drain inlets, cover stored materials, refresh waste labels and record any damaged containers.",
+    "runs": [
+      {
+        "text": "Inspect drain inlets, cover stored materials, refresh waste labels and record any damaged containers."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      57.0,
+      255.3,
+      459.7,
+      267.7
+    ],
+    "id": 34
+  },
+  {
+    "type": "h3",
+    "level": 3,
+    "role": "section_heading",
+    "text": "Medium-term improvements",
+    "runs": [
+      {
+        "text": "Medium-term improvements"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      57.0,
+      278.2,
+      217.7,
+      294.7
+    ],
+    "id": 35
+  },
+  {
+    "type": "paragraph",
+    "text": "Introduce a monthly inspection checklist, maintain a spill-response kit and train staff responsible for waste handling.",
+    "runs": [
+      {
+        "text": "Introduce a monthly inspection checklist, maintain a spill-response kit and train staff responsible for waste handling."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      57.0,
+      299.3,
+      515.7,
+      311.7
+    ],
+    "id": 36
+  },
+  {
+    "type": "h3",
+    "level": 3,
+    "role": "section_heading",
+    "text": "Monitoring and review",
+    "runs": [
+      {
+        "text": "Monitoring and review"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      57.0,
+      322.2,
+      184.4,
+      338.7
+    ],
+    "id": 37
+  },
+  {
+    "type": "paragraph",
+    "text": "Assign an owner to each action and record completion dates. Review recurring observations quarterly.",
+    "runs": [
+      {
+        "text": "Assign an owner to each action and record completion dates. Review recurring observations quarterly."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      57.0,
+      343.3,
+      464.2,
+      355.7
+    ],
+    "id": 38
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "section_heading",
+    "text": "Conclusion",
+    "runs": [
+      {
+        "text": "Conclusion"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      57.0,
+      370.0,
+      138.7,
+      390.6
+    ],
+    "id": 39
+  },
+  {
+    "type": "paragraph",
+    "text": "The sample illustrates an environmental report with both conventional numbered-style hierarchy and plain-language headings. Real assessments require verified site data and qualified review.",
+    "runs": [
+      {
+        "text": "The sample illustrates an environmental report with both conventional numbered-style hierarchy and plain-language"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "headings. Real assessments require verified site data and qualified review."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      57.0,
+      397.3,
+      538.3,
+      422.7
+    ],
+    "id": 40
+  },
+  {
+    "type": "paragraph",
+    "role": "field",
+    "label": "Appendix A",
+    "value": "Example Inspection Checklist",
+    "text": "Appendix A: Example Inspection Checklist",
+    "runs": [
+      {
+        "text": "Appendix A: Example Inspection Checklist"
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      57.0,
+      437.0,
+      361.3,
+      457.6
+    ],
+    "id": 41
+  },
+  {
+    "type": "table",
+    "bbox": [
+      57.0,
+      465.0,
+      476.6,
+      560.0
+    ],
+    "header": [
+      "Inspection item",
+      "Status",
+      "Comment"
+    ],
+    "rows": [
+      [
+        "Waste labels",
+        "To verify",
+        "Check all bins"
+      ],
+      [
+        "Drain covers",
+        "To verify",
+        "Inspect after rainfall"
+      ],
+      [
+        "Spill kit",
+        "To verify",
+        "Confirm contents"
+      ],
+      [
+        "Storage floor",
+        "To verify",
+        "Look for cracks"
+      ]
+    ],
+    "page": 2,
+    "id": 42
+  },
+  {
+    "type": "paragraph",
+    "role": "field",
+    "label": "Appendix B",
+    "value": "Abbreviations",
+    "text": "Appendix B: Abbreviations",
+    "runs": [
+      {
+        "text": "Appendix B: Abbreviations"
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      57.0,
+      580.0,
+      249.5,
+      600.6
+    ],
+    "id": 43
+  },
+  {
+    "type": "paragraph",
+    "text": "EHS — Environment, Health and Safety SOP — Standard Operating Procedure TSS — Total Suspended Solids",
+    "runs": [
+      {
+        "text": "EHS — Environment, Health and Safety"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "SOP — Standard Operating Procedure"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "TSS — Total Suspended Solids"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      57.0,
+      607.3,
+      216.6,
+      645.7
+    ],
+    "id": 44
+  }
+]

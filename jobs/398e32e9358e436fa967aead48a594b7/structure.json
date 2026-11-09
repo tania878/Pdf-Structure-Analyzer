@@ -1,0 +1,331 @@
+[
+  {
+    "type": "image",
+    "src": "images/p1_img0.png",
+    "bbox": [
+      78.0,
+      66.0,
+      198.0,
+      106.0
+    ],
+    "page": 1,
+    "id": 0
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "title",
+    "text": "PURCHASE ORDER",
+    "runs": [
+      {
+        "text": "PURCHASE ORDER"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      212.1,
+      114.7,
+      383.1,
+      139.5
+    ],
+    "id": 1
+  },
+  {
+    "type": "paragraph",
+    "role": "field",
+    "label": "PO Number",
+    "value": "PO-2026-0042",
+    "text": "PO Number: PO-2026-0042",
+    "runs": [
+      {
+        "text": "PO Number: PO-2026-0042"
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      78.0,
+      143.2,
+      326.0,
+      157.6
+    ],
+    "id": 2
+  },
+  {
+    "type": "paragraph",
+    "role": "field",
+    "label": "Date",
+    "value": "15 January 2026",
+    "text": "Date: 15 January 2026",
+    "runs": [
+      {
+        "text": "Date: 15 January 2026"
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      78.0,
+      143.2,
+      326.0,
+      157.6
+    ],
+    "id": 3
+  },
+  {
+    "type": "paragraph",
+    "role": "field",
+    "label": "Vendor",
+    "value": "Acme Pvt Ltd, 12 Main Street, Chennai",
+    "text": "Vendor: Acme Pvt Ltd, 12 Main Street, Chennai",
+    "runs": [
+      {
+        "text": "Vendor: Acme Pvt Ltd, 12 Main Street, Chennai"
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      78.0,
+      157.2,
+      299.2,
+      171.6
+    ],
+    "id": 4
+  },
+  {
+    "type": "paragraph",
+    "role": "field",
+    "label": "Ship To",
+    "value": "Beta Corp, 99 Park Avenue, Mumbai",
+    "text": "Ship To: Beta Corp, 99 Park Avenue, Mumbai",
+    "runs": [
+      {
+        "text": "Ship To: Beta Corp, 99 Park Avenue, Mumbai"
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      78.0,
+      171.2,
+      291.0,
+      185.6
+    ],
+    "id": 5
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "clause_heading",
+    "text": "1. Order Details",
+    "runs": [
+      {
+        "text": "1. Order Details"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      78.0,
+      194.9,
+      196.3,
+      216.9
+    ],
+    "id": 6
+  },
+  {
+    "type": "table",
+    "bbox": [
+      70.1,
+      224.0,
+      525.1,
+      314.0
+    ],
+    "header": [
+      "Item",
+      "Description",
+      "Qty",
+      "Unit Price",
+      "Total"
+    ],
+    "rows": [
+      [
+        "A-101",
+        "Laptop 14 inch",
+        "5",
+        "800.00",
+        "4000.00"
+      ],
+      [
+        "B-205",
+        "Wireless Mouse",
+        "10",
+        "15.00",
+        "150.00"
+      ],
+      [
+        "C-310",
+        "USB-C Dock",
+        "5",
+        "60.00",
+        "300.00"
+      ],
+      [
+        "",
+        "",
+        "",
+        "Total",
+        "4450.00"
+      ]
+    ],
+    "page": 1,
+    "id": 7
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "clause_heading",
+    "text": "2. Terms and Conditions",
+    "runs": [
+      {
+        "text": "2. Terms and Conditions"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      78.0,
+      322.9,
+      264.7,
+      344.9
+    ],
+    "id": 8
+  },
+  {
+    "type": "h3",
+    "level": 3,
+    "role": "clause_heading",
+    "text": "2.1 Delivery",
+    "runs": [
+      {
+        "text": "2.1 Delivery"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      78.0,
+      357.1,
+      150.3,
+      375.0
+    ],
+    "id": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "Goods must be delivered within 14 days of this order. The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement.",
+    "runs": [
+      {
+        "text": "Goods must be delivered within 14 days of this order. The parties agree to perform their"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "obligations in good faith and in accordance with the terms set out in this Agreement."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      78.0,
+      381.2,
+      484.8,
+      409.6
+    ],
+    "id": 10
+  },
+  {
+    "type": "h3",
+    "level": 3,
+    "role": "clause_heading",
+    "text": "2.2 Payment",
+    "runs": [
+      {
+        "text": "2.2 Payment"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      78.0,
+      421.1,
+      153.9,
+      439.0
+    ],
+    "id": 11
+  },
+  {
+    "type": "paragraph",
+    "text": "Payment within 30 days of invoice. Questions: orders@example.com",
+    "runs": [
+      {
+        "text": "Payment within 30 days of invoice. Questions: "
+      },
+      {
+        "text": "orders@example.com",
+        "uri": "mailto:orders@example.com"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      78.0,
+      445.2,
+      397.9,
+      459.6
+    ],
+    "id": 12
+  },
+  {
+    "type": "paragraph",
+    "role": "signature",
+    "text": "Authorized Signature: ____________________",
+    "runs": [
+      {
+        "text": "Authorized Signature: ____________________"
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      78.0,
+      479.2,
+      298.6,
+      493.6
+    ],
+    "id": 13
+  }
+]

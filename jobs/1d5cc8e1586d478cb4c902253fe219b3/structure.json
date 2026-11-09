@@ -1,0 +1,2409 @@
+[
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "title",
+    "text": "MASTER SERVICESAGREEMENT",
+    "runs": [
+      {
+        "text": "MASTER SERVICESAGREEMENT"
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      132.4,
+      54.5,
+      338.8,
+      65.6
+    ],
+    "id": 0
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "section_heading",
+    "text": "Fictional sample for OCR, PDF extraction and document-structure testing",
+    "runs": [
+      {
+        "text": "Fictional sample for OCR, PDF extraction and document-structure testing"
+      }
+    ],
+    "confidence": 0.6,
+    "needs_review": true,
+    "page": 1,
+    "bbox": [
+      119.0,
+      74.0,
+      351.9,
+      83.4
+    ],
+    "id": 1
+  },
+  {
+    "type": "paragraph",
+    "role": "field",
+    "label": "Effective Date",
+    "value": "1 November 2026",
+    "text": "Effective Date: 1 November 2026",
+    "runs": [
+      {
+        "text": "Effective Date: 1 November 2026"
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      53.3,
+      93.8,
+      155.5,
+      101.6
+    ],
+    "id": 2
+  },
+  {
+    "type": "paragraph",
+    "role": "field",
+    "label": "Reference",
+    "value": "MSA-2026-1048",
+    "text": "Reference: MSA-2026-1048",
+    "runs": [
+      {
+        "text": "Reference: MSA-2026-1048"
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      53.3,
+      104.6,
+      140.1,
+      112.3
+    ],
+    "id": 3
+  },
+  {
+    "type": "paragraph",
+    "role": "field",
+    "label": "Client",
+    "value": "Northstar Retail Solutions Private Limited, 42 Lake View Road, Coimbatore, Tamil Nadu 641018, India",
+    "text": "Client: Northstar Retail Solutions Private Limited, 42 Lake View Road, Coimbatore, Tamil Nadu 641018, India",
+    "runs": [
+      {
+        "text": "Client: Northstar Retail Solutions Private Limited, 42 Lake View Road, Coimbatore, Tamil Nadu 641018, India"
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      53.6,
+      120.1,
+      382.7,
+      127.8
+    ],
+    "id": 4
+  },
+  {
+    "type": "paragraph",
+    "text": "Service Provider: Blue Oak Digital Systems Private Limited, 18 Crescent Avenue, Bengaluru, Karnataka 560001, India",
+    "runs": [
+      {
+        "text": "Service Provider: Blue Oak Digital Systems Private Limited, 18 Crescent Avenue, Bengaluru, Karnataka 560001, India"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.6,
+    "needs_review": true,
+    "page": 1,
+    "bbox": [
+      52.6,
+      134.2,
+      407.5,
+      143.3
+    ],
+    "id": 5
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "IMPORTANT NOTICE",
+    "runs": [
+      {
+        "text": "IMPORTANT NOTICE"
+      }
+    ],
+    "confidence": 0.6,
+    "needs_review": true,
+    "page": 1,
+    "bbox": [
+      52.9,
+      151.7,
+      141.8,
+      160.4
+    ],
+    "id": 6
+  },
+  {
+    "type": "paragraph",
+    "text": "This is a fictional sample created solely for software testing. All parties, addresses, dates, amounts and terms are invented. It is not legal advice and must not be used as a real agreement.",
+    "runs": [
+      {
+        "text": "This is a fictional sample created solely for software testing. All parties, addresses, dates, amounts and terms are invented. It is not legal advice"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "and must not be used as a real agreement."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      52.9,
+      167.1,
+      417.6,
+      182.9
+    ],
+    "id": 7
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "RECITALS",
+    "runs": [
+      {
+        "text": "RECITALS"
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      52.9,
+      189.3,
+      98.5,
+      198.4
+    ],
+    "id": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "The Client wishes to engage the Service Provider to design, configure and support a document workflow platform. The Service Provider states that it has the personnel and technical capability to perform the Services. The parties agree as follows:",
+    "runs": [
+      {
+        "text": "The Client wishes to engage the Service Provider to design, configure and support a document workflow platform. The Service Provider states"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "that it has the personnel and technical capability to perform the Services. The parties agree as follows:"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      52.6,
+      204.1,
+      417.2,
+      220.6
+    ],
+    "id": 9
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "1.DEFINITIONS AND INTERPRETATION",
+    "runs": [
+      {
+        "text": "1.DEFINITIONS AND INTERPRETATION"
+      }
+    ],
+    "confidence": 0.6,
+    "needs_review": true,
+    "page": 1,
+    "bbox": [
+      53.3,
+      227.7,
+      219.5,
+      236.4
+    ],
+    "id": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "1.1 Definitions. In this Agreement, unless the context requires otherwise, \"Business Day\" means a day other than Saturday, Sunday or a public holiday in the place where the relevant obligation is to be performed; \"Confidential Information\" means information described in Clause 8; \"Deliverables\" means the work products identified in Schedule A; \"Services\" means the r,   t    o s ns ,   s  es means the amounts payable under Clause 5.",
+    "runs": [
+      {
+        "text": "1.1 Definitions. In this Agreement, unless the context requires otherwise, \"Business Day\" means a day other than Saturday,"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Sunday or a public holiday in the place where the relevant obligation is to be performed; \"Confidential Information\" means"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "information described in Clause 8; \"Deliverables\" means the work products identified in Schedule A; \"Services\" means the"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "r,   t    o s ns ,   s  es"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "means the amounts payable under Clause 5."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      52.9,
+      243.1,
+      418.6,
+      291.2
+    ],
+    "id": 11
+  },
+  {
+    "type": "paragraph",
+    "text": "1.2 Interpretation. References to a person include an individual, company, partnership, government authority or other legal entity. The words \"including\" and \"in particular\" shall be construed without limitation. Headings are inserted for convenience and shall not affect interpretation. A reference to a clause or schedule is a reference to a clause or schedule of this Agreement.",
+    "runs": [
+      {
+        "text": "1.2 Interpretation. References to a person include an individual, company, partnership, government authority or other legal"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "entity. The words \"including\" and \"in particular\" shall be construed without limitation. Headings are inserted for"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "convenience and shall not affect interpretation. A reference to a clause or schedule is a reference to a clause or schedule of"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "this Agreement."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      53.3,
+      297.6,
+      418.2,
+      336.3
+    ],
+    "id": 12
+  },
+  {
+    "type": "paragraph",
+    "text": "1.3 Order of precedence. If there is an inconsistency between the main body of this Agreement and a schedule, the main body shall prevail unless the schedule expressly states that it overrides the relevant clause. Any change to this order must be recorded in a written amendment signed by authorised representatives of both parties.",
+    "runs": [
+      {
+        "text": "1.3 Order of precedence. If there is an inconsistency between the main body of this Agreement and a schedule, the main body"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "shall prevail unless the schedule expressly states that it overrides the relevant clause. Any change to this order must be"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "recorded in a written amendment signed by authorised representatives of both parties."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      52.6,
+      341.7,
+      417.9,
+      370.6
+    ],
+    "id": 13
+  },
+  {
+    "type": "paragraph",
+    "text": "SAMPLE CONTRACT —FOR TESTING ONLY—NOT LEGAL ADVICE",
+    "runs": [
+      {
+        "text": "SAMPLE CONTRACT —FOR TESTING ONLY—NOT LEGAL ADVICE"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      48.6,
+      629.9,
+      250.3,
+      636.6
+    ],
+    "id": 14
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "clause_heading",
+    "text": "2. SCOPE OF SERVICES",
+    "runs": [
+      {
+        "text": "2. SCOPE OF SERVICES"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      53.3,
+      41.4,
+      155.8,
+      50.4
+    ],
+    "id": 15
+  },
+  {
+    "type": "paragraph",
+    "text": "2.1 Appointment. The Client appoints the Service Provider to perform the Services, and the Service Provider accepts the appointment, on the terms of this Agreement. The Service Provider shall perform the Services with reasonable skill, care and diligence consistent with generally accepted professional standards.",
+    "runs": [
+      {
+        "text": "2.1 Appointment. The Client appoints the Service Provider to perform the Services, and the Service Provider accepts the"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "appointment, on the terms of this Agreement. The Service Provider shall perform the Services with reasonable skill, care"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "and diligence consistent with generally accepted professional standards."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      52.3,
+      56.5,
+      418.6,
+      85.8
+    ],
+    "id": 16
+  },
+  {
+    "type": "h3",
+    "level": 3,
+    "role": "clause_heading",
+    "text": "2.2 Project activities. The Services include requirements workshops, workflow mapping, configuration of the document intake",
+    "runs": [
+      {
+        "text": "2.2 Project activities. The Services include requirements workshops, workflow mapping, configuration of the document intake"
+      }
+    ],
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      52.9,
+      91.5,
+      418.6,
+      100.2
+    ],
+    "id": 17
+  },
+  {
+    "type": "paragraph",
+    "text": "oir ons -o t Dlit t st Dt  rt oons o ld activities, milestones and assumptions are set out in Schedule A.",
+    "runs": [
+      {
+        "text": "oir ons -o t Dlit t st Dt  rt oons o ld"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "activities, milestones and assumptions are set out in Schedule A."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      62.3,
+      101.6,
+      418.6,
+      119.7
+    ],
+    "id": 18
+  },
+  {
+    "type": "paragraph",
+    "text": "2.3 Out-of-scope work. Any work not expressly included in Schedule A is outside the scope of the Services. The parties may agree additional work through a change request under Clause 4. The Service Provider is not required to begin out-of-scope work until the change request has been approved in writing.",
+    "runs": [
+      {
+        "text": "2.3 Out-of-scope work. Any work not expressly included in Schedule A is outside the scope of the Services. The parties may"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "agree additional work through a change request under Clause 4. The Service Provider is not required to begin out-of-scope"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "work until the change request has been approved in writing."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      52.6,
+      125.4,
+      418.2,
+      154.7
+    ],
+    "id": 19
+  },
+  {
+    "type": "paragraph",
+    "text": "2.4 Client dependencies. The Client shall provide timely access to relevant personnel, systems, sample documents, business rules and decisions. The Service Provider shall notify the Client promptly if a dependency is likely to affect a milestone or the quality of a Deliverable.",
+    "runs": [
+      {
+        "text": "2.4 Client dependencies. The Client shall provide timely access to relevant personnel, systems, sample documents, business"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "rules and decisions. The Service Provider shall notify the Client promptly if a dependency is likely to affect a milestone or"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "the quality of a Deliverable."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      52.6,
+      160.1,
+      418.2,
+      189.0
+    ],
+    "id": 20
+  },
+  {
+    "type": "paragraph",
+    "text": "SAMPLE CONTRACT — FOR TESTING ONLY—NOT LEGAL ADVICE",
+    "runs": [
+      {
+        "text": "SAMPLE CONTRACT — FOR TESTING ONLY—NOT LEGAL ADVICE"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      48.3,
+      629.5,
+      250.7,
+      637.3
+    ],
+    "id": 21
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "clause_heading",
+    "text": "3. PROJECT GOVERNANCE AND MILESTONES",
+    "runs": [
+      {
+        "text": "3. PROJECT GOVERNANCE AND MILESTONES"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 3,
+    "bbox": [
+      52.6,
+      41.0,
+      251.0,
+      50.8
+    ],
+    "id": 22
+  },
+  {
+    "type": "paragraph",
+    "text": "3.1 Project leads. Each party shall appoint a project lead with authority to coordinate day-to-day matters. The initial project leads shall be nominated within five Business Days after the Effective Date. Either party may replace its project lead by written notice.",
+    "runs": [
+      {
+        "text": "3.1 Project leads. Each party shall appoint a project lead with authority to coordinate day-to-day matters. The initial project"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "leads shall be nominated within five Business Days after the Effective Date. Either party may replace its project lead by"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "written notice."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 3,
+    "bbox": [
+      52.3,
+      56.5,
+      418.6,
+      85.1
+    ],
+    "id": 23
+  },
+  {
+    "type": "paragraph",
+    "text": "3.2 Status meetings. The project leads shall meet at least once each week during active implementation. The Service Provider shall provide a concise status report identifying completed work, upcoming activities, open issues, risks and decisions required from the Client.",
+    "runs": [
+      {
+        "text": "3.2 Status meetings. The project leads shall meet at least once each week during active implementation. The Service Provider"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "shall provide a concise status report identifying completed work, upcoming activities, open issues, risks and decisions"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "required from the Client."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 3,
+    "bbox": [
+      52.6,
+      91.5,
+      418.9,
+      120.4
+    ],
+    "id": 24
+  },
+  {
+    "type": "paragraph",
+    "text": "3.3 Indicative timetable. The parties currently anticipate a ten-week implementation period. The timetable is indicative and depends on timely completion of Client dependencies, approval of requirements and availability of test environments. A revised timetable shall be documented if a material dependency changes.",
+    "runs": [
+      {
+        "text": "3.3 Indicative timetable. The parties currently anticipate a ten-week implementation period. The timetable is indicative and"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "depends on timely completion of Client dependencies, approval of requirements and availability of test environments. A"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "revised timetable shall be documented if a material dependency changes."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 3,
+    "bbox": [
+      52.3,
+      125.4,
+      418.6,
+      154.7
+    ],
+    "id": 25
+  },
+  {
+    "type": "paragraph",
+    "text": "3.4 Escalation. A project issue not resolved by the project leads within three Business Days shall be escalated to the parties' nominated senior representatives. Those representatives shall meet or confer in good faith and seek a practical resolution.",
+    "runs": [
+      {
+        "text": "3.4 Escalation. A project issue not resolved by the project leads within three Business Days shall be escalated to the parties'"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "nominated senior representatives. Those representatives shall meet or confer in good faith and seek a practical resolution."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 3,
+    "bbox": [
+      52.3,
+      160.1,
+      417.6,
+      178.9
+    ],
+    "id": 26
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "clause_heading",
+    "text": "4. CHANGE CONTROL AND ACCEPTANCE",
+    "runs": [
+      {
+        "text": "4. CHANGE CONTROL AND ACCEPTANCE"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 4,
+    "bbox": [
+      52.9,
+      41.0,
+      232.6,
+      50.8
+    ],
+    "id": 27
+  },
+  {
+    "type": "paragraph",
+    "text": "i s  s ns st s  i  so s   s i nh. proposing party shall describe the requested change, its business reason and any known impact. The Service Provider shall assess the likely effect on effort, cost, dependencies and delivery dates.",
+    "runs": [
+      {
+        "text": "i s  s ns st s  i  so s   s i nh."
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "proposing party shall describe the requested change, its business reason and any known impact. The Service Provider shall"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "assess the likely effect on effort, cost, dependencies and delivery dates."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 4,
+    "bbox": [
+      52.6,
+      56.8,
+      418.6,
+      85.8
+    ],
+    "id": 28
+  },
+  {
+    "type": "paragraph",
+    "text": "4.2 Approval. A change shall take effect only when recorded in a change request signed or otherwise expressly approved in writing by authorised representatives of both parties. Project meeting notes alone shall not amend this Agreement unless they clearly identify the amendment and are approved by both parties.",
+    "runs": [
+      {
+        "text": "4.2 Approval. A change shall take effect only when recorded in a change request signed or otherwise expressly approved in"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "writing by authorised representatives of both parties. Project meeting notes alone shall not amend this Agreement unless"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "they clearly identify the amendment and are approved by both parties."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 4,
+    "bbox": [
+      52.6,
+      91.1,
+      418.6,
+      120.1
+    ],
+    "id": 29
+  },
+  {
+    "type": "paragraph",
+    "text": "4.3 Delivery review. The Client shall review each Deliverable within seven Business Days after receipt and shall either accept it or provide a written list of material non-conformities against the agreed requirements. The Service Provider shall use reasonable efforts to correct substantiated non-conformities and resubmit the Deliverable.",
+    "runs": [
+      {
+        "text": "4.3 Delivery review. The Client shall review each Deliverable within seven Business Days after receipt and shall either accept"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "it or provide a written list of material non-conformities against the agreed requirements. The Service Provider shall use"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "reasonable efforts to correct substantiated non-conformities and resubmit the Deliverable."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 4,
+    "bbox": [
+      52.6,
+      125.4,
+      418.6,
+      153.7
+    ],
+    "id": 30
+  },
+  {
+    "type": "paragraph",
+    "text": "4.4 Deemed acceptance. If the Client does not provide an acceptance notice or a sufficiently detailed rejection notice within the review period, the Deliverable shall be treated as accepted. Use of a Deliverable in a live production environment shall also constitute acceptance, except for defects notified before such use.",
+    "runs": [
+      {
+        "text": "4.4 Deemed acceptance. If the Client does not provide an acceptance notice or a sufficiently detailed rejection notice within"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "the review period, the Deliverable shall be treated as accepted. Use of a Deliverable in a live production environment shall"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "also constitute acceptance, except for defects notified before such use."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 4,
+    "bbox": [
+      52.6,
+      160.1,
+      418.2,
+      188.7
+    ],
+    "id": 31
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "clause_heading",
+    "text": "5. FEES, INVOICING AND PAYMENT",
+    "runs": [
+      {
+        "text": "5. FEES, INVOICING AND PAYMENT"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 5,
+    "bbox": [
+      52.6,
+      41.0,
+      204.4,
+      50.8
+    ],
+    "id": 32
+  },
+  {
+    "type": "paragraph",
+    "text": "5.1 Fees. The total fixed implementation fee is INR 12,50,000 (Indian Rupees Twelve Lakh Fifty Thousand only), exclusive of applicable taxes. Any approved change request may result in additional fees. Recurring support fees, if any, shall be agreed separately in writing.",
+    "runs": [
+      {
+        "text": "5.1 Fees. The total fixed implementation fee is INR 12,50,000 (Indian Rupees Twelve Lakh Fifty Thousand only), exclusive of"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "applicable taxes. Any approved change request may result in additional fees. Recurring support fees, if any, shall be agreed"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "separately in writing."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 5,
+    "bbox": [
+      52.6,
+      57.2,
+      418.9,
+      86.1
+    ],
+    "id": 33
+  },
+  {
+    "type": "paragraph",
+    "text": "5.2 Milestone invoices. The Service Provider may invoice 20% on project commencement, 30% on approval of the solution design, 30% on delivery of the configured platform and 20% on final acceptance. Each invoice shall identify the relevant milestone and applicable taxes.",
+    "runs": [
+      {
+        "text": "5.2 Milestone invoices. The Service Provider may invoice 20% on project commencement, 30% on approval of the solution"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "design, 30% on delivery of the configured platform and 20% on final acceptance. Each invoice shall identify the relevant"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "milestone and applicable taxes."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 5,
+    "bbox": [
+      52.6,
+      91.5,
+      418.6,
+      120.1
+    ],
+    "id": 34
+  },
+  {
+    "type": "paragraph",
+    "text": "5.3 Payment period. The Client shall pay undisputed invoices within thirty calendar days after receipt. If the Client disputes an invoice in good faith, it shall notify the Service Provider within ten Business Days, provide reasons and pay the undisputed portion by the due date.",
+    "runs": [
+      {
+        "text": "5.3 Payment period. The Client shall pay undisputed invoices within thirty calendar days after receipt. If the Client disputes an"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "invoice in good faith, it shall notify the Service Provider within ten Business Days, provide reasons and pay the undisputed"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "portion by the due date."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 5,
+    "bbox": [
+      52.6,
+      125.8,
+      418.6,
+      154.7
+    ],
+    "id": 35
+  },
+  {
+    "type": "paragraph",
+    "text": "5.4 Late payment. Undisputed amounts not paid when due may accrue simple interest at 1% per month or the maximum rate permitted by applicable law, whichever is lower. The Service Provider shall provide written notice and a further ten Business Days to cure before suspending affected Services for non-payment.",
+    "runs": [
+      {
+        "text": "5.4 Late payment. Undisputed amounts not paid when due may accrue simple interest at 1% per month or the maximum rate"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "permitted by applicable law, whichever is lower. The Service Provider shall provide written notice and a further ten"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Business Days to cure before suspending affected Services for non-payment."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 5,
+    "bbox": [
+      52.9,
+      160.7,
+      418.2,
+      189.3
+    ],
+    "id": 36
+  },
+  {
+    "type": "paragraph",
+    "text": "SAMPLE CONTRACT —FOR TESTING ONLY—NOT LEGAL ADVICE",
+    "runs": [
+      {
+        "text": "SAMPLE CONTRACT —FOR TESTING ONLY—NOT LEGAL ADVICE"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 5,
+    "bbox": [
+      48.3,
+      629.5,
+      250.7,
+      637.3
+    ],
+    "id": 37
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "clause_heading",
+    "text": "6. REPRESENTATIONS, WARRANTIES AND SUPPORT",
+    "runs": [
+      {
+        "text": "6. REPRESENTATIONS, WARRANTIES AND SUPPORT"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 6,
+    "bbox": [
+      52.6,
+      41.0,
+      280.8,
+      50.8
+    ],
+    "id": 38
+  },
+  {
+    "type": "paragraph",
+    "text": "6.1 Mutual authority. Each party represents that it is duly organised and has authority to enter into this Agreement. Each signatory represents that they are authorised to sign on behalf of the party identified below.",
+    "runs": [
+      {
+        "text": "6.1 Mutual authority. Each party represents that it is duly organised and has authority to enter into this Agreement. Each"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "signatory represents that they are authorised to sign on behalf of the party identified below."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 6,
+    "bbox": [
+      52.3,
+      56.8,
+      418.2,
+      75.7
+    ],
+    "id": 39
+  },
+  {
+    "type": "paragraph",
+    "text": "6.2 Service warranty. The Service Provider warrants that it shall perform the Services in a professional and workmanlike manner and that, for thirty days after acceptance, the Deliverables will materially conform to the written specifications agreed by the parties.",
+    "runs": [
+      {
+        "text": "6.2 Service warranty. The Service Provider warrants that it shall perform the Services in a professional and workmanlike"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "manner and that, for thirty days after acceptance, the Deliverables will materially conform to the written specifications"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "agreed by the parties."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 6,
+    "bbox": [
+      52.9,
+      81.7,
+      418.6,
+      110.6
+    ],
+    "id": 40
+  },
+  {
+    "type": "paragraph",
+    "text": "6.3 Remedy. For a substantiated breach of the service warranty, the Service Provider shall, at its option, re-perform the affected Services or correct the affected Deliverable. This remedy is the Client's exclusive remedy for breach of the warranty in Clause 6.2, subject to non-excludable rights under applicable law.",
+    "runs": [
+      {
+        "text": "6.3 Remedy. For a substantiated breach of the service warranty, the Service Provider shall, at its option, re-perform the"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "affected Services or correct the affected Deliverable. This remedy is the Client's exclusive remedy for breach of the"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "warranty in Clause 6.2, subject to non-excludable rights under applicable law."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 6,
+    "bbox": [
+      52.6,
+      116.4,
+      418.6,
+      144.9
+    ],
+    "id": 41
+  },
+  {
+    "type": "paragraph",
+    "text": "6.4 Support. During the agreed support period, the Service Provider shall acknowledge critical incidents within four business hours and high-priority incidents within one Business Day. Response times are targets for acknowledgement and do not guarantee resolution within the same period.",
+    "runs": [
+      {
+        "text": "6.4 Support. During the agreed support period, the Service Provider shall acknowledge critical incidents within four business"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "hours and high-priority incidents within one Business Day. Response times are targets for acknowledgement and do not"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "guarantee resolution within the same period."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 6,
+    "bbox": [
+      53.3,
+      151.0,
+      418.2,
+      179.6
+    ],
+    "id": 42
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "clause_heading",
+    "text": "7. INTELLECTUAL PROPERTY AND DATA",
+    "runs": [
+      {
+        "text": "7. INTELLECTUAL PROPERTY AND DATA"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 7,
+    "bbox": [
+      52.9,
+      41.4,
+      227.9,
+      50.1
+    ],
+    "id": 43
+  },
+  {
+    "type": "paragraph",
+    "text": "7.1 Client materials. The Client retains all rights in documents, data, trademarks and materials supplied by or on behalf of the Client. The Client grants the Service Provider a limited, non-exclusive right to use those materials solely to perform the Services.",
+    "runs": [
+      {
+        "text": "7.1 Client materials. The Client retains all rights in documents, data, trademarks and materials supplied by or on behalf of the"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Client. The Client grants the Service Provider a limited, non-exclusive right to use those materials solely to perform the"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Services."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 7,
+    "bbox": [
+      52.9,
+      57.2,
+      418.2,
+      85.8
+    ],
+    "id": 44
+  },
+  {
+    "type": "paragraph",
+    "text": "7.2 Deliverables. Upon payment of all undisputed Fees due for the relevant Deliverable, the Service Provider assigns to the Client the intellectual property rights in bespoke Deliverables created specifically for the Client under this Agreement, excluding Background Materials.",
+    "runs": [
+      {
+        "text": "7.2 Deliverables. Upon payment of all undisputed Fees due for the relevant Deliverable, the Service Provider assigns to the"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Client the intellectual property rights in bespoke Deliverables created specifically for the Client under this Agreement,"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "excluding Background Materials."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 7,
+    "bbox": [
+      52.3,
+      90.8,
+      418.2,
+      119.7
+    ],
+    "id": 45
+  },
+  {
+    "type": "h3",
+    "level": 3,
+    "role": "clause_heading",
+    "text": "7.3 Background Materials. The Service Provider retains ownership of tools, templates, methods, know-how, software",
+    "runs": [
+      {
+        "text": "7.3 Background Materials. The Service Provider retains ownership of tools, templates, methods, know-how, software"
+      }
+    ],
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 7,
+    "bbox": [
+      52.6,
+      125.4,
+      418.6,
+      134.5
+    ],
+    "id": 46
+  },
+  {
+    "type": "paragraph",
+    "text": "components and materials developed independently of this Project or used generally in its business. To the extent embedded in a Deliverable, the Service Provider grants the Client a perpetual, worldwide, non-exclusive licence to use those Background Materials as part of that Deliverable.",
+    "runs": [
+      {
+        "text": "components and materials developed independently of this Project or used generally in its business. To the extent embedded"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "in a Deliverable, the Service Provider grants the Client a perpetual, worldwide, non-exclusive licence to use those"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Background Materials as part of that Deliverable."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 7,
+    "bbox": [
+      61.7,
+      135.5,
+      418.6,
+      164.4
+    ],
+    "id": 47
+  },
+  {
+    "type": "paragraph",
+    "text": "7.4 Data handling. Each party shall comply with applicable data protection and information security laws. The Service Provider shall use Client data only for the Services, restrict access to personnel who need it and apply reasonable technical and organisational safeguards.",
+    "runs": [
+      {
+        "text": "7.4 Data handling. Each party shall comply with applicable data protection and information security laws. The Service"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Provider shall use Client data only for the Services, restrict access to personnel who need it and apply reasonable technical"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "and organisational safeguards."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 7,
+    "bbox": [
+      52.3,
+      170.2,
+      418.2,
+      198.7
+    ],
+    "id": 48
+  },
+  {
+    "type": "paragraph",
+    "text": "SAMPLE CONTRACT — FOR TESTING ONLY—NOT LEGAL ADVICE",
+    "runs": [
+      {
+        "text": "SAMPLE CONTRACT — FOR TESTING ONLY—NOT LEGAL ADVICE"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 7,
+    "bbox": [
+      48.3,
+      629.5,
+      250.7,
+      637.3
+    ],
+    "id": 49
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "clause_heading",
+    "text": "8. CONFIDENTIALITY AND SECURITY",
+    "runs": [
+      {
+        "text": "8. CONFIDENTIALITY AND SECURITY"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 8,
+    "bbox": [
+      52.6,
+      41.0,
+      210.5,
+      50.4
+    ],
+    "id": 50
+  },
+  {
+    "type": "h3",
+    "level": 3,
+    "role": "clause_heading",
+    "text": "8.1 Confidential Information. Confidential Information includes non-public commercial, financial, technical, operational or",
+    "runs": [
+      {
+        "text": "8.1 Confidential Information. Confidential Information includes non-public commercial, financial, technical, operational or"
+      }
+    ],
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 8,
+    "bbox": [
+      52.3,
+      56.8,
+      418.6,
+      65.9
+    ],
+    "id": 51
+  },
+  {
+    "type": "paragraph",
+    "text": "personal information disclosed by one party to the other, whether in written, oral, electronic or other form, that is marked confidential or ought reasonably to be understood as confidential.",
+    "runs": [
+      {
+        "text": "personal information disclosed by one party to the other, whether in written, oral, electronic or other form, that is marked"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "confidential or ought reasonably to be understood as confidential."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 8,
+    "bbox": [
+      61.7,
+      66.6,
+      418.6,
+      85.1
+    ],
+    "id": 52
+  },
+  {
+    "type": "paragraph",
+    "text": "8.2 Obligations. The receiving party shall protect Confidential Information using at least the same degree of care it uses for its own similar information, and in no event less than reasonable care. It shall use the information only to perform or receive the benefit of this Agreementand shall not disclose it except as permitted below.",
+    "runs": [
+      {
+        "text": "8.2 Obligations. The receiving party shall protect Confidential Information using at least the same degree of care it uses for its"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "own similar information, and in no event less than reasonable care. It shall use the information only to perform or receive"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "the benefit of this Agreementand shall not disclose it except as permitted below."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 8,
+    "bbox": [
+      52.6,
+      91.5,
+      418.6,
+      120.4
+    ],
+    "id": 53
+  },
+  {
+    "type": "paragraph",
+    "text": "8.3 Exclusions. Confidential Information does not include information that the receiving party can demonstrate is public through no breach, was lawfully known without restriction, was independently developed without use of the disclosing party's information, or was lawfully received from a third party without a duty of confidence.",
+    "runs": [
+      {
+        "text": "8.3 Exclusions. Confidential Information does not include information that the receiving party can demonstrate is public"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "through no breach, was lawfully known without restriction, was independently developed without use of the disclosing"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "party's information, or was lawfully received from a third party without a duty of confidence."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 8,
+    "bbox": [
+      52.3,
+      125.4,
+      418.2,
+      154.7
+    ],
+    "id": 54
+  },
+  {
+    "type": "paragraph",
+    "text": "8.4 Compelled disclosure. A party may disclose Confidential Information to the extent required by law or a competent authority, provided that, where legally permitted, it gives prior notice and reasonably cooperates with efforts to limit the disclosure.",
+    "runs": [
+      {
+        "text": "8.4 Compelled disclosure. A party may disclose Confidential Information to the extent required by law or a competent"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "authority, provided that, where legally permitted, it gives prior notice and reasonably cooperates with efforts to limit the"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "disclosure."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 8,
+    "bbox": [
+      52.3,
+      160.1,
+      418.2,
+      189.3
+    ],
+    "id": 55
+  },
+  {
+    "type": "paragraph",
+    "text": "8.5 Security incident. A party becoming aware of unauthorised access to the other party's Confidential Information in its control shall notify the other party without undue delay and cooperate in investigating, containing and mitigating the incident.",
+    "runs": [
+      {
+        "text": "8.5 Security incident. A party becoming aware of unauthorised access to the other party's Confidential Information in its"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "control shall notify the other party without undue delay and cooperate in investigating, containing and mitigating the"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "incident."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 8,
+    "bbox": [
+      52.3,
+      194.7,
+      418.2,
+      223.6
+    ],
+    "id": 56
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "clause_heading",
+    "text": "9. LIABILITY, INDEMNITY AND INSURANCE",
+    "runs": [
+      {
+        "text": "9. LIABILITY, INDEMNITY AND INSURANCE"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 9,
+    "bbox": [
+      52.6,
+      41.4,
+      234.9,
+      51.1
+    ],
+    "id": 57
+  },
+  {
+    "type": "paragraph",
+    "text": "9.1 Excluded losses. To the maximum extent permitted by law, neither party shall be liable to the other for indirect or consequential loss, loss of anticipated profits, loss of business opportunity or loss of goodwill arising out of this Agreement, whether in contract, tort or otherwise.",
+    "runs": [
+      {
+        "text": "9.1 Excluded losses. To the maximum extent permitted by law, neither party shall be liable to the other for indirect or"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "consequential loss, loss of anticipated profits, loss of business opportunity or loss of goodwill arising out of this Agreement,"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "whether in contract, tort or otherwise."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 9,
+    "bbox": [
+      52.3,
+      56.8,
+      418.6,
+      85.1
+    ],
+    "id": 58
+  },
+  {
+    "type": "paragraph",
+    "text": "9.2 Liability cap. Subject to Clause 9.3, each party's aggregate liability arising out of or in connection with this Agreement shall not exceed the Fees paid or payable under this Agreement during the twelve months preceding the event giving rise to the claim.",
+    "runs": [
+      {
+        "text": "9.2 Liability cap. Subject to Clause 9.3, each party's aggregate liability arising out of or in connection with this Agreement"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "shall not exceed the Fees paid or payable under this Agreement during the twelve months preceding the event giving rise to"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "the claim."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 9,
+    "bbox": [
+      52.6,
+      91.5,
+      418.6,
+      120.4
+    ],
+    "id": 59
+  },
+  {
+    "type": "paragraph",
+    "text": "9.3 Exceptions. Nothing in this Agreement limits liability for fraud, wilful misconduct, death or personal injury caused by negligence, breach of confidentiality, infringement of the other party's intellectual property rights, or any liability that cannot lawfully be limited.",
+    "runs": [
+      {
+        "text": "9.3 Exceptions. Nothing in this Agreement limits liability for fraud, wilful misconduct, death or personal injury caused by"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "negligence, breach of confidentiality, infringement of the other party's intellectual property rights, or any liability that"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "cannot lawfully be limited."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 9,
+    "bbox": [
+      52.3,
+      125.4,
+      418.2,
+      154.0
+    ],
+    "id": 60
+  },
+  {
+    "type": "paragraph",
+    "text": "9.4 Third-party claims. Each party shall promptly notify the other of a third-party claim for which it seeks indemnification, allow the indemnifying party reasonable control of the defence and provide reasonable cooperation. No settlement imposing an admission or payment obligation on the indemnified party may be made without its prior written consent.",
+    "runs": [
+      {
+        "text": "9.4 Third-party claims. Each party shall promptly notify the other of a third-party claim for which it seeks indemnification,"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "allow the indemnifying party reasonable control of the defence and provide reasonable cooperation. No settlement imposing"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "an admission or payment obligation on the indemnified party may be made without its prior written consent."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 9,
+    "bbox": [
+      52.9,
+      160.4,
+      417.9,
+      188.7
+    ],
+    "id": 61
+  },
+  {
+    "type": "h3",
+    "level": 3,
+    "role": "clause_heading",
+    "text": "9.5 Insurance. The Service Provider shall maintain commercially reasonable professional indemnity and general liability",
+    "runs": [
+      {
+        "text": "9.5 Insurance. The Service Provider shall maintain commercially reasonable professional indemnity and general liability"
+      }
+    ],
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 9,
+    "bbox": [
+      52.3,
+      194.7,
+      417.9,
+      203.8
+    ],
+    "id": 62
+  },
+  {
+    "type": "paragraph",
+    "text": "insurance during the term and shall provide evidence of coverage upon reasonable written request.",
+    "runs": [
+      {
+        "text": "insurance during the term and shall provide evidence of coverage upon reasonable written request."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 9,
+    "bbox": [
+      61.3,
+      203.8,
+      345.2,
+      214.2
+    ],
+    "id": 63
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "clause_heading",
+    "text": "10. TERM, TERMINATION AND GENERAL",
+    "runs": [
+      {
+        "text": "10. TERM, TERMINATION AND GENERAL"
+      }
+    ],
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      53.3,
+      41.4,
+      224.9,
+      50.1
+    ],
+    "id": 64
+  },
+  {
+    "type": "paragraph",
+    "text": "10.1 Term. This Agreement begins on the Effective Date and continues until completion of the Services, unless terminated earlier in accordance with this Clause. Provisions which by their nature are intended to survive shall continue after expiry or termination.",
+    "runs": [
+      {
+        "text": "10.1 Term. This Agreement begins on the Effective Date and continues until completion of the Services, unless terminated"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "earlier in accordance with this Clause. Provisions which by their nature are intended to survive shall continue after expiry or"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "termination."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      53.3,
+      57.5,
+      418.2,
+      85.4
+    ],
+    "id": 65
+  },
+  {
+    "type": "paragraph",
+    "text": "10.2 Termination for cause. Either party may terminate this Agreement by written notice if the other party commits a material breach and fails to remedy it within thirty days after receiving a notice describing the breach. A party may terminate immediately if the other party becomes insolvent or ceases business, to the extent permitted by applicable law.",
+    "runs": [
+      {
+        "text": "10.2 Termination for cause. Either party may terminate this Agreement by written notice if the other party commits a material"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "breach and fails to remedy it within thirty days after receiving a notice describing the breach. A party may terminate"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "immediately if the other party becomes insolvent or ceases business, to the extent permitted by applicable law."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      52.6,
+      91.1,
+      418.2,
+      120.1
+    ],
+    "id": 66
+  },
+  {
+    "type": "paragraph",
+    "text": "10.3 Consequences. On termination, the Client shall pay for Services properly performed and approved expenses incurred up to the termination date. Each party shall return or securely destroy the other party's Confidential Information, subject to lawful retention requirements and routine backup processes.",
+    "runs": [
+      {
+        "text": "10.3 Consequences. On termination, the Client shall pay for Services properly performed and approved expenses incurred up"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "to the termination date. Each party shall return or securely destroy the other party's Confidential Information, subject to"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "lawful retention requirements and routine backup processes."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      52.6,
+      125.8,
+      418.2,
+      154.7
+    ],
+    "id": 67
+  },
+  {
+    "type": "paragraph",
+    "text": "10.4 Force majeure. Neither party shall be liable for delay caused by events beyond its reasonable control, including natural disasters, widespread network outages, acts of government, civil disturbance or epidemic restrictions. The affected party shall notify the other and take reasonable steps to mitigate the impact.",
+    "runs": [
+      {
+        "text": "10.4 Force majeure. Neither party shall be liable for delay caused by events beyond its reasonable control, including natural"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "disasters, widespread network outages, acts of government, civil disturbance or epidemic restrictions. The affected party"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "shall notify the other and take reasonable steps to mitigate the impact."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      53.3,
+      161.1,
+      417.9,
+      189.3
+    ],
+    "id": 68
+  },
+  {
+    "type": "paragraph",
+    "text": "10.5 Notices. Notices under this Agreement shall be in writing and delivered by hand, reputable courier or email to the addresses designated by each party. Notices by email are deemed received when no delivery failure message is generated and the sender retains a copy of the sent message.",
+    "runs": [
+      {
+        "text": "10.5 Notices. Notices under this Agreement shall be in writing and delivered by hand, reputable courier or email to the"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "addresses designated by each party. Notices by email are deemed received when no delivery failure message is generated"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "and the sender retains a copy of the sent message."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      53.6,
+      195.7,
+      418.6,
+      223.3
+    ],
+    "id": 69
+  },
+  {
+    "type": "paragraph",
+    "text": "10.6 Governing law and disputes. This Agreement shall be governed by the laws of India. The parties shall first attempt to resolve disputes through good-faith discussions between senior representatives. If unresolved within thirty days, the courts at Coimbatore, Tamil Nadu shall have exclusive jurisdiction, subject to applicable law.",
+    "runs": [
+      {
+        "text": "10.6 Governing law and disputes. This Agreement shall be governed by the laws of India. The parties shall first attempt to"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "resolve disputes through good-faith discussions between senior representatives. If unresolved within thirty days, the courts"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "at Coimbatore, Tamil Nadu shall have exclusive jurisdiction, subject to applicable law."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      53.3,
+      229.7,
+      418.2,
+      257.9
+    ],
+    "id": 70
+  },
+  {
+    "type": "paragraph",
+    "text": "10.7 Entire agreement. This Agreement and its schedules constitute the entire agreement between the parties concerning its subject matter and supersede prior discussions and understandings. Any amendment must be in writing and approved by authorised representatives of both parties.",
+    "runs": [
+      {
+        "text": "10.7 Entire agreement. This Agreement and its schedules constitute the entire agreement between the parties concerning its"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "subject matter and supersede prior discussions and understandings. Any amendment must be in writing and approved by"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "authorised representatives of both parties."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      53.3,
+      264.3,
+      417.9,
+      291.9
+    ],
+    "id": 71
+  },
+  {
+    "type": "paragraph",
+    "text": "10.8 Counterparts. This Agreement may be executed in counterparts, each of which shall be treated as an original and all of which together form one instrument. Electronic signatures may be used where legally recognised.",
+    "runs": [
+      {
+        "text": "10.8 Counterparts. This Agreement may be executed in counterparts, each of which shall be treated as an original and all of"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "which together form one instrument. Electronic signatures may be used where legally recognised."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      53.3,
+      299.0,
+      418.6,
+      316.8
+    ],
+    "id": 72
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "clause_heading",
+    "text": "SCHEDULE A—SERVICESANDDELIVERABLES",
+    "runs": [
+      {
+        "text": "SCHEDULE A—SERVICESANDDELIVERABLES"
+      }
+    ],
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      53.3,
+      324.9,
+      260.0,
+      333.6
+    ],
+    "id": 73
+  },
+  {
+    "type": "paragraph",
+    "text": "A1. Discovery and design: conduct up to three requirements workshops; document agreed workflows; prepare a solution design and configuration plan.",
+    "runs": [
+      {
+        "text": "A1. Discovery and design: conduct up to three requirements workshops; document agreed workflows; prepare a solution design"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "and configuration plan."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      52.6,
+      340.0,
+      418.2,
+      359.2
+    ],
+    "id": 74
+  },
+  {
+    "type": "paragraph",
+    "text": "A2. Configuration: configure document intake, metadata fields, document categories, validation rules and role-based access settings in the agreed test environment.",
+    "runs": [
+      {
+        "text": "A2. Configuration: configure document intake, metadata fields, document categories, validation rules and role-based access"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "settings in the agreed test environment."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      53.3,
+      365.5,
+      418.2,
+      383.0
+    ],
+    "id": 75
+  },
+  {
+    "type": "paragraph",
+    "text": "A3. Testing and training: support one user acceptance testing cycle, record defects, provide up to two administrator training sessions and supply a user guide.",
+    "runs": [
+      {
+        "text": "A3. Testing and training: support one user acceptance testing cycle, record defects, provide up to two administrator training"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "sessions and supply a user guide."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      52.9,
+      389.4,
+      418.2,
+      407.6
+    ],
+    "id": 76
+  },
+  {
+    "type": "paragraph",
+    "text": "A4. Deliverables: requirements summary, solution design, configured test instance, test issue log, administrator guide and deployment handover note.",
+    "runs": [
+      {
+        "text": "A4. Deliverables: requirements summary, solution design, configured test instance, test issue log, administrator guide and"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "deployment handover note."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      53.3,
+      414.6,
+      418.2,
+      432.5
+    ],
+    "id": 77
+  },
+  {
+    "type": "paragraph",
+    "text": "A5. Assumptions: the Client will provide sample documents, reviewers, access credentials and timely decisions. Historical archive migration, custom mobile applications and third-party licence charges are excluded unless separately agreed.",
+    "runs": [
+      {
+        "text": "A5. Assumptions: the Client will provide sample documents, reviewers, access credentials and timely decisions. Historical"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "archive migration, custom mobile applications and third-party licence charges are excluded unless separately agreed."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      54.0,
+      439.5,
+      417.6,
+      457.0
+    ],
+    "id": 78
+  },
+  {
+    "type": "paragraph",
+    "text": "A6. Indicative milestones: Weeks 1–2 discovery; Week 3 design approval; Weeks 4–7 configuration; Week 8 testing; Week 9 training; Week 10 handover and acceptance.",
+    "runs": [
+      {
+        "text": "A6. Indicative milestones: Weeks 1–2 discovery; Week 3 design approval; Weeks 4–7 configuration; Week 8 testing; Week 9"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "training; Week 10 handover and acceptance."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      52.9,
+      462.7,
+      417.9,
+      481.6
+    ],
+    "id": 79
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "END OF SAMPLE AGREEMENT",
+    "runs": [
+      {
+        "text": "END OF SAMPLE AGREEMENT"
+      }
+    ],
+    "confidence": 0.6,
+    "needs_review": true,
+    "page": 10,
+    "bbox": [
+      53.6,
+      489.6,
+      184.3,
+      498.4
+    ],
+    "id": 80
+  },
+  {
+    "type": "paragraph",
+    "text": "SAMPLE CONTRACT — FOR TESTING ONLY —NOT LEGAL ADVICE",
+    "runs": [
+      {
+        "text": "SAMPLE CONTRACT — FOR TESTING ONLY —NOT LEGAL ADVICE"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      48.3,
+      629.2,
+      250.7,
+      636.9
+    ],
+    "id": 81
+  }
+]

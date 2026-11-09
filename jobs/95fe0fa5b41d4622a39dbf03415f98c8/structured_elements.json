@@ -1,0 +1,529 @@
+{
+  "source_pdf": "C:\\Users\\kevin\\Downloads\\yatzar\\jobs\\95fe0fa5b41d4622a39dbf03415f98c8\\input.pdf",
+  "element_count": 19,
+  "type_styles": {
+    "h1": {
+      "font_family": "Arial",
+      "font_size": 22,
+      "bold": true,
+      "italic": false,
+      "color": "#111111"
+    },
+    "h2": {
+      "font_family": "Arial",
+      "font_size": 18,
+      "bold": true,
+      "italic": false,
+      "color": "#222222"
+    },
+    "h3": {
+      "font_family": "Arial",
+      "font_size": 15,
+      "bold": true,
+      "italic": false,
+      "color": "#333333"
+    },
+    "h4": {
+      "font_family": "Arial",
+      "font_size": 13,
+      "bold": true,
+      "italic": true,
+      "color": "#444444"
+    },
+    "paragraph": {
+      "font_family": "Georgia",
+      "font_size": 12,
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    "table_header": {
+      "font_family": "Arial",
+      "font_size": 12,
+      "bold": true,
+      "italic": false,
+      "color": "#000000",
+      "background": "#e8e8e8"
+    },
+    "table_cell": {
+      "font_family": "Arial",
+      "font_size": 11,
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    "link_color": "#0645ad"
+  },
+  "elements": [
+    {
+      "type": "h1",
+      "content": "PSG COLLEGE OF TECHNOLOGY",
+      "page": 1,
+      "bbox": [
+        186.7,
+        61.0,
+        428.8,
+        78.9
+      ],
+      "id": "el_0000",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "PSG COLLEGE OF TECHNOLOGY "
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "PEELAMEDU-COIMBATORE - 641 004.",
+      "page": 1,
+      "bbox": [
+        198.6,
+        78.1,
+        411.0,
+        96.8
+      ],
+      "id": "el_0001",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "PEELAMEDU-COIMBATORE - 641 004. "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.8,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h1",
+      "content": "APPLICATION FOR LEAVE",
+      "page": 1,
+      "bbox": [
+        228.2,
+        94.9,
+        391.9,
+        112.8
+      ],
+      "id": "el_0002",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "APPLICATION FOR LEAVE "
+          }
+        ],
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Roll No: 251267",
+      "page": 1,
+      "bbox": [
+        369.2,
+        125.2,
+        458.4,
+        140.8
+      ],
+      "id": "el_0003",
+      "style": {},
+      "metadata": {
+        "role": "field",
+        "label": "Roll No",
+        "runs": [
+          {
+            "text": "Roll No:251267 "
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h1",
+      "content": "1. Name of the Student: TANIA CARROLLINE T",
+      "page": 1,
+      "bbox": [
+        54.1,
+        129.7,
+        319.9,
+        149.2
+      ],
+      "id": "el_0004",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "clause_heading",
+        "runs": [
+          {
+            "text": "1. Name of the Student: TANIA CARROLLINE T "
+          }
+        ],
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Sem: 3",
+      "page": 1,
+      "bbox": [
+        364.9,
+        148.8,
+        410.0,
+        161.9
+      ],
+      "id": "el_0005",
+      "style": {},
+      "metadata": {
+        "role": "field",
+        "label": "Sem",
+        "runs": [
+          {
+            "text": "Sem:3 "
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "2.",
+      "page": 1,
+      "bbox": [
+        52.4,
+        154.2,
+        64.4,
+        170.2
+      ],
+      "id": "el_0006",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "2. "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Class & Branch: BTECH IT",
+      "page": 1,
+      "bbox": [
+        71.1,
+        154.2,
+        217.3,
+        170.2
+      ],
+      "id": "el_0007",
+      "style": {},
+      "metadata": {
+        "role": "field",
+        "label": "Class & Branch",
+        "runs": [
+          {
+            "text": "Class & Branch: BTECH IT "
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "3. Leave Required Date On /From: 24/09/2026 FN To : 24/09/2026 FN Hours: 2 -",
+      "page": 1,
+      "bbox": [
+        51.2,
+        168.0,
+        495.1,
+        194.5
+      ],
+      "id": "el_0008",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "3. Leave Required Date On /From: 24/09/2026 FN To : 24/09/2026 FN Hours: 2 -"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h1",
+      "content": "4. Reason: SIH PRESENTATION",
+      "page": 1,
+      "bbox": [
+        53.6,
+        197.6,
+        235.2,
+        213.6
+      ],
+      "id": "el_0009",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "clause_heading",
+        "runs": [
+          {
+            "text": "4. Reason: SIH PRESENTATION "
+          }
+        ],
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "h1",
+      "content": "5. Date of online entry by student: 27/09/2026",
+      "page": 1,
+      "bbox": [
+        50.0,
+        219.0,
+        315.9,
+        236.0
+      ],
+      "id": "el_0010",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "clause_heading",
+        "runs": [
+          {
+            "text": "5. Date of online entry by student: 27/09/2026 "
+          }
+        ],
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "h1",
+      "content": "6. Leave Type : Exception Leave",
+      "page": 1,
+      "bbox": [
+        49.3,
+        243.0,
+        237.5,
+        260.3
+      ],
+      "id": "el_0011",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "clause_heading",
+        "runs": [
+          {
+            "text": "6. Leave Type : Exception Leave "
+          }
+        ],
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Signature of the Student : Tani a larrollin",
+      "page": 1,
+      "bbox": [
+        44.3,
+        308.0,
+        357.7,
+        333.9
+      ],
+      "id": "el_0012",
+      "style": {},
+      "metadata": {
+        "role": "signature",
+        "runs": [
+          {
+            "text": "Signature of the Student : Tani a larrollin "
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h2",
+      "content": "S7t-SPOc",
+      "page": 1,
+      "bbox": [
+        447.5,
+        307.7,
+        527.3,
+        344.5
+      ],
+      "id": "el_0013",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "S7t-SPOc "
+          }
+        ],
+        "confidence": 0.5,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Date: 28 |q",
+      "page": 1,
+      "bbox": [
+        37.0,
+        342.1,
+        141.1,
+        362.7
+      ],
+      "id": "el_0014",
+      "style": {},
+      "metadata": {
+        "role": "field",
+        "label": "Date",
+        "runs": [
+          {
+            "text": "Date: 28 |q "
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "| o b",
+      "page": 1,
+      "bbox": [
+        146.8,
+        341.5,
+        178.3,
+        357.0
+      ],
+      "id": "el_0015",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "| "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "o b "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h2",
+      "content": "8/a/26",
+      "page": 1,
+      "bbox": [
+        252.8,
+        351.1,
+        333.1,
+        405.9
+      ],
+      "id": "el_0016",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "8/a/26 "
+          }
+        ],
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Date of approval by the tutor:",
+      "page": 1,
+      "bbox": [
+        35.4,
+        373.6,
+        233.7,
+        392.1
+      ],
+      "id": "el_0017",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Date of approval by the tutor: "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Signature of the Tutor:",
+      "page": 1,
+      "bbox": [
+        33.4,
+        405.9,
+        190.0,
+        424.7
+      ],
+      "id": "el_0018",
+      "style": {},
+      "metadata": {
+        "role": "signature",
+        "runs": [
+          {
+            "text": "Signature of the Tutor: "
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    }
+  ]
+}

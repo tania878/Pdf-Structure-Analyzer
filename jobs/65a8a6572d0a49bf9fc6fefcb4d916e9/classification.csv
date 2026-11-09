@@ -1,0 +1,50 @@
+﻿page,text,label,level,role,score,confidence,needs_review,reasons,font_size,size_ratio,bold,italic,font_family,x0,y0,x1,y1,gap_before,gap_after,n_chars,n_words,numbering,y_rel,first_on_page,alignment,indent
+1,Confidential - Sample Agreement,skip,,,0,1.0,False,,,,,,,,,,,,,,,,,,,
+1,Page 1,skip,,,0,1.0,False,,,,,,,,,,,,,,,,,,,
+1,SERVICE AGREEMENT,heading,1,title,6.5,1.0,False,font much larger; bold; caps; centered,18.0,1.71,True,False,Helvetica-Bold,198.1,114.7,397.2,139.5,0.0,3.7,17,2,,0.136,True,center,120.1
+1,This Agreement is made on 1 January 2026 between Acme Pvt Ltd (the Supplier) and Beta,paragraph,,,-3.0,1.0,False,long text,10.5,1.0,False,False,Helvetica,78.0,143.2,506.3,157.7,3.7,0.0,85,16,,0.17,False,left,0.0
+1,Corp (the Client). Visit our policy page at example.com/policy for details.,paragraph,,,-2.0,1.0,False,ends like a sentence,10.5,1.0,False,False,Helvetica-Bold,78.0,157.2,414.7,171.7,0.0,0.0,75,11,,0.187,False,left,0.0
+1,WHEREAS,heading,2,section_heading,7.0,1.0,False,font much larger; bold; caps; known section word,16.0,1.52,True,False,Helvetica-Bold,78.0,170.9,159.8,192.9,0.0,6.3,7,1,,0.203,False,left,0.0
+1,The Supplier provides software services and the Client wishes to engage those services. Th,paragraph,,,0.0,1.0,False,,10.5,1.0,False,False,Helvetica,78.0,199.2,510.4,213.6,6.3,0.0,91,14,,0.237,False,left,0.0
+1,parties agree to perform their obligations in good faith and in accordance with the terms ,paragraph,,,-3.0,1.0,False,long text,10.5,1.0,False,False,Helvetica,78.0,213.2,517.3,227.6,0.0,0.0,97,17,,0.253,False,left,0.0
+1,in this Agreement.,paragraph,,,-2.0,1.0,False,ends like a sentence,10.5,1.0,False,False,Helvetica,78.0,227.2,162.6,241.6,0.0,0.0,18,3,,0.27,False,left,0.0
+1,1. Definitions,heading,2,clause_heading,8.0,1.0,False,font much larger; bold; numbered; known section word; short numbered section,16.0,1.52,True,False,Helvetica-Bold,78.0,240.9,178.5,262.9,0.0,12.2,14,2,decimal:1,0.286,False,left,0.0
+1,1.1 Services,heading,3,clause_heading,7.5,1.0,False,font larger; bold; numbered; known section word; space above; short numbered section,13.0,1.24,True,False,Helvetica-Bold,78.0,275.1,153.2,293.0,12.2,6.2,12,2,decimal:2,0.327,False,left,0.0
+1,The parties agree to perform their obligations in good faith and in accordance with the te,paragraph,,,-3.0,1.0,False,long text,10.5,1.0,False,False,Helvetica,78.0,299.2,504.6,313.6,6.2,0.0,93,16,,0.355,False,left,0.0
+1,set out in this Agreement. The parties agree to perform their obligations in good faith an,paragraph,,,-3.0,1.0,False,long text,10.5,1.0,False,False,Helvetica,78.0,313.2,501.1,327.6,0.0,0.0,94,17,,0.372,False,left,0.0
+1,accordance with the terms set out in this Agreement. The parties agree to perform their,paragraph,,,0.0,1.0,False,,10.5,1.0,False,False,Helvetica,78.0,327.2,481.8,341.6,0.0,0.0,87,15,,0.389,False,left,0.0
+1,obligations in good faith and in accordance with the terms set out in this Agreement. The,paragraph,,,-3.0,1.0,False,long text,10.5,1.0,False,False,Helvetica,78.0,341.2,488.3,355.6,0.0,0.0,89,16,,0.405,False,left,0.0
+1,parties agree to perform their obligations in good faith and in accordance with the terms ,paragraph,,,-3.0,1.0,False,long text,10.5,1.0,False,False,Helvetica,78.0,355.2,517.3,369.6,0.0,0.0,97,17,,0.422,False,left,0.0
+1,in this Agreement.,paragraph,,,-2.0,1.0,False,ends like a sentence,10.5,1.0,False,False,Helvetica,78.0,369.2,162.6,383.6,0.0,11.5,18,3,,0.439,False,left,0.0
+1,1.2 Confidential Information,heading,3,clause_heading,6.0,1.0,False,font larger; bold; numbered; space above; short numbered section,13.0,1.24,True,False,Helvetica-Bold,78.0,395.1,249.9,413.0,11.5,6.2,28,3,decimal:2,0.469,False,left,0.0
+1,The parties agree to perform their obligations in good faith and in accordance with the te,paragraph,,,-3.0,1.0,False,long text,10.5,1.0,False,False,Helvetica,78.0,419.2,504.6,433.6,6.2,0.0,93,16,,0.498,False,left,0.0
+1,set out in this Agreement. The parties agree to perform their obligations in good faith an,paragraph,,,-3.0,1.0,False,long text,10.5,1.0,False,False,Helvetica,78.0,433.2,501.1,447.6,0.0,0.0,94,17,,0.515,False,left,0.0
+1,accordance with the terms set out in this Agreement. The parties agree to perform their,paragraph,,,0.0,1.0,False,,10.5,1.0,False,False,Helvetica,78.0,447.2,481.8,461.6,0.0,0.0,87,15,,0.531,False,left,0.0
+1,obligations in good faith and in accordance with the terms set out in this Agreement. The,paragraph,,,-3.0,1.0,False,long text,10.5,1.0,False,False,Helvetica,78.0,461.2,488.3,475.6,0.0,0.0,89,16,,0.548,False,left,0.0
+1,parties agree to perform their obligations in good faith and in accordance with the terms ,paragraph,,,-3.0,1.0,False,long text,10.5,1.0,False,False,Helvetica,78.0,475.2,517.3,489.6,0.0,0.0,97,17,,0.564,False,left,0.0
+1,in this Agreement.,paragraph,,,-2.0,1.0,False,ends like a sentence,10.5,1.0,False,False,Helvetica,78.0,489.2,162.6,503.6,0.0,0.0,18,3,,0.581,False,left,0.0
+1,2. Payment Terms,heading,2,clause_heading,8.0,1.0,False,font much larger; bold; numbered; known section word; short numbered section,16.0,1.52,True,False,Helvetica-Bold,78.0,502.9,214.9,524.9,0.0,12.2,16,3,decimal:1,0.597,False,left,0.0
+1,2.1 Fees,heading,3,clause_heading,7.5,1.0,False,font larger; bold; numbered; known section word; space above; short numbered section,13.0,1.24,True,False,Helvetica-Bold,78.0,537.1,129.3,555.0,12.2,6.2,8,2,decimal:2,0.638,False,left,0.0
+1,The parties agree to perform their obligations in good faith and in accordance with the te,paragraph,,,-3.0,1.0,False,long text,10.5,1.0,False,False,Helvetica,78.0,561.2,504.6,575.6,6.2,0.0,93,16,,0.667,False,left,0.0
+1,set out in this Agreement. The parties agree to perform their obligations in good faith an,paragraph,,,-3.0,1.0,False,long text,10.5,1.0,False,False,Helvetica,78.0,575.2,501.1,589.6,0.0,0.0,94,17,,0.683,False,left,0.0
+1,accordance with the terms set out in this Agreement. The parties agree to perform their,paragraph,,,0.0,1.0,False,,10.5,1.0,False,False,Helvetica,78.0,589.2,481.8,603.6,0.0,0.0,87,15,,0.7,False,left,0.0
+1,obligations in good faith and in accordance with the terms set out in this Agreement.,paragraph,,,-2.0,1.0,False,ends like a sentence,10.5,1.0,False,False,Helvetica,78.0,603.2,467.3,617.6,0.0,91.5,85,15,,0.716,False,left,0.0
+1,2.2 Late Payment,heading,3,clause_heading,6.0,1.0,False,font larger; bold; numbered; space above; short numbered section,13.0,1.24,True,False,Helvetica-Bold,78.0,709.1,184.2,727.0,91.5,6.2,16,3,decimal:2,0.842,False,left,0.0
+1,The parties agree to perform their obligations in good faith and in accordance with the te,paragraph,,,-3.0,1.0,False,long text,10.5,1.0,False,False,Helvetica,78.0,733.2,504.6,747.6,6.2,0.0,93,16,,0.871,False,left,0.0
+1,set out in this Agreement. The parties agree to perform their obligations in good faith an,paragraph,,,-3.0,1.0,False,long text,10.5,1.0,False,False,Helvetica,78.0,747.2,501.1,761.6,0.0,0.0,94,17,,0.888,False,left,0.0
+1,accordance with the terms set out in this Agreement. The parties agree to perform their,paragraph,,,0.0,1.0,False,,10.5,1.0,False,False,Helvetica,78.0,761.2,481.8,775.6,0.0,0.0,87,15,,0.904,False,left,0.0
+2,Confidential - Sample Agreement,skip,,,0,1.0,False,,,,,,,,,,,,,,,,,,,
+2,Page 2,skip,,,0,1.0,False,,,,,,,,,,,,,,,,,,,
+2,obligations in good faith and in accordance with the terms set out in this Agreement.,paragraph,,,-2.0,1.0,False,ends like a sentence,10.5,1.0,False,False,Helvetica,78.0,65.2,467.3,79.6,0.0,0.0,85,15,,0.077,True,left,0.0
+2,3. Termination,heading,2,clause_heading,8.0,1.0,False,font much larger; bold; numbered; known section word; short numbered section,16.0,1.52,True,False,Helvetica-Bold,78.0,78.9,187.4,100.9,0.0,6.3,14,2,decimal:1,0.094,False,left,0.0
+2,The parties agree to perform their obligations in good faith and in accordance with the te,paragraph,,,-3.0,1.0,False,long text,10.5,1.0,False,False,Helvetica,78.0,107.2,504.6,121.6,6.3,0.0,93,16,,0.127,False,left,0.0
+2,set out in this Agreement. The parties agree to perform their obligations in good faith an,paragraph,,,-3.0,1.0,False,long text,10.5,1.0,False,False,Helvetica,78.0,121.2,501.1,135.6,0.0,0.0,94,17,,0.144,False,left,0.0
+2,accordance with the terms set out in this Agreement. The parties agree to perform their,paragraph,,,0.0,1.0,False,,10.5,1.0,False,False,Helvetica,78.0,135.2,481.8,149.6,0.0,0.0,87,15,,0.161,False,left,0.0
+2,obligations in good faith and in accordance with the terms set out in this Agreement. The,paragraph,,,-3.0,1.0,False,long text,10.5,1.0,False,False,Helvetica,78.0,149.2,488.3,163.6,0.0,0.0,89,16,,0.177,False,left,0.0
+2,parties agree to perform their obligations in good faith and in accordance with the terms ,paragraph,,,-3.0,1.0,False,long text,10.5,1.0,False,False,Helvetica,78.0,163.2,517.3,177.6,0.0,0.0,97,17,,0.194,False,left,0.0
+2,in this Agreement. The parties agree to perform their obligations in good faith and in,paragraph,,,0.0,1.0,False,,10.5,1.0,False,False,Helvetica,78.0,177.2,466.7,191.6,0.0,0.0,86,15,,0.21,False,left,0.0
+2,accordance with the terms set out in this Agreement.,paragraph,,,-2.0,1.0,False,ends like a sentence,10.5,1.0,False,False,Helvetica,78.0,191.2,322.5,205.6,0.0,0.0,52,9,,0.227,False,left,0.0
+2,SCHEDULE A,heading,2,clause_heading,7.5,1.0,False,font much larger; bold; caps; numbered; short numbered section,16.0,1.52,True,False,Helvetica-Bold,78.0,204.9,182.0,226.9,0.0,6.3,10,2,article:1,0.243,False,left,0.0
+2,Deliverables are listed as agreed in writing. The parties agree to perform their obligatio,paragraph,,,0.0,1.0,False,,10.5,1.0,False,False,Helvetica,78.0,233.2,501.7,247.6,6.3,0.0,95,15,,0.277,False,left,0.0
+2,good faith and in accordance with the terms set out in this Agreement.,paragraph,,,-2.0,1.0,False,ends like a sentence,10.5,1.0,False,False,Helvetica,78.0,247.2,403.1,261.6,0.0,0.0,70,13,,0.294,False,left,0.0
+2,Signed: ____________________ (Supplier)    ____________________ (Client),signature,,,0.0,0.9,False,signature line,10.5,1.0,False,False,Helvetica,78.0,261.2,446.9,275.6,0.0,0.0,72,5,,0.31,False,left,0.0

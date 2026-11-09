@@ -1,0 +1,6284 @@
+{
+  "source_pdf": "C:\\Users\\kevin\\Downloads\\yatzar\\jobs\\853cd320784a4074a9f0814fc88421cc\\input.pdf",
+  "element_count": 143,
+  "type_styles": {
+    "h1": {
+      "font_family": "Arial",
+      "font_size": 22,
+      "bold": true,
+      "italic": false,
+      "color": "#111111"
+    },
+    "h2": {
+      "font_family": "Arial",
+      "font_size": 18,
+      "bold": true,
+      "italic": false,
+      "color": "#222222"
+    },
+    "h3": {
+      "font_family": "Arial",
+      "font_size": 15,
+      "bold": true,
+      "italic": false,
+      "color": "#333333"
+    },
+    "h4": {
+      "font_family": "Arial",
+      "font_size": 13,
+      "bold": true,
+      "italic": true,
+      "color": "#444444"
+    },
+    "paragraph": {
+      "font_family": "Georgia",
+      "font_size": 12,
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    "table_header": {
+      "font_family": "Arial",
+      "font_size": 12,
+      "bold": true,
+      "italic": false,
+      "color": "#000000",
+      "background": "#e8e8e8"
+    },
+    "table_cell": {
+      "font_family": "Arial",
+      "font_size": 11,
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    "link_color": "#0645ad"
+  },
+  "elements": [
+    {
+      "type": "h1",
+      "content": "Research paper",
+      "page": 1,
+      "bbox": [
+        85.1,
+        70.8,
+        294.0,
+        98.7
+      ],
+      "id": "el_0000",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "runs": [
+          {
+            "text": "Research paper "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h2",
+      "content": "A look at advanced learners’ use of mobile devices for",
+      "page": 1,
+      "bbox": [
+        92.7,
+        143.1,
+        507.0,
+        159.5
+      ],
+      "id": "el_0001",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "A look at advanced learners’ use of mobile devices for "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h2",
+      "content": "English language study: Insights from interview data",
+      "page": 1,
+      "bbox": [
+        95.7,
+        159.4,
+        499.5,
+        175.9
+      ],
+      "id": "el_0002",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "English language study: Insights from interview data"
+          }
+        ]
+      }
+    },
+    {
+      "type": "h4",
+      "content": "Mariusz Kruk",
+      "page": 1,
+      "bbox": [
+        262.7,
+        190.2,
+        332.4,
+        201.7
+      ],
+      "id": "el_0003",
+      "style": {},
+      "metadata": {
+        "level": 4,
+        "runs": [
+          {
+            "text": "Mariusz Kruk"
+          }
+        ]
+      }
+    },
+    {
+      "type": "h4",
+      "content": "University of Zielona Gora, Poland",
+      "page": 1,
+      "bbox": [
+        206.7,
+        201.7,
+        392.0,
+        213.2
+      ],
+      "id": "el_0004",
+      "style": {},
+      "metadata": {
+        "level": 4,
+        "runs": [
+          {
+            "text": "University of Zielona Gora, Poland "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h4",
+      "content": "______________________________________________________________",
+      "page": 1,
+      "bbox": [
+        88.3,
+        213.2,
+        510.3,
+        224.7
+      ],
+      "id": "el_0005",
+      "style": {},
+      "metadata": {
+        "level": 4,
+        "runs": [
+          {
+            "text": "______________________________________________________________ "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "mkruk @ uz.zgora.pl",
+      "page": 1,
+      "bbox": [
+        247.9,
+        224.8,
+        347.5,
+        236.3
+      ],
+      "id": "el_0006",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "mkruk @ uz.zgora.pl",
+            "uri": "mailto:mkruk@uz.zgora.pl"
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h4",
+      "content": "Abstract",
+      "page": 1,
+      "bbox": [
+        85.1,
+        258.4,
+        130.0,
+        269.9
+      ],
+      "id": "el_0007",
+      "style": {},
+      "metadata": {
+        "level": 4,
+        "runs": [
+          {
+            "text": "Abstract"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The paper discusses the results of a study which explored advanced learners of English engagement with their mobile devices to develop learning experiences that meet their needs and goals as foreign language learners. The data were collected from 20 students by means of a semi-structured interview. The gathered data were subjected to qualitative and quantitative analysis. The results of the study demonstrated that, on the one hand, some subjects manifested heightened awareness relating to the advantageous role of mobile devices in their learning endeavors, their ability to reach for suitable tools and retrieve necessary information so as to achieve their goals, meet their needs and adjust their learning of English to their personal learning styles, and on the other, a rather intuitive and/or ad hoc use of their mobile devices in the classroom.",
+      "page": 1,
+      "bbox": [
+        85.1,
+        275.2,
+        513.7,
+        390.6
+      ],
+      "id": "el_0008",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "The paper discusses the results of a study which explored advanced learners of English "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "engagement with their mobile devices to develop learning experiences that meet their "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "needs and goals as foreign language learners. The data were collected from 20 students "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "by means of a semi-structured interview. The gathered data were subjected to "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "qualitative and quantitative analysis. The results of the study demonstrated that, on the "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "one hand, some subjects manifested heightened awareness relating to the "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "advantageous role of mobile devices in their learning endeavors, their ability to reach "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "for suitable tools and retrieve necessary information so as to achieve their goals, meet "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "their needs and adjust their learning of English to their personal learning styles, and on "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "the other, a rather intuitive and/or ad hoc use of their mobile devices in the classroom. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Keywords: Learner autonomy, mobile devices, advanced EFL learners, learning English.",
+      "page": 1,
+      "bbox": [
+        85.1,
+        395.9,
+        513.4,
+        418.9
+      ],
+      "id": "el_0009",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Keywords: Learner autonomy, mobile devices, advanced EFL learners, learning "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "English. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h1",
+      "content": "1. Introduction",
+      "page": 1,
+      "bbox": [
+        85.1,
+        441.0,
+        165.9,
+        452.5
+      ],
+      "id": "el_0010",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "runs": [
+          {
+            "text": "1. Introduction"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Mobile devices, smartphones and tablet computers in particular, have generated a lot of interest among researchers in recent years (Byrne & Diem, 2014). This is because the opportunities these new technologies may offer (e.g. individualized learning, the variety of mobile apps available, easy access to the internet) and/or the fact that they are increasingly more common among learners make them an important and potentially useful addition to formal and informal language learning.",
+      "page": 1,
+      "bbox": [
+        85.1,
+        457.8,
+        513.7,
+        527.0
+      ],
+      "id": "el_0011",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Mobile devices, smartphones and tablet computers in particular, have generated a lot of "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "interest among researchers in recent years (Byrne & Diem, 2014). This is because the "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "opportunities these new technologies may offer (e.g. individualized learning, the variety "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "of mobile apps available, easy access to the internet) and/or the fact that they are "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "increasingly more common among learners make them an important and potentially "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "useful addition to formal and informal language learning. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "According to Benson (2011), there has always been a connection between educational technologies and learner autonomy to the extent that they have often been intended for independent practice. It should be noted, however, that this link and “future enquiry and practice into technology-mediated learner autonomy will need to be increasingly aligned to the tools, settings, and activities that are of significance to language learners” (Reinders & White, 2016, p. 151). Reinders and White (2016) further argue that as long as “the potential range of settings, tools, and experiences is now virtually limitless, individuals need to be increasingly adept at critical adaptive learning in order to benefit from and contribute effectively to those settings” (p. 151). Beyond doubt, contemporary language teachers should equip foreign/second language learners with appropriate knowledge concerning the affordances of mobile devices for language study and they should prepare them for effective usage of such devices for this purpose. It is also of paramount importance, for both researchers and practitioners, to comprehend the link between the modalities of the language learners' organization of their own learning experiences and environments and the role mobile technologies, in particular smartphones and tablets, play in these contexts.",
+      "page": 1,
+      "bbox": [
+        85.1,
+        532.4,
+        513.7,
+        717.0
+      ],
+      "id": "el_0012",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "According to Benson (2011), there has always been a connection between educational "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "technologies and learner autonomy to the extent that they have often been intended for "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "independent practice. It should be noted, however, that this link and “future enquiry "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "and practice into technology-mediated learner autonomy will need to be increasingly "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "aligned to the tools, settings, and activities that are of significance to language learners” "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(Reinders & White, 2016, p. 151). Reinders and White (2016) further argue that as long "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "as “the potential range of settings, tools, and experiences is now virtually limitless, "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "individuals need to be increasingly adept at critical adaptive learning in order to benefit "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "from and contribute effectively to those settings” (p. 151). Beyond doubt, contemporary "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "language teachers should equip foreign/second language learners with appropriate "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "knowledge concerning the affordances of mobile devices for language study and they "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "should prepare them for effective usage of such devices for this purpose. It is also of "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "paramount importance, for both researchers and practitioners, to comprehend the link "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "between the modalities of the language learners' organization of their own learning "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "experiences and environments and the role mobile technologies, in particular "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "smartphones and tablets, play in these contexts. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Taking into consideration the above-mentioned issues, the study reported in this article investigated ways advanced English language students use their mobile devices (i.e. smartphones and tablet computers) for their language learning. The article commences with a short overview of relevant literature. Next, the design of the study is described,",
+      "page": 1,
+      "bbox": [
+        85.1,
+        722.4,
+        513.7,
+        768.5
+      ],
+      "id": "el_0013",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Taking into consideration the above-mentioned issues, the study reported in this article "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "investigated ways advanced English language students use their mobile devices (i.e. "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "smartphones and tablet computers) for their language learning. The article commences "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "with a short overview of relevant literature. Next, the design of the study is described, "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "content": "images/p1_img2.png",
+      "page": 1,
+      "bbox": [
+        280.8,
+        788.9,
+        314.4,
+        815.4
+      ],
+      "id": "el_0014",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "namely a research question, description of participants, data collection tools and analysis. This is followed by the presentation of the results of the study. The article closes with discussion and conclusions.",
+      "page": 2,
+      "bbox": [
+        85.1,
+        70.9,
+        513.4,
+        105.5
+      ],
+      "id": "el_0015",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "namely a research question, description of participants, data collection tools and "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "analysis. This is followed by the presentation of the results of the study. The article "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "closes with discussion and conclusions. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h1",
+      "content": "2. Literature review",
+      "page": 2,
+      "bbox": [
+        85.1,
+        110.9,
+        190.8,
+        122.3
+      ],
+      "id": "el_0016",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "runs": [
+          {
+            "text": "2. Literature review"
+          }
+        ]
+      }
+    },
+    {
+      "type": "h2",
+      "content": "2.1. Autonomy in foreign/second language learning",
+      "page": 2,
+      "bbox": [
+        120.5,
+        127.7,
+        366.4,
+        139.1
+      ],
+      "id": "el_0017",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "2.1. Autonomy in foreign/second language learning"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The concept of autonomy in second/foreign language learning and teaching has been the focus of attention for many researchers and practitioners for more than three decades. According to Benson (2001), the notion of autonomy was introduced and popularized in 1981 by Henri Holec in his seminal report for the Council of Europe entitled Autonomy in Foreign Language Learning in which the researcher defined autonomy in the context of language learning as “the ability to take charge of one’s own learning” (Holec, 1981, p. 3). Holec’s idea of autonomy encompasses some components and capacities on the part of language learners (e.g. self-directed learning). For some other authors autonomy also involves “a capacity – for detachment, critical reflection, decision-making, and independent action” (Little, 1991, p. 4) and “the capacity to take control of one’s own learning” (Benson, 2001, p. 46). As stated by Benson (2011, p. 16), “autonomy is multidimensional and takes many different forms according to the person, the setting, and multiple contextual and micro-contextual factors” and it is “a multi-faceted concept that consists of several layers” (Reinders, 2011, p. 48) whose roots are based in political, societal and educational developments. In addition to this, work on autonomy emphasizes social dimensions of learner autonomy in view of the fact that “autonomous learners always do things for themselves, but they may or may not do things on their own” (Little, 2009, p. 223) and that by means of social interactions language learners “develop a capacity to analyze, reflect upon and synthesize information to create new perspectives” (Lee, 2011, p. 88). It should also be noted that recent research shows that fostering autonomy is no longer predominantly a matter of individualizing learning through out-of-class initiatives since the dominance of classroom-based approaches (Benson, 2011). Finally, it has to be added that researchers, in general, seem to be in agreement with the following claims suggested by Benson (2011): “(a) language learners naturally tend to take control of their learning, (b) learners who lack autonomy are capable of developing it, and (c) autonomous language learning is more effective than non-autonomous language learning” (p. 16).",
+      "page": 2,
+      "bbox": [
+        85.1,
+        144.5,
+        513.6,
+        467.8
+      ],
+      "id": "el_0018",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "The concept of autonomy in second/foreign language learning and teaching has been "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "the focus of attention for many researchers and practitioners for more than three "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "decades. According to Benson (2001), the notion of autonomy was introduced and "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "popularized in 1981 by Henri Holec in his seminal report for the Council of Europe "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "entitled Autonomy in Foreign Language Learning in which the researcher defined "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "autonomy in the context of language learning as “the ability to take charge of one’s own "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learning” (Holec, 1981, p. 3). Holec’s idea of autonomy encompasses some components "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "and capacities on the part of language learners (e.g. self-directed learning). For some "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "other authors autonomy also involves “a capacity – for detachment, critical reflection, "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "decision-making, and independent action” (Little, 1991, p. 4) and “the capacity to take "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "control of one’s own learning” (Benson, 2001, p. 46). As stated by Benson (2011, p. "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "16), “autonomy is multidimensional and takes many different forms according to the "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "person, the setting, and multiple contextual and micro-contextual factors” and it is “a "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "multi-faceted concept that consists of several layers” (Reinders, 2011, p. 48) whose "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "roots are based in political, societal and educational developments. In addition to this, "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "work on autonomy emphasizes social dimensions of learner autonomy in view of the "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "fact that “autonomous learners always do things for themselves, but they may or may "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "not do things on their own” (Little, 2009, p. 223) and that by means of social "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "interactions language learners “develop a capacity to analyze, reflect upon and "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "synthesize information to create new perspectives” (Lee, 2011, p. 88). It should also be "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "noted that recent research shows that fostering autonomy is no longer predominantly a "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "matter of individualizing learning through out-of-class initiatives since the dominance of "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "classroom-based approaches (Benson, 2011). Finally, it has to be added that "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "researchers, in general, seem to be in agreement with the following claims suggested "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "by Benson (2011): “(a) language learners naturally tend to take control of their "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learning, (b) learners who lack autonomy are capable of developing it, and (c) "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "autonomous language learning is more effective than non-autonomous language "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learning” (p. 16). "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Perhaps in order to define the concept of autonomy in language learning it is necessary to understand who autonomous learners are. As Littlewood (1996) claims, an autonomous learner is “one who has independent capacity to make and carry out choices which govern his or her actions” (p. 428). The researcher argues that this capacity depends on two major components such as ability and willingness, and he claims that the attributes can also be further subdivided. Thus, ability depends on having knowledge about the options from which one can choose and skills so as to choose the most suitable alternatives. When it comes to willingness, this depends on having motivation and confidence in order to take responsibility for adequate choices. Moreover, Littlewood (1996) argues that if an individual is to be successful in being autonomous, all of these components have to be present all together.",
+      "page": 2,
+      "bbox": [
+        85.1,
+        472.9,
+        513.7,
+        600.0
+      ],
+      "id": "el_0019",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Perhaps in order to define the concept of autonomy in language learning it is necessary "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "to understand who autonomous learners are. As Littlewood (1996) claims, an "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "autonomous learner is “one who has independent capacity to make and carry out "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "choices which govern his or her actions” (p. 428). The researcher argues that this "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "capacity depends on two major components such as ability and willingness, and he "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "claims that the attributes can also be further subdivided. Thus, ability depends on "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "having knowledge about the options from which one can choose and skills so as to "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "choose the most suitable alternatives. When it comes to willingness, this depends on "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "having motivation and confidence in order to take responsibility for adequate choices. "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Moreover, Littlewood (1996) argues that if an individual is to be successful in being "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "autonomous, all of these components have to be present all together. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "At the close of this section, a few words are in order on the notion of autonomous language learning. An interesting description of the concept in question is offered by Reinders (2011), who defines autonomous language learning as “an act of learning whereby motivated learners consciously make informed decisions about that learning” (p. 48). According to the said researcher, it is not possible or needed in all acts of learning to be able or ready to intentionally make decisions since different learning situations present different demands. Reinders (2011) further argues that “autonomy is not an either-or concept, but has to be seen as a continuum” (p. 48). This is because a learner can display more or less autonomy in different learning circumstances. Autonomy, in Reinders’ terms changes over time between skills and within skills and thus it is difficult to achieve and is not invariably permanent (Reinders, 2011).",
+      "page": 2,
+      "bbox": [
+        85.1,
+        605.3,
+        513.6,
+        732.3
+      ],
+      "id": "el_0020",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "At the close of this section, a few words are in order on the notion of autonomous "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "language learning. An interesting description of the concept in question is offered by "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Reinders (2011), who defines autonomous language learning as “an act of learning "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "whereby motivated learners consciously make informed decisions about that learning” "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(p. 48). According to the said researcher, it is not possible or needed in all acts of "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learning to be able or ready to intentionally make decisions since different learning "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "situations present different demands. Reinders (2011) further argues that “autonomy is "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "not an either-or concept, but has to be seen as a continuum” (p. 48). This is because a "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learner can display more or less autonomy in different learning circumstances. "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Autonomy, in Reinders’ terms changes over time between skills and within skills and "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "thus it is difficult to achieve and is not invariably permanent (Reinders, 2011). "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "content": "images/p2_img2.png",
+      "page": 2,
+      "bbox": [
+        280.8,
+        788.9,
+        314.4,
+        815.4
+      ],
+      "id": "el_0021",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "h2",
+      "content": "2.2. Autonomy and new technologies",
+      "page": 3,
+      "bbox": [
+        120.5,
+        70.9,
+        298.0,
+        82.4
+      ],
+      "id": "el_0022",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "2.2. Autonomy and new technologies"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "As stated in the previous section, the concept of autonomy has been one of the most researched areas in the field of second/foreign language learning and teaching over the last few decades. It should be noted, however, that the field of learner autonomy started to be influenced by technology in the mid-1990s as a result of the growing influence of the internet on almost every sphere of our life (including second/foreign language education) and the opportunities for online collaboration and communication (Reinders & White, 2016). As stated by Benson and Chik (2010), the latest generations of new technologies, particularly those encompassing the internet, user-generated Web content and mobility, seem to be having a bearing on the way autonomous language learning develops. Perhaps, one of the most important benefits of implementing new technologies into language learning is the fact that they provide occasions for language learners who do not have direct access to the target language. This is because the use of new technologies, including mobile technology, allow them to “bypass classrooms and go directly to target language texts and users through the internet and social media” (Benson, 2011, p. 17).",
+      "page": 3,
+      "bbox": [
+        85.1,
+        87.7,
+        513.6,
+        260.9
+      ],
+      "id": "el_0023",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "As stated in the previous section, the concept of autonomy has been one of the most "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "researched areas in the field of second/foreign language learning and teaching over the "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "last few decades. It should be noted, however, that the field of learner autonomy "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "started to be influenced by technology in the mid-1990s as a result of the growing "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "influence of the internet on almost every sphere of our life (including second/foreign "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "language education) and the opportunities for online collaboration and communication "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(Reinders & White, 2016). As stated by Benson and Chik (2010), the latest generations "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "of new technologies, particularly those encompassing the internet, user-generated Web "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "content and mobility, seem to be having a bearing on the way autonomous language "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learning develops. Perhaps, one of the most important benefits of implementing new "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "technologies into language learning is the fact that they provide occasions for language "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learners who do not have direct access to the target language. This is because the use "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "of new technologies, including mobile technology, allow them to “bypass classrooms and "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "go directly to target language texts and users through the internet and social media” "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(Benson, 2011, p. 17). "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "When it comes to the use of mobile technology, and, in particular, smartphones and tablet computers, for learning a foreign or second language, they can assist language learners with their learning endeavors by granting access to numerous language resources whenever and wherever such learners need them and/or they happen to be (Jones, 2015). In Jones’s opinion, such language involvement might comprise, for instance, the use of chunks of spare time for language practice, searching for target language vocabulary in relevant contexts or interactions on social media (Jones, 2015). Furthermore, by having a mobile device a language learner has the opportunity to take control of his or her learning, direct it and engage in language activities that meet his or her individual needs and goals (Kukulska-Hulme, Traxler & Pettit, 2007; Pettit & Kukulska-Hulme 2007).",
+      "page": 3,
+      "bbox": [
+        85.1,
+        266.2,
+        513.6,
+        393.1
+      ],
+      "id": "el_0024",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "When it comes to the use of mobile technology, and, in particular, smartphones and "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "tablet computers, for learning a foreign or second language, they can assist language "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learners with their learning endeavors by granting access to numerous language "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "resources whenever and wherever such learners need them and/or they happen to be "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(Jones, 2015). In Jones’s opinion, such language involvement might comprise, for "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "instance, the use of chunks of spare time for language practice, searching for target "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "language vocabulary in relevant contexts or interactions on social media (Jones, 2015). "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Furthermore, by having a mobile device a language learner has the opportunity to take "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "control of his or her learning, direct it and engage in language activities that meet his or "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "her individual needs and goals (Kukulska-Hulme, Traxler & Pettit, 2007; Pettit & "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Kukulska-Hulme 2007). "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Given the importance attached to new technologies, and, in particular the potential role of mobile devices in autonomous language learning, the terms mobile learning and mobile devices (MobDs) need first to be explained. As for mobile learning, no single agreed-upon definition of the term exists in the literature (Oz, 2015). This is because some researchers define mobile learning as an extension of e-learning built upon mobile devices whereas some other researchers understand  it as learning that happens anywhere and anytime (cf. Oz, 2015). As far as mobile devices are concerned, they can be defined as “any device that is small, autonomous and unobtrusive enough to accompany us in every moment and can be used for educational purposes” (Trifanova Knapp, Ronchetti & Gamper, 2004, p. 3) or as “hand held electronic devices that can be comfortably carried around in a pocket or bag, including MP3 players, digital recorders, e-readers, tablets, and smartphones” (Kukulska-Hulme, Norris & Donohue, 2015, p. 39).",
+      "page": 3,
+      "bbox": [
+        85.1,
+        398.4,
+        513.7,
+        548.5
+      ],
+      "id": "el_0025",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Given the importance attached to new technologies, and, in particular the potential role "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "of "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "mobile "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "devices "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "in "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "autonomous "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "language "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learning, "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "the "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "terms mobile "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learning and mobile devices (MobDs) need first to be explained. As for mobile learning, "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "no single agreed-upon definition of the term exists in the literature (Oz, 2015). This is "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "because some researchers define mobile learning as an extension of e-learning built "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "upon mobile devices whereas some other researchers understand  it as learning that "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "happens anywhere and anytime (cf. Oz, 2015). As far as mobile devices are concerned, "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "they can be defined as “any device that is small, autonomous and unobtrusive enough "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "to accompany us in every moment and can be used for educational purposes” "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(Trifanova Knapp, Ronchetti & Gamper, 2004, p. 3) or as “hand held electronic devices "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "that can be comfortably carried around in a pocket or bag, including MP3 players, digital "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "recorders, e-readers, tablets, and smartphones” (Kukulska-Hulme, Norris & Donohue, "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "2015, p. 39). "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "A lot of studies concerning the use of mobile technology and mobile devices in language learning have been published. The findings of these studies concentrated on, for example, language learners’ views on the use of mobile devices in language instruction (e.g. Oz, 2015), students’ attitudes towards using mobile phones as instructional tools for foreign language learning (e.g. Cakir, 2015), profiling mobile language learners (e.g. Byrne & Diem, 2014), their effect on learning a foreign/second language (e.g. Nah, White & Sussex, 2008; Cavus & Ibrahim, 2009; Zhang, Song & Burston, 2011), distance language learning (e.g. Demouy, Jones, Kan, Kukulska-Hulme & Eardley, 2016), informal language learning practices (Reinders & Cho, 2011; Jones, 2015), learners’ use of mobile devices for learning a foreign language (Stockwell, 2007; Dashtestani, 2015) and autonomy in language learning (e.g. Díaz-Vera, 2012; Djoub, 2015). In addition to this, researchers investigated a number of applications of mobile devices and presented both benefits and drawbacks of the usage of mobile technologies (e.g. Miangah & Nezarat, 2012), discussed the use of mobile devices in supporting social contacts and collaborative learning (e.g. Kukulska-Hulme & Shield, 2008) and offered guidelines related to the implementation of mobile learning into second/foreign language instruction (e.g. Kukulska-Hulme et al., 2015).",
+      "page": 3,
+      "bbox": [
+        85.1,
+        553.9,
+        513.7,
+        750.0
+      ],
+      "id": "el_0026",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "A lot of studies concerning the use of mobile technology and mobile devices in language "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learning have been published. The findings of these studies concentrated on, for "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "example, language learners’ views on the use of mobile devices in language instruction "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(e.g. Oz, 2015), students’ attitudes towards using mobile phones as instructional tools "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "for foreign language learning (e.g. Cakir, 2015), profiling mobile language learners (e.g. "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Byrne & Diem, 2014), their effect on learning a foreign/second language (e.g. Nah, "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "White & Sussex, 2008; Cavus & Ibrahim, 2009; Zhang, Song & Burston, 2011), "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "distance language learning (e.g. Demouy, Jones, Kan, Kukulska-Hulme & Eardley, "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "2016), informal language learning practices (Reinders & Cho, 2011; Jones, 2015), "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learners’ use of mobile devices for learning a foreign language (Stockwell, 2007; "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Dashtestani, 2015) and autonomy in language learning (e.g. Díaz-Vera, 2012; Djoub, "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "2015). In addition to this, researchers investigated a number of applications of mobile "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "devices and presented both benefits and drawbacks of the usage of mobile technologies "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(e.g. Miangah & Nezarat, 2012), discussed the use of mobile devices in supporting "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "social contacts and collaborative learning (e.g. Kukulska-Hulme & Shield, 2008) and "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "offered guidelines related to the implementation of mobile learning into second/foreign "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "language instruction (e.g. Kukulska-Hulme et al., 2015). "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "content": "images/p3_img2.png",
+      "page": 3,
+      "bbox": [
+        280.8,
+        788.9,
+        314.4,
+        815.4
+      ],
+      "id": "el_0027",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "h1",
+      "content": "3. Method",
+      "page": 4,
+      "bbox": [
+        85.1,
+        70.9,
+        138.0,
+        82.4
+      ],
+      "id": "el_0028",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "runs": [
+          {
+            "text": "3. Method"
+          }
+        ]
+      }
+    },
+    {
+      "type": "h2",
+      "content": "3.1. Research question",
+      "page": 4,
+      "bbox": [
+        120.5,
+        87.7,
+        230.2,
+        99.2
+      ],
+      "id": "el_0029",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "3.1. Research question"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "One of the questions related to future research and practice in technology-mediated learner autonomy addressed by Reinders and White in their recent critical overview of the relationship between technology and autonomy in the journal Language Learning & Technology (LLT) concerned language learners engagement with technology-mediated environments in order to develop learning experiences that reach their aims and meet their needs as language learners (Reinders & White, 2016). Taking this important matter into consideration, and in view of the fact that mobile technology, including mobile devices such as smartphones and tablet computers, are ubiquitous and substantial constituents of almost every language learner’s everyday life, the abovementioned question was modified and posed in this study in the following way:",
+      "page": 4,
+      "bbox": [
+        85.1,
+        104.5,
+        513.7,
+        219.9
+      ],
+      "id": "el_0030",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "One of the questions related to future research and practice in technology-mediated "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learner autonomy addressed by Reinders and White in their recent critical overview of "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "the relationship between technology and autonomy in the journal Language Learning & "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Technology (LLT) concerned language learners engagement with technology-mediated "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "environments in order to develop learning experiences that reach their aims and meet "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "their needs as language learners (Reinders & White, 2016). Taking this important "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "matter into consideration, and in view of the fact that mobile technology, including "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "mobile devices such as smartphones and tablet computers, are ubiquitous and "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "substantial constituents of almost every language learner’s everyday life, the "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "abovementioned question was modified and posed in this study in the following way: "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Do students engage with their mobile devices to develop learning experiences (e.g. the use of mobile devices for formal and/or informal English language study) that meet their needs and goals (e.g. the development of the target language skills and sub-skills) as English language learners? If yes, why and how do they do this?",
+      "page": 4,
+      "bbox": [
+        120.5,
+        225.2,
+        513.7,
+        282.9
+      ],
+      "id": "el_0031",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Do students engage with their mobile devices to develop learning experiences "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(e.g. the use of mobile devices for formal and/or informal English language "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "study) that meet their needs and goals (e.g. the development of the target "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "language skills and sub-skills) as English language learners? If yes, why and how "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "do they do this?"
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h2",
+      "content": "3.2. Participants",
+      "page": 4,
+      "bbox": [
+        120.5,
+        288.2,
+        198.5,
+        299.7
+      ],
+      "id": "el_0032",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "3.2. Participants"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The participants were 20 Polish university students of English philology, nine of whom (seven females and two males) were in the second year of their BA programme, six (five females and one male) in the third year and five (all females) in the second year of their MA program (1). The study participants were on average 22.22 years old (20.66 - year 2, BA; 21.82 - year 3, BA and 24.50 - year 2, MA). The subjects reported having learned English for an average of 11.38 years (10.49 - year 2, BA; 11.27 - year 3, BA and 12.21 - year 2, MA). The proficiency level represented by the participants of the study could be described as somewhere between B1 and B2 (second year BA students), B2 and C1 (third year BA students) and C1 and C2 (second year MA students), as specified in the levels laid out in the Common European Framework of Reference for Languages.",
+      "page": 4,
+      "bbox": [
+        85.1,
+        305.0,
+        513.7,
+        432.0
+      ],
+      "id": "el_0033",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "The participants were 20 Polish university students of English philology, nine of whom "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(seven females and two males) were in the second year of their BA programme, six "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(five females and one male) in the third year and five (all females) in the second year of "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "their MA program ("
+          },
+          {
+            "text": "1",
+            "uri": "http://eurocall.webs.upv.es/index.php?m=menu_00&n=news_25_2#_ftn1a"
+          },
+          {
+            "text": "). The study participants were on average 22.22 years old (20.66 - "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "year 2, BA; 21.82 - year 3, BA and 24.50 - year 2, MA). The subjects reported having "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learned English for an average of 11.38 years (10.49 - year 2, BA; 11.27 - year 3, BA "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "and 12.21 - year 2, MA). The proficiency level represented by the participants of the "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "study could be described as somewhere between B1 and B2 (second year BA students), "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "B2 and C1 (third year BA students) and C1 and C2 (second year MA students), as "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "specified in the levels laid out in the Common European Framework of Reference for "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Languages. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h2",
+      "content": "3.3. Data collection and analysis",
+      "page": 4,
+      "bbox": [
+        120.5,
+        437.3,
+        275.5,
+        448.8
+      ],
+      "id": "el_0034",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "3.3. Data collection and analysis"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The data were gathered by means of a semi-structured interview. This interview format was chosen intentionally since it uses a set of prepared in advance guiding questions and prompts and interviewees are encouraged to elaborate on the problems raised during it (Dörnyei, 2007). As Dörnyei (2007) explains, in this type of the interview “the interviewer provides guidelines and direction (hence the ‘-structured’ part in the name), but is also keen to follow up interesting developments and to let the interviewee elaborate on certain issues (hence the ‘semi-’ part)” (p. 136).",
+      "page": 4,
+      "bbox": [
+        85.1,
+        454.1,
+        513.5,
+        534.9
+      ],
+      "id": "el_0035",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "The data were gathered by means of a semi-structured interview. This interview format "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "was chosen intentionally since it uses a set of prepared in advance guiding questions "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "and prompts and interviewees are encouraged to elaborate on the problems raised "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "during it (Dörnyei, 2007). As Dörnyei (2007) explains, in this type of the interview “the "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "interviewer provides guidelines and direction (hence the ‘-structured’ part in the name), "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "but is also keen to follow up interesting developments and to let the interviewee "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "elaborate on certain issues (hence the ‘semi-’ part)” (p. 136). "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "During the interview, the present researcher attempted to encourage the subjects to describe their learning experiences concerning the use of mobile devices for English study. This was a form of introspection where the students were prompted to examine their behaviors and provide a first person narrative of such experiences. All the study participants were informed that the interview concerned the use of mobile devices for English study and they were asked for permission to be digitally recorded. In order to obtain relevant data the following questions were asked (2):",
+      "page": 4,
+      "bbox": [
+        85.1,
+        540.2,
+        513.6,
+        621.0
+      ],
+      "id": "el_0036",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "During the interview, the present researcher attempted to encourage the subjects to "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "describe their learning experiences concerning the use of mobile devices for English "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "study. This was a form of introspection where the students were prompted to examine "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "their behaviors and provide a first person narrative of such experiences. All the study "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "participants were informed that the interview concerned the use of mobile devices for "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "English study and they were asked for permission to be digitally recorded. In order to "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "obtain relevant data the following questions were asked ("
+          },
+          {
+            "text": "2",
+            "uri": "http://eurocall.webs.upv.es/index.php?m=menu_00&n=news_25_2#_ftn2a"
+          },
+          {
+            "text": "): "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Do you use your mobile devices (e.g. smartphones, tablets, MP3 players,",
+      "page": 4,
+      "bbox": [
+        106.5,
+        626.3,
+        502.5,
+        638.5
+      ],
+      "id": "el_0037",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Do you use your mobile devices (e.g. smartphones, tablets, MP3 players, "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "PDAs) for learning English? Why do you use your mobile device(s) for learning English? When did you start using your mobile device(s) for learning English? Has the",
+      "page": 4,
+      "bbox": [
+        106.5,
+        638.3,
+        502.1,
+        674.1
+      ],
+      "id": "el_0038",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "PDAs) for learning English? "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Why do you use your mobile device(s) for learning English? "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "When did you start using your mobile device(s) for learning English? Has the "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "use of your mobile device(s) increased or decreased since that time? Do you use your mobile device(s) during classes? Do you use your mobile device(s) more frequently in- or out-of-class English",
+      "page": 4,
+      "bbox": [
+        106.5,
+        674.0,
+        502.5,
+        709.8
+      ],
+      "id": "el_0039",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "use of your mobile device(s) increased or decreased since that time? "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Do you use your mobile device(s) during classes? "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Do you use your mobile device(s) more frequently in- or out-of-class English "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "learning? What mobile apps have you been using most frequently and/or recently? Do you use your mobile device(s) more often in relation to formal or informal",
+      "page": 4,
+      "bbox": [
+        106.5,
+        709.6,
+        502.5,
+        745.4
+      ],
+      "id": "el_0040",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "learning? "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "What mobile apps have you been using most frequently and/or recently? "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Do you use your mobile device(s) more often in relation to formal or informal "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "English language study?",
+      "page": 4,
+      "bbox": [
+        120.5,
+        745.3,
+        239.7,
+        756.8
+      ],
+      "id": "el_0041",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "English language study? "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "content": "images/p4_img2.png",
+      "page": 4,
+      "bbox": [
+        280.8,
+        788.9,
+        314.4,
+        815.4
+      ],
+      "id": "el_0042",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "Do you organize regular formal or informal mobile English language learning",
+      "page": 5,
+      "bbox": [
+        106.5,
+        70.9,
+        502.2,
+        83.1
+      ],
+      "id": "el_0043",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Do you organize regular formal or informal mobile English language learning "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "sessions? What do you learn most frequently by means of your mobile device(s)? Why",
+      "page": 5,
+      "bbox": [
+        106.5,
+        83.0,
+        502.2,
+        106.7
+      ],
+      "id": "el_0044",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "sessions? "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "What do you learn most frequently by means of your mobile device(s)? Why "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "this? Do you feel that thanks to the use of your mobile device(s) you devote more",
+      "page": 5,
+      "bbox": [
+        106.5,
+        106.5,
+        502.4,
+        130.3
+      ],
+      "id": "el_0045",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "this? "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Do you feel that thanks to the use of your mobile device(s) you devote more "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "time for learning the English language? As far as learning English through your mobile device(s) is concerned, do you",
+      "page": 5,
+      "bbox": [
+        106.5,
+        130.2,
+        502.3,
+        153.9
+      ],
+      "id": "el_0046",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "time for learning the English language? "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "As far as learning English through your mobile device(s) is concerned, do you "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "consider yourself as an experienced user of such device(s)?",
+      "page": 5,
+      "bbox": [
+        120.5,
+        153.8,
+        409.5,
+        165.3
+      ],
+      "id": "el_0047",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "consider yourself as an experienced user of such device(s)? "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The gathered data were subjected to qualitative and quantitative analysis. The analysis started with partial transcription of the important parts of the data (Dörnyei, 2007) on a computer word processor program Microsoft Word 2016. Then the transcribed parts of the data were read several times in order to look for common themes and frequently occurring information. The recurring ideas were coded and recoded, revised and updated. The researcher used the highlighting function of the word processor program which allows the user to highlight the text on the transcript with different colors and comments to record any observations and thematic categories recognized in the data. The emerged categories were reviewed, compared, modified and either merged or abandoned. It should also be noted that the obtained data were analyzed quantitatively. This type of analysis involved counting the number of the interviewees’ responses and calculating percentages.",
+      "page": 5,
+      "bbox": [
+        85.1,
+        170.6,
+        513.6,
+        309.1
+      ],
+      "id": "el_0048",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "The gathered data were subjected to qualitative and quantitative analysis. The analysis "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "started with partial transcription of the important parts of the data (Dörnyei, 2007) on a "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "computer word processor program Microsoft Word 2016. Then the transcribed parts of "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "the data were read several times in order to look for common themes and frequently "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "occurring information. The recurring ideas were coded and recoded, revised and "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "updated. The researcher used the highlighting function of the word processor program "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "which allows the user to highlight the text on the transcript with different colors and "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "comments to record any observations and thematic categories recognized in the data. "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "The emerged categories were reviewed, compared, modified and either merged or "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "abandoned. It should also be noted that the obtained data were analyzed quantitatively. "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "This type of analysis involved counting the number of the interviewees’ responses and "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "calculating percentages. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h1",
+      "content": "4. Findings",
+      "page": 5,
+      "bbox": [
+        85.1,
+        314.4,
+        143.5,
+        325.9
+      ],
+      "id": "el_0049",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "runs": [
+          {
+            "text": "4. Findings"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "A thorough analysis of the data yielded the following thematic categories: usage of mobile devices, reasons for using mobile devices, resources and tools, mobile encounters, language practiced and study performance.",
+      "page": 5,
+      "bbox": [
+        85.1,
+        331.2,
+        513.7,
+        365.7
+      ],
+      "id": "el_0050",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "A thorough analysis of the data yielded the following thematic categories: usage of "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "mobile devices, reasons for using mobile devices, resources and "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "tools, mobile "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "encounters, language practiced and study performance. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h2",
+      "content": "4.1. Usage of mobile devices",
+      "page": 5,
+      "bbox": [
+        120.5,
+        371.1,
+        258.2,
+        382.6
+      ],
+      "id": "el_0051",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "4.1. Usage of mobile devices"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 1 shows the study participants’ mobile devices (MobDs) usage descriptions. The table demonstrates that smartphones were the most often used mobile devices by the students. In addition, the numerical information in the table indicates that the participants, on average, had been using them for English language study for about",
+      "page": 5,
+      "bbox": [
+        85.1,
+        387.9,
+        513.5,
+        434.0
+      ],
+      "id": "el_0052",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Table 1 shows the study participants’ mobile devices (MobDs) usage descriptions. The "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "table demonstrates that smartphones were the most often used mobile devices by the "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "students. In addition, the numerical information in the table indicates that the "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "participants, on average, had been using them for English language study for about "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h2",
+      "content": "3.80 years (minimum 2, maximum 6 years). 9 (45%) and 11 (55%) of the subjects",
+      "page": 5,
+      "bbox": [
+        85.1,
+        434.1,
+        513.6,
+        445.6
+      ],
+      "id": "el_0053",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "3.80 years (minimum 2, maximum 6 years). 9 (45%) and 11 (55%) of the subjects "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "started using their mobile devices at senior high school and university, respectively. It should also be added that, with the exception of one student (i.e. S9), all the other participants claimed to use their mobile devices in order to learn English much more frequently with time. Finally, more than half of the students (55%) regarded themselves as experienced or fairly experienced users of their MobDs for English language learning; however, 45% claimed not to be very skilful in this area.",
+      "page": 5,
+      "bbox": [
+        85.1,
+        445.6,
+        513.5,
+        514.8
+      ],
+      "id": "el_0054",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "started using their mobile devices at senior high school and university, respectively. It "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "should also be added that, with the exception of one student (i.e. S9), all the other "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "participants claimed to use their mobile devices in order to learn English much more "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "frequently with time. Finally, more than half of the students (55%) regarded themselves "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "as experienced or fairly experienced users of their MobDs for English language learning; "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "however, 45% claimed not to be very skilful in this area. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Table 1. The students’ mobile devices usage descriptions.",
+      "page": 5,
+      "bbox": [
+        85.1,
+        520.1,
+        364.1,
+        531.6
+      ],
+      "id": "el_0055",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Table 1. The students’ mobile devices usage descriptions. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "header": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "rows": [
+          [
+            "Year/\nLevel of\nstudy",
+            "",
+            "",
+            "",
+            "Use of MobDs",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Self-assessed"
+          ],
+          [
+            "",
+            "Student",
+            "Sex",
+            "Deviceused",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "for language",
+            "experience"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "study (approx.)",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "S1",
+            "female",
+            "smartphoneandtablet",
+            "2years",
+            "notveryexperienced"
+          ],
+          [
+            "",
+            "S2",
+            "female",
+            "smartphone",
+            "5years",
+            "experienced"
+          ],
+          [
+            "",
+            "S3",
+            "female",
+            "smartphone",
+            "5years",
+            "fairlyexperienced"
+          ],
+          [
+            "2nd year\nBA\n. .",
+            "S4",
+            "female",
+            "smartphone rarelytablet\n,",
+            "4years",
+            "fairlyexperienced"
+          ],
+          [
+            "",
+            "S5",
+            "female",
+            "smartphone",
+            "3years",
+            "notveryexperienced"
+          ],
+          [
+            "",
+            "S6",
+            "male",
+            "smartphone",
+            "2years",
+            "experienced"
+          ],
+          [
+            "",
+            "S7",
+            "female",
+            "smartphoneandtablet",
+            "5years",
+            "fairlyexperienced"
+          ]
+        ]
+      },
+      "page": 5,
+      "bbox": [
+        83.0,
+        537.4,
+        512.4,
+        763.6
+      ],
+      "id": "el_0056",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "image",
+      "content": "images/p5_img2.png",
+      "page": 5,
+      "bbox": [
+        280.8,
+        788.9,
+        314.4,
+        815.4
+      ],
+      "id": "el_0057",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "table",
+      "content": {
+        "header": [
+          "",
+          "S8",
+          "female",
+          "smartphone",
+          "2years",
+          "fairlyexperienced",
+          ""
+        ],
+        "rows": [
+          [
+            "",
+            "S9",
+            "male",
+            "smartphone",
+            "4years",
+            "notveryexperienced",
+            ""
+          ],
+          [
+            "3rdyear",
+            "S10",
+            "female",
+            "smartphone",
+            "5years",
+            "fairlyexperienced",
+            ""
+          ],
+          [
+            "",
+            "S11",
+            "female",
+            "tabletandcellphone",
+            "2years",
+            "fairlyexperienced",
+            ""
+          ],
+          [
+            "",
+            "S12",
+            "female",
+            "smartphone",
+            "2years",
+            "notveryexperienced",
+            ""
+          ],
+          [
+            "BA\n. .",
+            "S13",
+            "female",
+            "smartphone",
+            "3years",
+            "notveryexperienced",
+            ""
+          ],
+          [
+            "",
+            "S14",
+            "male",
+            "smartphoneandtablet",
+            "3years",
+            "experienced",
+            ""
+          ],
+          [
+            "",
+            "S15",
+            "female",
+            "smartphoneandtablet",
+            "5years",
+            "fairlyexperienced",
+            ""
+          ],
+          [
+            "",
+            "S16",
+            "female",
+            "smartphone",
+            "3years",
+            "notveryexperienced",
+            ""
+          ],
+          [
+            "",
+            "S17",
+            "female",
+            "smartphoneandtablet",
+            "6years",
+            "fairlyexperienced",
+            ""
+          ],
+          [
+            "2nd year\nMA\n. .",
+            "S18",
+            "female",
+            "smartphone",
+            "5years",
+            "notveryexperienced",
+            ""
+          ],
+          [
+            "",
+            "S19",
+            "female",
+            "smartphoneandtablet",
+            "5years",
+            "notveryexperienced",
+            ""
+          ],
+          [
+            "",
+            "S20",
+            "female",
+            "smartphoneandtablet",
+            "5years",
+            "fairlyexperienced",
+            ""
+          ]
+        ]
+      },
+      "page": 6,
+      "bbox": [
+        82.7,
+        73.2,
+        514.8,
+        399.7
+      ],
+      "id": "el_0058",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "h2",
+      "content": "4.2. Reasons for using mobile devices",
+      "page": 6,
+      "bbox": [
+        120.5,
+        425.2,
+        301.5,
+        436.7
+      ],
+      "id": "el_0059",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "4.2. Reasons for using mobile devices"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The study participants decided on the use of their MobDs in order to learn English for the reason that they regarded them as convenient, fast and always ready to use. In addition, some students pointed to the fact that the use of MobDs allowed them to have quick access to the internet and organize their own study materials and/or resources. Illustrative examples of such opinions are provided below (3):",
+      "page": 6,
+      "bbox": [
+        85.1,
+        442.0,
+        513.7,
+        499.6
+      ],
+      "id": "el_0060",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "The study participants decided on the use of their MobDs in order to learn English for "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "the reason that they regarded them as convenient, fast and always ready to use. In "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "addition, some students pointed to the fact that the use of MobDs allowed them to have "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "quick access to the internet and organize their own study materials and/or resources. "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Illustrative examples of such opinions are provided below ("
+          },
+          {
+            "text": "3",
+            "uri": "http://eurocall.webs.upv.es/index.php?m=menu_00&n=news_25_2#_ftn3a"
+          },
+          {
+            "text": "): "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "S10: It’s very comfortable. I can reach for my dictionary any time I want and I don’t have to carry thick books (...) The main aspect is convenience.",
+      "page": 6,
+      "bbox": [
+        120.5,
+        504.9,
+        513.3,
+        528.0
+      ],
+      "id": "el_0061",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "S10: It’s very comfortable. I can reach for my dictionary any time I want and I "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "don’t have to carry thick books (...) The main aspect is convenience."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "S5: It’s because I can find needed information ... it’s convenient because I always carry my smartphone and I have access to the internet all the time (...) At home I also use my smartphone and I don’t mind it has a small screen.",
+      "page": 6,
+      "bbox": [
+        120.5,
+        533.3,
+        513.6,
+        567.9
+      ],
+      "id": "el_0062",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "S5: It’s because I can find needed information ... it’s convenient because I "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "always carry my smartphone and I have access to the internet all the time (...) "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "At home I also use my smartphone and I don’t mind it has a small screen."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "S14: My tablet lets me organize things and keep my documents in one place. This is because studying English means having countless study materials (...) I can store them there (...) this also gives me easier access to them (...) In addition, my smartphone can successfully replace a traditional paper dictionary and I don’t have to waste time in thumbing through a lot of pages to find words I’m looking for.",
+      "page": 6,
+      "bbox": [
+        120.5,
+        573.2,
+        513.6,
+        642.4
+      ],
+      "id": "el_0063",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "S14: My tablet lets me organize things and keep my documents in one place. "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "This is because studying English means having countless study materials (...) I "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "can store them there (...) this also gives me easier access to them (...) In "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "addition, my smartphone can successfully replace a traditional paper dictionary "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "and I don’t have to waste time in thumbing through a lot of pages to find words "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "I’m looking for."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h2",
+      "content": "4.3. Resources and tools",
+      "page": 6,
+      "bbox": [
+        120.5,
+        647.7,
+        238.4,
+        659.2
+      ],
+      "id": "el_0064",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "4.3. Resources and tools"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The analysis of the data revealed that the students made use of both online resources and mobile apps. The most frequently used language tools were online dictionaries (e.g. diki, ColorDict Dictionary) and a variety of mobile apps, such as Google Translate, Duolingo and Fiszkoteka. The students usually accessed these tools in order to check, revise and learn the target language vocabulary. Two students also reported using Voscreen and WhatsApp, i.e. mobile apps for watching video and communicating with people, respectively. It should also be noted that the interviewees pointed out various online resources they used with the purpose of practicing reading and listening skills (e.g. TED, online newspapers, YouTube), vocabulary (e.g. 6 Minute",
+      "page": 6,
+      "bbox": [
+        85.1,
+        664.5,
+        513.7,
+        768.4
+      ],
+      "id": "el_0065",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "The analysis of the data revealed that the students made use of both online resources "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "and mobile apps. The most frequently used language tools were online dictionaries "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(e.g. diki, ColorDict Dictionary) and a variety of mobile apps, such as Google "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Translate, Duolingo and Fiszkoteka. The students usually accessed these tools in order "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "to check, revise and learn the target language vocabulary. Two students also reported "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "using Voscreen and WhatsApp, i.e. mobile apps for watching video and communicating "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "with people, respectively. It should also be noted that the interviewees pointed out "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "various online resources they used with the purpose of practicing reading and listening "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "skills "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(e.g. TED, "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "online "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "newspapers, YouTube), "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "vocabulary "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(e.g. 6 "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Minute "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "content": "images/p6_img2.png",
+      "page": 6,
+      "bbox": [
+        280.8,
+        788.9,
+        314.4,
+        815.4
+      ],
+      "id": "el_0066",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "English, PONS, Google Translate) and having access to language materials (e.g. Academica). Finally, some students used their MobDs in order to read language materials downloaded from the internet (e.g. PDF files). The following responses illustrate some of these issues:",
+      "page": 7,
+      "bbox": [
+        85.1,
+        70.9,
+        513.5,
+        117.1
+      ],
+      "id": "el_0067",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "English, PONS, Google "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Translate) "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "and "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "having "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "access "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "to "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "language "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "materials "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(e.g. Academica). Finally, some students used their MobDs in order to read language "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "materials downloaded from the internet (e.g. PDF files). The following responses "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "illustrate some of these issues: "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "S5: I use apps for “index cards”, dictionaries and a variety of apps for developing English vocabulary.",
+      "page": 7,
+      "bbox": [
+        120.5,
+        122.4,
+        513.3,
+        145.4
+      ],
+      "id": "el_0068",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "S5: I use apps for “index cards”, dictionaries and a variety of apps for "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "developing English vocabulary."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "S10: I have some online friends and I talk with them in English (Do you do this by means of instant messaging applications?) Yes, I use WhatsApp Messenger.",
+      "page": 7,
+      "bbox": [
+        120.5,
+        150.7,
+        513.3,
+        173.7
+      ],
+      "id": "el_0069",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "S10: I have some online friends and I talk with them in English (Do you do this "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "by means of instant messaging applications?) Yes, I use WhatsApp Messenger."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "S15: I often read scanned book pages and pdf materials (…) I access English vocabulary by means of online dictionaries.",
+      "page": 7,
+      "bbox": [
+        120.5,
+        179.0,
+        513.4,
+        202.1
+      ],
+      "id": "el_0070",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "S15: I often read scanned book pages and pdf materials (…) I access English "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "vocabulary by means of online dictionaries."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "S20: Fiszkoteka. I frequently use this app (...) I also listen to podcasts and I have the app called Six minutes English in order to practice listening (...) Also because vocabulary is used in a variety of contexts.",
+      "page": 7,
+      "bbox": [
+        120.5,
+        207.5,
+        513.4,
+        242.0
+      ],
+      "id": "el_0071",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "S20: Fiszkoteka. I frequently use this app (...) I also listen to podcasts and I "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "have the app called Six minutes English in order to practice listening (...) Also "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "because vocabulary is used in a variety of contexts."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h2",
+      "content": "4.4. Mobile encounters",
+      "page": 7,
+      "bbox": [
+        120.5,
+        247.3,
+        229.4,
+        258.8
+      ],
+      "id": "el_0072",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "4.4. Mobile encounters"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Thirteen (65%) interviewees claimed to use their MobDs most frequently in their leisure time, six (30%) in the classroom and one student said he had used his smartphone equally frequently in the classroom and out-of-class English study. As for the students who used their smartphones or tablet computers in their leisure time, some of them did it with the aim of reading English texts, listening to audio resources, checking and learning new vocabulary, preparing multimedia presentations and playing language games. This is not to say, of course, that this group of learners did not use their MobDs at all during classes; however, the use of MobDs in this respect was only limited to checking target language vocabulary (e.g. S1: I use my smartphone, for example, to check something I don’t understand (...) I installed a dictionary and I use it to find words). When it comes to the subjects who claimed to use their MobDs  most frequently in the classroom, they used them to check unfamiliar vocabulary and/or find words they needed during various language activities. It is also important to note that these students were not very willing to use their MobDs at home in view of the fact that they favored their home computers. For example:",
+      "page": 7,
+      "bbox": [
+        85.1,
+        264.1,
+        513.5,
+        437.3
+      ],
+      "id": "el_0073",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Thirteen (65%) interviewees claimed to use their MobDs most frequently in their leisure "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "time, six (30%) in the classroom and one student said he had used his smartphone "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "equally frequently in the classroom and out-of-class English study. As for the students "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "who used their smartphones or tablet computers in their leisure time, some of them did "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "it with the aim of reading English texts, listening to audio resources, checking and "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learning new vocabulary, preparing multimedia presentations and playing language "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "games. This is not to say, of course, that this group of learners did not use their MobDs "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "at all during classes; however, the use of MobDs in this respect was only limited to "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "checking target language vocabulary (e.g. S1: I use my smartphone, for example, to "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "check something I don’t understand (...) I installed a dictionary and I use it to find "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "words). When it comes to the subjects who claimed to use their MobDs  most frequently "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "in the classroom, they used them to check unfamiliar vocabulary and/or find words they "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "needed during various language activities. It is also important to note that these "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "students were not very willing to use their MobDs at home in view of the fact that they "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "favored their home computers. For example: "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "S7: I use them outside of University in order to learn and practice English vocabulary and to prepare multimedia presentations.",
+      "page": 7,
+      "bbox": [
+        120.5,
+        442.6,
+        513.4,
+        465.6
+      ],
+      "id": "el_0074",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "S7: I use them outside of University in order to learn and practice English "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "vocabulary and to prepare multimedia presentations."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "S13: In my free time I learn English words and phrases, listen to English recordings and I read various texts in English.",
+      "page": 7,
+      "bbox": [
+        120.5,
+        470.9,
+        513.5,
+        493.9
+      ],
+      "id": "el_0075",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "S13: In my free time I learn English words and phrases, listen to English "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "recordings and I read various texts in English."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "S19: Yes, I use my smartphone and tablet for out-of-class learning but I also use them during classes mostly to check words and collocations.",
+      "page": 7,
+      "bbox": [
+        120.5,
+        499.2,
+        513.5,
+        522.2
+      ],
+      "id": "el_0076",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "S19: Yes, I use my smartphone and tablet for out-of-class learning but I also "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "use them during classes mostly to check words and collocations."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "S16: I think I do this during practical English language classes more regularly in the classroom than outside of it (...) In the classroom I check English words in digital dictionaries (...) I do this to check words, spelling, or to recall some words (...) or I use my smartphone to look for synonyms (...).",
+      "page": 7,
+      "bbox": [
+        120.5,
+        527.6,
+        513.4,
+        573.7
+      ],
+      "id": "el_0077",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "S16: I think I do this during practical English language classes more regularly in "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "the classroom than outside of it (...) In the classroom I check English words in "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "digital dictionaries (...) I do this to check words, spelling, or to recall some words "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(...) or I use my smartphone to look for synonyms (...)."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The analysis of the gathered data also demonstrated that the majority of the interviewees (13 or 65%) were in favor of using their smartphones and/or tablet computers for informal English learning (i.e. learning the target language for pleasure) and 7 (35%) students associated the use of their MobDs with formal learning (i.e. related to their studies). It should be noted, however, that only two interviewees claimed to hold and somewhat organize regular mobile English language sessions:",
+      "page": 7,
+      "bbox": [
+        85.1,
+        579.1,
+        513.6,
+        648.3
+      ],
+      "id": "el_0078",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "The analysis of the gathered data also demonstrated that the majority of the "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "interviewees (13 or 65%) were in favor of using their smartphones and/or tablet "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "computers for informal English learning (i.e. learning the target language for pleasure) "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "and 7 (35%) students associated the use of their MobDs with formal learning (i.e. "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "related to their studies). It should be noted, however, that only two interviewees "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "claimed to hold and somewhat organize regular mobile English language sessions: "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "S10: I think this is what I have talked about earlier, I mean these chats with my friends. Perhaps we don’t chat very regularly ... we chat three times a week and that’s it but, at the same time, it’s not sporadic because we arrange it and it takes place pretty regularly.",
+      "page": 7,
+      "bbox": [
+        120.5,
+        653.6,
+        513.4,
+        699.8
+      ],
+      "id": "el_0079",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "S10: I think this is what I have talked about earlier, I mean these chats with my "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "friends. Perhaps we don’t chat very regularly ... we chat three times a week and "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "that’s it but, at the same time, it’s not sporadic because we arrange it and it "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "takes place pretty regularly."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "S16: I often watch videos on YouTube and I do this the most often through my smartphone.",
+      "page": 7,
+      "bbox": [
+        120.5,
+        705.1,
+        513.3,
+        728.1
+      ],
+      "id": "el_0080",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "S16: I often watch videos on YouTube and I do this the most often through my "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "smartphone."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Finally, it has to be noted that the use of mobile devices was not explicitly advised or suggested by the interviewees’ teachers during their practical English language classes or any other classes at the university. This is not to say, of course, that they never",
+      "page": 7,
+      "bbox": [
+        85.1,
+        733.4,
+        513.7,
+        767.9
+      ],
+      "id": "el_0081",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Finally, it has to be noted that the use of mobile devices was not explicitly advised or "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "suggested by the interviewees’ teachers during their practical English language classes "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "or any other classes at the university. This is not to say, of course, that they never "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "content": "images/p7_img2.png",
+      "page": 7,
+      "bbox": [
+        280.8,
+        788.9,
+        314.4,
+        815.4
+      ],
+      "id": "el_0082",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "referred their students to electronic or online resources; however, they did not ask students to use them in classes, they did not recommend any mobile apps or design language tasks which required  using such devices in order to solve them.",
+      "page": 8,
+      "bbox": [
+        85.1,
+        70.9,
+        513.3,
+        105.5
+      ],
+      "id": "el_0083",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "referred their students to electronic or online resources; however, they did not ask "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "students to use them in classes, they did not recommend any mobile apps or design "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "language tasks which required  using such devices in order to solve them. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h2",
+      "content": "4.5. Language practiced",
+      "page": 8,
+      "bbox": [
+        120.5,
+        110.9,
+        235.7,
+        122.3
+      ],
+      "id": "el_0084",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "4.5. Language practiced"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "When asked to indicate the most frequently practiced language skills and subsystems by means of mobile devices, all the interviewees indicated the target language vocabulary. In addition to this, some referred to pronunciation and only a few students mentioned grammar and practicing reading, listening and speaking skills. As far as practicing English vocabulary is concerned, the subjects chose to practice it through their smartphones and/or tables because they regarded this language subsystem as the most important to learn, they praised their MobDs for providing them with quick and easy access to needed words and see the way they were used in given sentences. As was stressed by many of the interviewees, learning English vocabulary by means of mobile devices also allowed them to check correct pronunciation of words (i.e. they listened to it or paid attention to phonetic transcription of words). The following excerpts exemplify the most typical usage of MobDs by the study participants:",
+      "page": 8,
+      "bbox": [
+        85.1,
+        127.7,
+        513.6,
+        266.1
+      ],
+      "id": "el_0085",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "When asked to indicate the most frequently practiced language skills and subsystems by "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "means of mobile devices, all the interviewees indicated the target language vocabulary. "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "In addition to this, some referred to pronunciation and only a few students mentioned "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "grammar and practicing reading, listening and speaking skills. As far as practicing "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "English vocabulary is concerned, the subjects chose to practice it through their "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "smartphones and/or tables because they regarded this language subsystem as the most "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "important to learn, they praised their MobDs for providing them with quick and easy "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "access to needed words and see the way they were used in given sentences. As was "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "stressed by many of the interviewees, learning English vocabulary by means of mobile "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "devices also allowed them to check correct pronunciation of words (i.e. they listened to "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "it or paid attention to phonetic transcription of words). The following excerpts exemplify "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "the most typical usage of MobDs by the study participants: "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "S3: (…) as for vocabulary I guess it’s much faster to search for words and know how to use them in sentences.",
+      "page": 8,
+      "bbox": [
+        120.5,
+        271.4,
+        513.3,
+        294.5
+      ],
+      "id": "el_0086",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "S3: (…) as for vocabulary I guess it’s much faster to search for words and know "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "how to use them in sentences."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "S6: It’s easy and it’s very easy to look for words when I need them.",
+      "page": 8,
+      "bbox": [
+        120.5,
+        299.8,
+        446.9,
+        311.3
+      ],
+      "id": "el_0087",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "S6: It’s easy and it’s very easy to look for words when I need them."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "S12:(…) I need vocabulary not only to communicate in English (…) when I look for words I look at contexts words are used (...) I always pay attention to spelling and also listen to pronunciation (How about phonetic transcription of words?) Phonetic transcription of words ... yes but not often unless audio is poor quality or it seems to sound somehow differently ... then I make sure how a word is pronounced and I read its phonetic transcription given there.",
+      "page": 8,
+      "bbox": [
+        120.5,
+        316.6,
+        513.4,
+        385.8
+      ],
+      "id": "el_0088",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "S12:(…) I need vocabulary not only to communicate in English (…) when I look "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "for words I look at contexts words are used (...) I always pay attention to "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "spelling and also listen to pronunciation (How about phonetic transcription of "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "words?) Phonetic transcription of words ... yes but not often unless audio is poor "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "quality or it seems to sound somehow differently ... then I make sure how a "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "word is pronounced and I read its phonetic transcription given there."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "As mentioned earlier, only a few students resorted to their MobDs in order to practice other language areas such as listening, reading and speaking as well as grammar. This is because they preferred more traditional resources (e.g. grammar books), they used other devices (e.g. laptop computers) or they regarded themselves as quite proficient in particular language skills and thus they did not feel the need to master them by way of MobDs. Representative excerpts from the interviewees’ responses follow:",
+      "page": 8,
+      "bbox": [
+        85.1,
+        391.1,
+        513.5,
+        460.3
+      ],
+      "id": "el_0089",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "As mentioned earlier, only a few students resorted to their MobDs in order to practice "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "other language areas such as listening, reading and speaking as well as grammar. This "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "is because they preferred more traditional resources (e.g. grammar books), they used "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "other devices (e.g. laptop computers) or they regarded themselves as quite proficient in "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "particular language skills and thus they did not feel the need to master them by way of "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "MobDs. Representative excerpts from the interviewees’ responses follow: "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "S3: When it comes to grammar, for me it’s more convenient to use grammar books to learn it.",
+      "page": 8,
+      "bbox": [
+        120.5,
+        465.6,
+        513.4,
+        488.8
+      ],
+      "id": "el_0090",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "S3: When it comes to grammar, for me it’s more convenient to use grammar "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "books to learn it."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "S2: (…) I’m pretty good at English grammar and listening and I don’t have to use my smartphone to learn these language elements.",
+      "page": 8,
+      "bbox": [
+        120.5,
+        493.9,
+        513.5,
+        517.1
+      ],
+      "id": "el_0091",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "S2: (…) I’m pretty good at English grammar and listening and I don’t have to "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "use my smartphone to learn these language elements."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "S12: I think I’m quite good at grammar and I practice listening skills by means of my laptop computer.",
+      "page": 8,
+      "bbox": [
+        120.5,
+        522.4,
+        513.3,
+        545.4
+      ],
+      "id": "el_0092",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "S12: I think I’m quite good at grammar and I practice listening skills by means "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "of my laptop computer."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h2",
+      "content": "4.6. Study performance",
+      "page": 8,
+      "bbox": [
+        120.5,
+        550.7,
+        234.2,
+        562.2
+      ],
+      "id": "el_0093",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "4.6. Study performance"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "There is evidence that the use of mobile devices became an impetus for studying English more and learn this language more effectively and efficiently (this advantageous effect was expressed by as many as 15 or 75% interviewees). This is because  access to a smartphone or a tablet allows some learners  devote more time to learning English (S1: Yes, I think so. I think I spend more time ... If I was to use traditional materials, for example, books, I wouldn’t devote so much time to it.; S15: It seems to me that I dedicate more time to learn English this way and I learn more.), encouraged another student to learn more (S6: I’m more willing to use my smartphone than open a paper dictionary.) and allowed yet another subject to learn more vocabulary (S12: Yes, definitely. I wouldn’t have learned these words if I hadn’t used my phone.). Such beneficial outcomes of the use of MobDs are best described by one of the interviewees who said:",
+      "page": 8,
+      "bbox": [
+        85.1,
+        567.5,
+        513.7,
+        706.0
+      ],
+      "id": "el_0094",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "There is evidence that the use of mobile devices became an impetus for studying "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "English more and learn this language more effectively and efficiently (this advantageous "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "effect was expressed by as many as 15 or 75% interviewees). This is because  access to "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "a smartphone or a tablet allows some learners  devote more time to learning English "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(S1: Yes, I think so. I think I spend more time ... If I was to use traditional materials, "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "for example, books, I wouldn’t devote so much time to it.; S15: It seems to me that I "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "dedicate more time to learn English this way and I learn more.), encouraged another "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "student to learn more (S6: I’m more willing to use my smartphone than open a paper "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "dictionary.) and allowed yet another subject to learn more vocabulary (S12: Yes, "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "definitely. I wouldn’t have learned these words if I hadn’t used my phone.). Such "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "beneficial outcomes of the use of MobDs are best described by one of the interviewees "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "who said: "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "If I’m to say that I devote more time for learning English it’s because I can devote more time to learning it ... in the way I compare a paper dictionary with an online one ... for example to check one word ... If I use a traditional dictionary it takes me longer, say three minutes, but If I use an online dictionary it takes me, say, ten seconds (...) this way I can devote less time to looking for",
+      "page": 8,
+      "bbox": [
+        120.5,
+        711.3,
+        513.4,
+        769.0
+      ],
+      "id": "el_0095",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "If I’m to say that I devote more time for learning English it’s because I can "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "devote more time to learning it ... in the way I compare a paper dictionary with "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "an online one ... for example to check one word ... If I use a traditional "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "dictionary it takes me longer, say three minutes, but If I use an online dictionary "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "it takes me, say, ten seconds (...) this way I can devote less time to looking for "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "content": "images/p8_img2.png",
+      "page": 8,
+      "bbox": [
+        280.8,
+        788.9,
+        314.4,
+        815.4
+      ],
+      "id": "el_0096",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "information and more on language production, on the use of English ... there is less time used but it’s more effective. (S14)",
+      "page": 9,
+      "bbox": [
+        120.5,
+        70.9,
+        513.3,
+        94.0
+      ],
+      "id": "el_0097",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "information and more on language production, on the use of English ... there is "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "less time used but it’s more effective. (S14) "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "It is also interesting to note that the use of mobile devices might be valuable for kinesthetic or tactical language learners:",
+      "page": 9,
+      "bbox": [
+        85.1,
+        99.3,
+        513.6,
+        122.3
+      ],
+      "id": "el_0098",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "It is also interesting to note that the use of mobile devices might be valuable for "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "kinesthetic or tactical language learners: "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "I think I spend more time … for me it’s much nicer and more interesting than sitting and reading books … it’s better for me since I’m kinesthetic so it’s hard for me to sit and read a traditional book ... it’s because I don’t remember then much but when I use my smartphone which is mobile I can ... I can do it while doing other activities and this makes things easier for me. (S5)",
+      "page": 9,
+      "bbox": [
+        120.5,
+        127.7,
+        513.5,
+        185.3
+      ],
+      "id": "el_0099",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "I think I spend more time … for me it’s much nicer and more interesting than "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "sitting and reading books … it’s better for me since I’m kinesthetic so it’s hard "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "for me to sit and read a traditional book ... it’s because I don’t remember then "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "much but when I use my smartphone which is mobile I can ... I can do it while "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "doing other activities and this makes things easier for me. (S5) "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Finally, it should be noted that 5 (25%) interviewees were not able to say whether or not the use of mobile devices made them study the target language more effectively or efficiently and they expressed their opinion by simply claiming that “It’s difficult to say”.",
+      "page": 9,
+      "bbox": [
+        85.1,
+        190.7,
+        513.6,
+        225.2
+      ],
+      "id": "el_0100",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Finally, it should be noted that 5 (25%) interviewees were not able to say whether or "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "not the use of mobile devices made them study the target language more effectively or "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "efficiently and they expressed their opinion by simply claiming that “It’s difficult to say”. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h1",
+      "content": "5. Discussion and conclusions",
+      "page": 9,
+      "bbox": [
+        85.1,
+        230.5,
+        243.8,
+        242.0
+      ],
+      "id": "el_0101",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "runs": [
+          {
+            "text": "5. Discussion and conclusions"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The picture that emerges from the analysis of the collected data regarding the advanced learners' use of mobile devices for learning English is relatively encouraging. This is because all the study participants used, at least to some extent, their mobile devices (i.e. smartphones and/or tablet computers) in order to learn the English language autonomously. Moreover, the positive impact of using mobile devices for English study was acknowledged by the majority of the interviewees. Their beneficial contribution to their English development was chiefly linked with easy access to English language resources, the opportunity to store them, comfort in using their smartphones and tablets anywhere and anytime as well as perceived gains in English learning. The results of the study also showed that all interviewees engaged with their smartphones and/or tablet computers to practice the target language vocabulary (plus some students also claimed to learn pronunciation of English words) and the majority of the subjects used their mobile devices autonomously in their leisure time as well as during language classes. Such a state of affairs can be explained in terms of increased awareness on the part of some students of the beneficial role of MobDs in foreign language learning, their ability to reach for appropriate tools and retrieve needed information to achieve their goals and adjust their learning of the target language to their personal learning styles.",
+      "page": 9,
+      "bbox": [
+        85.1,
+        247.3,
+        513.5,
+        443.5
+      ],
+      "id": "el_0102",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "The picture that emerges from the analysis of the collected data regarding the advanced "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learners' use of mobile devices for learning English is relatively encouraging. This is "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "because all the study participants used, at least to some extent, their mobile devices "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(i.e. smartphones and/or tablet computers) in order to learn the English language "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "autonomously. Moreover, the positive impact of using mobile devices for English study "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "was acknowledged by the majority of the interviewees. Their beneficial contribution to "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "their English development was chiefly linked with easy access to English language "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "resources, the opportunity to store them, comfort in using their smartphones and "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "tablets anywhere and anytime as well as perceived gains in English learning. The results "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "of the study also showed that all interviewees engaged with their smartphones and/or "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "tablet computers to practice the target language vocabulary (plus some students also "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "claimed to learn pronunciation of English words) and the majority of the subjects used "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "their mobile devices autonomously in their leisure time as well as during language "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "classes. Such a state of affairs can be explained in terms of increased awareness on the "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "part of some students of the beneficial role of MobDs in foreign language learning, their "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "ability to reach for appropriate tools and retrieve needed information to achieve their "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "goals and adjust their learning of the target language to their personal learning styles. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Despite this positive view of MobDs reported by the study participants, the results of the study also revealed that only a few subjects engaged with their mobile devices to master target language skills such as reading, listening, writing and speaking as well as English language grammar. In addition, some interviewees limited themselves to a rather intuitive and perhaps even spontaneous use of their mobile devices in the language classroom. It should also be noted that almost half of the subjects regarded themselves as quite inexperienced in using their mobile devices when it comes to learning the English language despite the fact that some of the students had been using them with the intention of learning English for years. Taking all these findings into account, one may conclude that this is due to a failure or underestimation of the role and place of mobile devices in foreign language learning and teaching on the part of language teachers. It seems therefore warranted to say that the subjects’ use of mobile devices could be altered if teachers took into account the benefits they may offer. For this reason language teachers should, for instance, present the affordances of mobile technology and discuss them with students during language classes. They should also select mobile apps and create opportunities for using them in- and out-of-class learning by offering or designing tasks devoted to practicing a variety of language skills and subsystems suitable for the use of such devices. If this were to happen, teachers need to respond quickly to the constant and dynamic changes in contemporary foreign/second language learning and teaching contexts by undergoing official teacher training not only in the area of technology-mediated language learning and teaching but also in the context of learner autonomy.",
+      "page": 9,
+      "bbox": [
+        85.1,
+        448.8,
+        513.7,
+        702.9
+      ],
+      "id": "el_0103",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Despite this positive view of MobDs reported by the study participants, the results of the "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "study also revealed that only a few subjects engaged with their mobile devices to "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "master target language skills such as reading, listening, writing and speaking as well as "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "English language grammar. In addition, some interviewees limited themselves to a "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "rather intuitive and perhaps even spontaneous use of their mobile devices in the "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "language classroom. It should also be noted that almost half of the subjects regarded "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "themselves as quite inexperienced in using their mobile devices when it comes to "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learning the English language despite the fact that some of the students had been using "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "them with the intention of learning English for years. Taking all these findings into "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "account, one may conclude that this is due to a failure or underestimation of the role "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "and place of mobile devices in foreign language learning and teaching on the part of "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "language teachers. It seems therefore warranted to say that the subjects’ use of mobile "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "devices could be altered if teachers took into account the benefits they may offer. For "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "this reason language teachers should, for instance, present the affordances of mobile "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "technology and discuss them with students during language classes. They should also "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "select mobile apps and create opportunities for using them in- and out-of-class learning "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "by offering or designing tasks devoted to practicing a variety of language skills and "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "subsystems suitable for the use of such devices. If this were to happen, teachers need "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "to respond quickly to the constant and dynamic changes in contemporary "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "foreign/second language learning and teaching contexts by undergoing official teacher "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "training not only in the area of technology-mediated language learning and teaching but "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "also in the context of learner autonomy. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "As with all studies, the study reported in this paper has some limitations. Although the interviewees represented a range of experience of English language learning, the small number of participants reduces the generalizability of the results. Another limitation is related to the fact that the group was largely homogenous, i.e. the subjects came from the same institution and all studied English. Yet another weakness may concern the",
+      "page": 9,
+      "bbox": [
+        85.1,
+        708.2,
+        513.6,
+        765.9
+      ],
+      "id": "el_0104",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "As with all studies, the study reported in this paper has some limitations. Although the "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "interviewees represented a range of experience of English language learning, the small "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "number of participants reduces the generalizability of the results. Another limitation is "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "related to the fact that the group was largely homogenous, i.e. the subjects came from "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "the same institution and all studied English. Yet another weakness may concern the "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "content": "images/p9_img2.png",
+      "page": 9,
+      "bbox": [
+        280.8,
+        788.9,
+        314.4,
+        815.4
+      ],
+      "id": "el_0105",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "data collection instrument, namely the semi-structured interview which was conducted only once. Perhaps a different set of questions, their wording or a series of such interviews carried out over a particular period of time (say one academic year) may have yielded more detailed and insightful results. Despite these limitations, this study provided some insights into why and how advanced English language learners engage with their mobile devices to develop learning experiences. It should be stressed, however, that teacher involvement in creating conditions conducive to the use of mobile devices for language study may result in greater learner engagement with mobile technology (i.e. mobile devices) and, at the same time, may lead to greater students’ independence in learning the target language.",
+      "page": 10,
+      "bbox": [
+        85.1,
+        70.9,
+        513.5,
+        186.3
+      ],
+      "id": "el_0106",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "data collection instrument, namely the semi-structured interview which was conducted "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "only once. Perhaps a different set of questions, their wording or a series of such "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "interviews carried out over a particular period of time (say one academic year) may "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "have yielded more detailed and insightful results. Despite these limitations, this study "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "provided some insights into why and how advanced English language learners engage "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "with their mobile devices to develop learning experiences. It should be stressed, "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "however, that teacher involvement in creating conditions conducive to the use of mobile "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "devices for language study may result in greater learner engagement with mobile "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "technology (i.e. mobile devices) and, at the same time, may lead to greater students’ "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "independence in learning the target language. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h4",
+      "content": "References",
+      "page": 10,
+      "bbox": [
+        85.1,
+        208.4,
+        144.3,
+        219.9
+      ],
+      "id": "el_0107",
+      "style": {},
+      "metadata": {
+        "level": 4,
+        "runs": [
+          {
+            "text": "References"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Benson, P. (2001). Teaching and researching autonomy in language learning. Harlow: Pearson Education.",
+      "page": 10,
+      "bbox": [
+        85.1,
+        225.2,
+        513.6,
+        248.3
+      ],
+      "id": "el_0108",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Benson, P. (2001). Teaching and researching autonomy in language learning. Harlow: "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Pearson Education. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Benson, P. (2011). What’s new in autonomy? The Language Teacher, 35(4), 15-18.",
+      "page": 10,
+      "bbox": [
+        85.1,
+        253.6,
+        489.7,
+        265.1
+      ],
+      "id": "el_0109",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Benson, P. (2011). What’s new in autonomy? The Language Teacher, 35(4), 15-18. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Benson, P. & Chik, A. (2010). New literacies and autonomy in foreign language learning. In M. J. Luzón, M. N. Ruiz-Madrid & M. L. Villanueva (Eds.), Digital genres, new literacies, and autonomy in language learning (pp. 63-80). Newcastle-upon-Tyne: Cambridge Scholars Publishing.",
+      "page": 10,
+      "bbox": [
+        85.1,
+        270.4,
+        513.7,
+        316.5
+      ],
+      "id": "el_0110",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Benson, P. & Chik, A. (2010). New literacies and autonomy in foreign language learning. "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "In M. J. Luzón, M. N. Ruiz-Madrid & M. L. Villanueva (Eds.), Digital genres, new "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "literacies, and autonomy in language learning (pp. 63-80). Newcastle-upon-Tyne: "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Cambridge Scholars Publishing. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Byrne, J. & Diem, R. (2014). Profiling mobile English language learners. The JALT CALL Journal I, 10 (1), 3-19.",
+      "page": 10,
+      "bbox": [
+        85.1,
+        321.8,
+        513.7,
+        344.9
+      ],
+      "id": "el_0111",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Byrne, J. & Diem, R. (2014). Profiling mobile English language learners. The JALT "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "CALL Journal I, 10 (1), 3-19. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Cakir, I. (2015). Opinions and attitudes of prospective teachers for the use of mobile phones in foreign language learning. Contemporary Educational Technology, 6(3), 239- 255.",
+      "page": 10,
+      "bbox": [
+        85.1,
+        350.2,
+        513.3,
+        384.8
+      ],
+      "id": "el_0112",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Cakir, I. (2015). Opinions and attitudes of prospective teachers for the use of mobile "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "phones in foreign language learning. Contemporary Educational Technology, 6(3), 239-"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "255. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Cavus, N. & Ibrahim, D. (2009). m-Learning: An experiment in using SMS to support learning new English language words. British Journal of Educational Technology, 40(1), 78-91.",
+      "page": 10,
+      "bbox": [
+        85.1,
+        390.1,
+        513.7,
+        424.7
+      ],
+      "id": "el_0113",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Cavus, N. & Ibrahim, D. (2009). m-Learning: An experiment in using SMS to support "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learning new English language words. British Journal of Educational Technology, 40(1), "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "78-91. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Dashtestani, R. (2015). Moving bravely towards mobile learning: Iranian students’ use of mobile devices for learning English as a foreign language. Computer Assisted Language Learning, 29(4), 815-832.",
+      "page": 10,
+      "bbox": [
+        85.1,
+        430.0,
+        513.6,
+        464.5
+      ],
+      "id": "el_0114",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Dashtestani, R. (2015). Moving bravely towards mobile learning: Iranian students’ use "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "of mobile devices for learning English as a foreign language. Computer Assisted "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Language Learning, 29(4), 815-832. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Demouy, V., Jones, A., Kan, Q., Kukulska-Hulme, A. & Eardley, A. (2016). Why and how do distance learners use mobile devices for language learning? The EuroCALL Review, 24(1), 10-24.",
+      "page": 10,
+      "bbox": [
+        85.1,
+        469.8,
+        513.7,
+        504.5
+      ],
+      "id": "el_0115",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Demouy, V., Jones, A., Kan, Q., Kukulska-Hulme, A. & Eardley, A. (2016). Why and how "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "do distance learners use mobile devices for language learning? The EuroCALL "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Review, 24(1), 10-24. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Díaz-Vera, J. (Ed.). (2012). Left to my own devices: Learner autonomy and mobile- assisted language learning. Bingley, UK: Emerald Group.",
+      "page": 10,
+      "bbox": [
+        85.1,
+        509.8,
+        510.3,
+        532.8
+      ],
+      "id": "el_0116",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Díaz-Vera, J. (Ed.). (2012). Left to my own devices: Learner autonomy and mobile-"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "assisted language learning. Bingley, UK: Emerald Group. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Djoub, Z. (2015). Mobile technology and learner autonomy in language learning. In J. Keengwe (Ed.), Promoting active learning through the integration of mobile and ubiquitous technologies (pp. 194-212). Hershey: IGI Global.",
+      "page": 10,
+      "bbox": [
+        85.1,
+        538.1,
+        513.5,
+        572.7
+      ],
+      "id": "el_0117",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Djoub, Z. (2015). Mobile technology and learner autonomy in language learning. In J. "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Keengwe "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(Ed.), Promoting "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "active "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learning "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "through "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "the "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "integration "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "of "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "mobile "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "and ubiquitous technologies (pp. 194-212). Hershey: IGI Global. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Dörnyei, Z. (2007). Research methods in applied linguistics. Oxford: Oxford University Press.",
+      "page": 10,
+      "bbox": [
+        85.1,
+        578.0,
+        513.5,
+        601.1
+      ],
+      "id": "el_0118",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Dörnyei, Z. (2007). Research methods in applied linguistics. Oxford: Oxford University "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Press. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Holec, H. (1981). Autonomy and foreign language learning. Oxford: Pergamon Press.",
+      "page": 10,
+      "bbox": [
+        85.1,
+        606.3,
+        497.0,
+        617.8
+      ],
+      "id": "el_0119",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Holec, H. (1981). Autonomy and foreign language learning. Oxford: Pergamon Press. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Jones, A. (2015). Mobile informal language learning: Exploring Welsh learners’ practices, eLearning Papers, 45, 4-14.",
+      "page": 10,
+      "bbox": [
+        85.1,
+        623.1,
+        513.4,
+        646.2
+      ],
+      "id": "el_0120",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Jones, A. (2015). Mobile informal language learning: Exploring Welsh learners’ "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "practices, eLearning Papers, 45, 4-14. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Kukulska-Hulme, A., Norris, L. & Donohue, J. (2015). Mobile pedagogy for English language teaching: A guide for teachers. British Council, London.",
+      "page": 10,
+      "bbox": [
+        85.1,
+        651.5,
+        513.5,
+        674.5
+      ],
+      "id": "el_0121",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Kukulska-Hulme, A., Norris, L. & Donohue, J. (2015). Mobile pedagogy for English "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "language teaching: A guide for teachers. British Council, London. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Kukulska-Hulme, A. & Shield, L. (2008). An overview of mobile assisted language learning: From content delivery to supported collaboration and interaction. ReCALL, 20(3), 271-289.",
+      "page": 10,
+      "bbox": [
+        85.1,
+        679.9,
+        513.4,
+        714.4
+      ],
+      "id": "el_0122",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Kukulska-Hulme, A. & Shield, L. (2008). An overview of mobile assisted language "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learning: "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "From "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "content "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "delivery "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "to "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "supported "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "collaboration "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "and "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "interaction. ReCALL, 20(3), 271-289. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Kukulska-Hulme, A., Traxler, J. & Pettit, J. (2007). Designed and user-generated activity in the mobile age. Journal of Learning Design, 2(1), 52-65.",
+      "page": 10,
+      "bbox": [
+        85.1,
+        719.7,
+        513.7,
+        742.7
+      ],
+      "id": "el_0123",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Kukulska-Hulme, A., Traxler, J. & Pettit, J. (2007). Designed and user-generated "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "activity in the mobile age. Journal of Learning Design, 2(1), 52-65. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Lee, L. (2011). Blogging: Promoting learner autonomy and intercultural competence through study abroad. Language Learning & Technology, 5, 87-109.",
+      "page": 10,
+      "bbox": [
+        85.1,
+        748.0,
+        513.4,
+        771.2
+      ],
+      "id": "el_0124",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Lee, L. (2011). Blogging: Promoting learner autonomy and intercultural competence "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "through study abroad. Language Learning & Technology, 5, 87-109. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "content": "images/p10_img2.png",
+      "page": 10,
+      "bbox": [
+        280.8,
+        788.9,
+        314.4,
+        815.4
+      ],
+      "id": "el_0125",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "Little, D. (2009). Language learner autonomy and the European Language Portfolio: Two L2 English examples. Language Teaching, 42, 222-233.",
+      "page": 11,
+      "bbox": [
+        85.1,
+        70.9,
+        513.4,
+        94.0
+      ],
+      "id": "el_0126",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Little, D. (2009). Language learner autonomy and the European Language Portfolio: "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Two L2 English examples. Language Teaching, 42, 222-233. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Little, D. (1991). Learner autonomy 1: Definitions, issues and problems. Dublin: Authentik.",
+      "page": 11,
+      "bbox": [
+        85.1,
+        99.3,
+        513.6,
+        122.3
+      ],
+      "id": "el_0127",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Little, D. (1991). Learner autonomy 1: Definitions, issues and problems. Dublin: "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Authentik. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Littlewood, W. (1996). Autonomy: An anatomy and a framework. System, 24(4), 427- 435.",
+      "page": 11,
+      "bbox": [
+        85.1,
+        127.7,
+        510.3,
+        150.7
+      ],
+      "id": "el_0128",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Littlewood, W. (1996). Autonomy: An anatomy and a framework. System, 24(4), 427-"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "435. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Miangah, T.M. & Nezarat, A. (2012). Mobile-assisted language learning. International Journal of Distributed and Parallel Systems, 3(1), 309-319.",
+      "page": 11,
+      "bbox": [
+        85.1,
+        156.0,
+        513.6,
+        179.0
+      ],
+      "id": "el_0129",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Miangah, "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "T.M. "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "& "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Nezarat, "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "A. "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "(2012). "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Mobile-assisted "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "language "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learning. International Journal of Distributed and Parallel Systems, 3(1), 309-319. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Nah, K.C., White, P. & Sussex, R. (2008). The potential of using a mobile phone to access the internet for learning EFL listening skills within a Korean context. ReCALL, 20(3), 331-347.",
+      "page": 11,
+      "bbox": [
+        85.1,
+        184.3,
+        513.5,
+        218.9
+      ],
+      "id": "el_0130",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Nah, K.C., White, P. & Sussex, R. (2008). The potential of using a mobile phone to "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "access "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "the "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "internet "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "for "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learning "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "EFL "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "listening "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "skills "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "within "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "a "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Korean "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "context. ReCALL, 20(3), 331-347. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Oz, H. (2015). An investigation of preservice English teachers’ perceptions of mobile assisted language learning. English Language Teaching, 8(2), 22-34.",
+      "page": 11,
+      "bbox": [
+        85.1,
+        224.3,
+        513.6,
+        247.3
+      ],
+      "id": "el_0131",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Oz, H. (2015). An investigation of preservice English teachers’ perceptions of mobile "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "assisted language learning. English Language Teaching, 8(2), 22-34. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Pettit, J. & Kukulska-Hulme, A. (2007). Going with the grain: Mobile devices in practice. Australasian Journal of Educational Technology,23(1), 17-33.",
+      "page": 11,
+      "bbox": [
+        85.1,
+        252.6,
+        513.4,
+        275.6
+      ],
+      "id": "el_0132",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Pettit, J. & Kukulska-Hulme, A. (2007). Going with the grain: Mobile devices in "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "practice. Australasian Journal of Educational Technology,23(1), 17-33. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Reinders, H. (2011). Towards an operationalisation of autonomy. In A. Ahmed, G. Cane & M. Hanzala. Teaching English in multilingual contexts: Current challenges, future directions (pp. 37-52). Cambridge: Cambridge Scholars Publishing.",
+      "page": 11,
+      "bbox": [
+        85.1,
+        280.9,
+        513.4,
+        315.5
+      ],
+      "id": "el_0133",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Reinders, H. (2011). Towards an operationalisation of autonomy. In A. Ahmed, G. Cane "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "& M. Hanzala. Teaching English in multilingual contexts: Current challenges, future "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "directions (pp. 37-52). Cambridge: Cambridge Scholars Publishing. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Reinders, H. & White, C. (2016). 20 years of autonomy and technology: How far have we come and where to next? Language Learning & Technology, 20(2), 143-154. Retrieved from http://llt.msu.edu/issues/june2016/reinderswhite.pdf.",
+      "page": 11,
+      "bbox": [
+        85.1,
+        320.8,
+        513.7,
+        355.4
+      ],
+      "id": "el_0134",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Reinders, H. & White, C. (2016). 20 years of autonomy and technology: How far have "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "we come and where to next? Language Learning & Technology, 20(2), 143-154. "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Retrieved from "
+          },
+          {
+            "text": "http://llt.msu.edu/issues/june2016/reinderswhite.pdf",
+            "uri": "http://llt.msu.edu/issues/june2016/reinderswhite.pdf"
+          },
+          {
+            "text": ". "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Reinders, H. & Cho, M. (2011). Encouraging informal language learning with mobile technology: Does it work? Journal of Second Language Teaching and Research, 1, 3-29.",
+      "page": 11,
+      "bbox": [
+        85.1,
+        360.7,
+        513.3,
+        383.8
+      ],
+      "id": "el_0135",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Reinders, H. & Cho, M. (2011). Encouraging informal language learning with mobile "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "technology: Does it work? Journal of Second Language Teaching and Research, 1, 3-29. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Stockwell, G. (2007). Vocabulary on the move: Investigating an intelligent mobile phone-based vocabulary tutor. Computer Assisted Language Learning, 20(4), 365-383.",
+      "page": 11,
+      "bbox": [
+        85.1,
+        389.1,
+        513.5,
+        412.1
+      ],
+      "id": "el_0136",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Stockwell, G. (2007). Vocabulary on the move: Investigating an intelligent mobile "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "phone-based vocabulary tutor. Computer Assisted Language Learning, 20(4), 365-383. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Trifanova, A., Knapp, J., Ronchetti, M. & Gamper, J. (2004). Mobile ELDIT: Challenges in the transitions from an e-learning to an m-learning system. Trento, Italy: University of Trento. Retrieved December 12, 2016, from http://eprints.biblio.unitn.it/archive/00000532/01/paper4911.pdf.",
+      "page": 11,
+      "bbox": [
+        85.1,
+        417.4,
+        513.6,
+        463.6
+      ],
+      "id": "el_0137",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Trifanova, A., Knapp, J., Ronchetti, M. & Gamper, J. (2004). Mobile ELDIT: Challenges "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "in the transitions from an e-learning to an m-learning system. Trento, Italy: University "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "of "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Trento. "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Retrieved "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "December 12, "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "2016, "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "from "
+          },
+          {
+            "text": "http://eprints.biblio.unitn.it/archive/00000532/01/paper4911.pdf",
+            "uri": "http://eprints.biblio.unitn.it/archive/00000532/01/paper4911.pdf"
+          },
+          {
+            "text": ". "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Zhang, H., Song, W. & Burston, J. (2011). Reexamining the effectiveness of vocabulary learning via mobile phones. The Turkish Online Journal of Educational Technology, 10(3), 203-214.",
+      "page": 11,
+      "bbox": [
+        85.1,
+        468.9,
+        513.5,
+        503.4
+      ],
+      "id": "el_0138",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Zhang, H., Song, W. & Burston, J. (2011). Reexamining the effectiveness of vocabulary "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "learning "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "via "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "mobile "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "phones. The "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Turkish "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Online "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Journal "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "of "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Educational "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Technology, 10(3), 203-214. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "[1] It should be noted that the reason for choosing this sample was for convenience since they were accessible to the researcher (Dörnyei, 2007, p. 98-99).",
+      "page": 11,
+      "bbox": [
+        85.1,
+        525.5,
+        513.7,
+        548.5
+      ],
+      "id": "el_0139",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "[1",
+            "uri": "http://eurocall.webs.upv.es/index.php?m=menu_00&n=news_25_2#_ftnref1a"
+          },
+          {
+            "text": "] It should be noted that the reason for choosing this sample was for convenience "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "since they were accessible to the researcher (Dörnyei, 2007, p. 98-99). "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "[2] It should be noted that in order to ward off potential misunderstandings and to allow the participants to freely elaborate upon their answers, the interviews were conducted in Polish.",
+      "page": 11,
+      "bbox": [
+        85.1,
+        553.9,
+        513.4,
+        588.5
+      ],
+      "id": "el_0140",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "[2",
+            "uri": "http://eurocall.webs.upv.es/index.php?m=menu_00&n=news_25_2#_ftnref2a"
+          },
+          {
+            "text": "] It should be noted that in order to ward off potential misunderstandings and to allow "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "the participants to freely elaborate upon their answers, the interviews were conducted "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "in Polish. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "[3] Both here and throughout the remainder of the paper, the excerpts are translations of the students’ responses by the present author.",
+      "page": 11,
+      "bbox": [
+        85.1,
+        593.8,
+        513.3,
+        616.8
+      ],
+      "id": "el_0141",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "[3",
+            "uri": "http://eurocall.webs.upv.es/index.php?m=menu_00&n=news_25_2#_ftnref3a"
+          },
+          {
+            "text": "] Both here and throughout the remainder of the paper, the excerpts are translations "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "of the students’ responses by the present author. "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "content": "images/p11_img2.png",
+      "page": 11,
+      "bbox": [
+        280.8,
+        788.9,
+        314.4,
+        815.4
+      ],
+      "id": "el_0142",
+      "style": {},
+      "metadata": {}
+    }
+  ]
+}

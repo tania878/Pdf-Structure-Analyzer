@@ -1,0 +1,38 @@
+﻿page,text,label,level,role,score,confidence,needs_review,reasons,font_size,size_ratio,bold,italic,font_family,x0,y0,x1,y1,gap_before,gap_after,n_chars,n_words,numbering,y_rel,first_on_page,alignment,indent
+1,PSG CoLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLOGY PSG cOLLEGE OF TECHNOLOGY PSG COLLEGE ,paragraph,,,-3.0,1.0,False,long text,7.4,1.0,False,False,ArialMT,35.6,10.7,545.3,31.9,0.0,0.0,103,16,,0.014,True,left,-0.4
+1,PSG,heading,1,section_heading,4.0,0.7,False,font much larger; caps,9.7,1.31,False,False,ArialMT,33.5,754.5,50.0,780.0,0.0,0.0,3,1,,0.953,False,left,-2.5
+1,COLLEGE,paragraph,,,2.5,0.6,True,font larger; caps,9.2,1.24,False,False,ArialMT,33.1,707.1,46.7,762.4,0.0,0.0,7,1,,0.893,False,left,-2.9
+1,OF,paragraph,,,2.5,0.6,True,font larger; caps,8.8,1.19,False,False,ArialMT,33.0,694.1,50.9,708.6,0.0,0.0,2,1,,0.876,False,left,-3.0
+1,TECHNOLOGY,heading,1,section_heading,4.0,0.7,False,font much larger; caps,9.7,1.31,False,False,ArialMT,31.5,625.4,45.7,707.0,0.0,0.0,10,1,,0.79,False,left,-4.5
+1,PSG,paragraph,,,2.5,0.6,True,font larger; caps,8.9,1.2,False,False,ArialMT,32.1,608.3,47.9,630.4,0.0,0.0,3,1,,0.768,False,left,-3.9
+1,CoLLEGE,heading,2,section_heading,3.0,0.5,True,font much larger,9.4,1.27,False,False,ArialMT,31.1,560.1,45.3,615.4,0.0,0.0,7,1,,0.707,False,left,-4.9
+1,OF,paragraph,,,2.5,0.6,True,font larger; caps,8.8,1.19,False,False,ArialMT,31.1,547.6,48.9,562.1,0.0,0.0,2,1,,0.691,False,left,-4.9
+1,TECHNOLOGY,heading,1,section_heading,4.0,0.7,False,font much larger; caps,9.7,1.31,False,False,ArialMT,30.0,475.6,43.6,560.6,0.0,0.0,10,1,,0.601,False,left,-6.0
+1,PSG,heading,1,section_heading,4.0,0.7,False,font much larger; caps,9.5,1.28,False,False,ArialMT,30.1,459.4,45.9,485.0,0.0,0.0,3,1,,0.58,False,left,-5.9
+1,COLLEGE,heading,1,section_heading,4.0,0.7,False,font much larger; caps,9.6,1.3,False,False,ArialMT,29.1,409.4,43.3,467.4,0.0,0.0,7,1,,0.517,False,left,-6.9
+1,OF,paragraph,,,2.5,0.6,True,font larger; caps,9.0,1.22,False,False,ArialMT,29.1,397.1,47.6,411.6,0.0,0.0,2,1,,0.501,False,left,-6.9
+1,TECHNOLOGY,heading,1,section_heading,4.0,0.7,False,font much larger; caps,9.9,1.34,False,False,ArialMT,28.0,325.1,42.2,410.2,0.0,0.0,10,1,,0.41,False,left,-8.0
+1,PSG,heading,1,section_heading,4.0,0.7,False,font much larger; caps,9.7,1.31,False,False,ArialMT,28.1,306.5,44.6,332.0,0.0,0.0,3,1,,0.387,False,left,-7.9
+1,COLLEGE,paragraph,,,2.5,0.6,True,font larger; caps,8.9,1.2,False,False,ArialMT,27.7,259.4,41.3,311.9,2.3,0.0,7,1,,0.328,False,left,-8.3
+1,OF,paragraph,,,1.0,0.9,False,caps,6.9,0.93,False,False,ArialMT,27.6,248.1,45.5,257.1,0.0,2.3,2,1,,0.313,False,left,-8.4
+1,TECHNOLOGY,heading,1,section_heading,4.0,0.7,False,font much larger; caps,9.9,1.34,False,False,ArialMT,26.0,174.7,40.2,259.7,0.0,0.0,10,1,,0.221,False,left,-10.0
+1,PSG,heading,1,section_heading,4.0,0.7,False,font much larger; caps,9.5,1.28,False,False,ArialMT,26.6,156.0,42.5,181.6,0.0,0.0,3,1,,0.197,False,left,-9.4
+1,COLLEGE,heading,1,section_heading,4.0,0.7,False,font much larger; caps,9.3,1.26,False,False,ArialMT,25.7,108.7,39.8,163.3,0.0,0.0,7,1,,0.137,False,left,-10.3
+1,OF,paragraph,,,2.5,0.6,True,font larger; caps,8.8,1.19,False,False,ArialMT,25.6,96.2,43.4,110.7,0.0,0.0,2,1,,0.121,False,left,-10.4
+1,TECHNOLOGY,heading,1,section_heading,4.0,0.7,False,font much larger; caps,9.7,1.31,False,False,ArialMT,24.6,24.2,38.2,109.2,0.0,0.0,10,1,,0.031,False,left,-11.4
+1,Note,paragraph,,,0.0,1.0,False,,5.7,0.77,False,False,ArialMT,59.9,654.5,80.3,663.5,0.0,0.0,4,1,,0.826,False,left,23.9
+1,Seal,paragraph,,,1.5,0.8,False,font larger,8.2,1.11,False,False,ArialMT,62.1,729.2,86.9,744.4,0.0,0.0,4,1,,0.921,False,left,26.1
+1,PSG COLLEGE OF TECHNOLOGY,heading,1,section_heading,5.0,0.9,False,font much larger; caps; centered,17.3,2.34,False,False,ArialMT,134.5,28.2,452.3,55.1,0.0,0.0,25,4,,0.036,False,center,98.5
+1,( AUTONOMOUS INSTITUTION AFFILIATED TO ANNA UNIVERSITY ),paragraph,,,2.5,0.6,True,font larger; caps,8.4,1.14,False,False,ArialMT,161.2,66.9,440.5,86.2,0.0,0.0,56,8,,0.084,False,left,125.2
+1,BTech DEGREE EXAMINATIONS JUN 2026,paragraph,,,2.5,0.6,True,font larger; centered,8.8,1.19,False,False,ArialMT,190.0,83.9,393.2,97.0,0.0,0.0,34,5,,0.106,False,center,154.0
+1,coIMBATORE -641 004 INDIA,paragraph,,,2.5,0.6,True,font larger; centered,9.0,1.22,False,False,ArialMT,215.2,55.1,360.6,69.0,0.0,0.0,25,4,,0.07,False,center,179.2
+1,DATE 30 062026,paragraph,,,1.0,0.9,False,caps,6.5,0.88,False,False,ArialMT,64.3,692.1,135.0,701.8,5.2,0.0,14,3,,0.874,False,left,28.3
+1,Absolute Grading adopted for all courses,paragraph,,,0.0,1.0,False,,6.2,0.84,False,False,ArialMT,59.4,662.7,206.5,674.4,0.0,0.1,40,6,,0.837,False,left,23.4
+1,Only thosc courses passed by the candidate are printed in this statement,paragraph,,,0.0,1.0,False,,6.4,0.86,False,False,ArialMT,58.8,674.5,312.2,686.9,0.1,5.2,72,12,,0.852,False,left,22.8
+1,Medium of Instruction Englısh,paragraph,,,0.0,1.0,False,,6.0,0.81,False,False,ArialMT,63.8,752.7,176.2,765.2,0.0,0.0,29,4,,0.95,False,left,27.8
+1,This document is issued without any correction,paragraph,,,0.0,1.0,False,,6.1,0.82,False,False,ArialMT,63.3,743.9,233.1,755.6,0.5,0.0,46,7,,0.939,False,left,27.3
+1,CGPA Cumulative Gtade Point Average,paragraph,,,0.0,1.0,False,,6.6,0.89,False,False,ArialMT,63.7,764.7,213.9,776.4,0.0,0.0,35,5,,0.966,False,left,27.7
+1,-,paragraph,,,0.0,1.0,False,,7.4,1.0,False,False,ArialMT,210.3,471.8,216.2,482.1,0.0,0.0,1,1,,0.596,False,left,174.3
+1,End of Statement,paragraph,,,0.0,1.0,False,,5.8,0.78,False,False,ArialMT,221.7,471.8,283.7,482.1,0.0,0.0,16,3,,0.596,False,left,185.7
+1,CONTRoLLER OFEXAMINATIONS,paragraph,,,1.5,0.8,False,font larger,8.1,1.09,False,False,ArialMT,344.4,730.9,493.3,743.4,0.0,0.5,25,2,,0.923,False,left,308.4
+1,PSG COLLEGE OF TECHNOLOGY PSG cOLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLOGY PSG COLLEGE ,paragraph,,,-3.0,1.0,False,long text,6.7,0.91,False,False,ArialMT,40.1,774.7,551.0,785.1,0.0,0.0,103,16,,0.978,False,left,4.1

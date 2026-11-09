@@ -1,0 +1,1597 @@
+{
+  "source_pdf": "C:\\Users\\kevin\\Downloads\\yatzar\\jobs\\5220bfc54ded49009dc3569a87b458e2\\input.pdf",
+  "element_count": 51,
+  "type_styles": {
+    "h1": {
+      "font_family": "Arial",
+      "font_size": 22,
+      "bold": true,
+      "italic": false,
+      "color": "#111111"
+    },
+    "h2": {
+      "font_family": "Arial",
+      "font_size": 18,
+      "bold": true,
+      "italic": false,
+      "color": "#222222"
+    },
+    "h3": {
+      "font_family": "Arial",
+      "font_size": 15,
+      "bold": true,
+      "italic": false,
+      "color": "#333333"
+    },
+    "h4": {
+      "font_family": "Arial",
+      "font_size": 13,
+      "bold": true,
+      "italic": true,
+      "color": "#444444"
+    },
+    "paragraph": {
+      "font_family": "Georgia",
+      "font_size": 12,
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    "table_header": {
+      "font_family": "Arial",
+      "font_size": 12,
+      "bold": true,
+      "italic": false,
+      "color": "#000000",
+      "background": "#e8e8e8"
+    },
+    "table_cell": {
+      "font_family": "Arial",
+      "font_size": 11,
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    "link_color": "#0645ad"
+  },
+  "elements": [
+    {
+      "type": "h2",
+      "content": "PSG COLLEGE OF TECHNOLOGY",
+      "page": 1,
+      "bbox": [
+        228.8,
+        91.2,
+        731.1,
+        140.0
+      ],
+      "id": "el_0000",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "PSG COLLEGE OF TECHNOLOGY"
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h2",
+      "content": "DEPARTMENT OF IT",
+      "page": 1,
+      "bbox": [
+        322.7,
+        134.4,
+        637.2,
+        183.2
+      ],
+      "id": "el_0001",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "DEPARTMENT OF IT"
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h2",
+      "content": "Information Technology Association",
+      "page": 1,
+      "bbox": [
+        195.1,
+        177.6,
+        764.8,
+        226.4
+      ],
+      "id": "el_0002",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Information Technology Association"
+          }
+        ],
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "image",
+      "content": "images/p1_img3.jpeg",
+      "page": 1,
+      "bbox": [
+        109.7,
+        205.1,
+        174.6,
+        270.0
+      ],
+      "id": "el_0003",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "image",
+      "content": "images/p1_img4.jpeg",
+      "page": 1,
+      "bbox": [
+        813.8,
+        214.6,
+        855.8,
+        270.0
+      ],
+      "id": "el_0004",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "h2",
+      "content": "Office Bearer Interview",
+      "page": 1,
+      "bbox": [
+        296.5,
+        220.8,
+        663.4,
+        269.6
+      ],
+      "id": "el_0005",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Office Bearer Interview"
+          }
+        ],
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h1",
+      "content": "About Me",
+      "page": 2,
+      "bbox": [
+        73.2,
+        49.9,
+        250.3,
+        103.7
+      ],
+      "id": "el_0006",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "About Me"
+          }
+        ],
+        "confidence": 0.5,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "• Name: Tania Carrolline T",
+      "page": 2,
+      "bbox": [
+        73.2,
+        102.8,
+        368.6,
+        140.9
+      ],
+      "id": "el_0007",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "• Name: Tania Carrolline T"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "list_item",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "• Roll Number:25I267",
+      "page": 2,
+      "bbox": [
+        73.2,
+        143.0,
+        318.8,
+        181.1
+      ],
+      "id": "el_0008",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "• Roll Number:25I267"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "list_item",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "• Class & Section:BTECH IT G1",
+      "page": 2,
+      "bbox": [
+        73.2,
+        183.2,
+        410.2,
+        221.3
+      ],
+      "id": "el_0009",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "• Class & Section:BTECH IT G1"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "list_item",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "• Position Applied For: Executive member",
+      "page": 2,
+      "bbox": [
+        73.2,
+        223.4,
+        544.2,
+        261.5
+      ],
+      "id": "el_0010",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "• Position Applied For: Executive member"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "list_item",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "• Contact Details:",
+      "page": 2,
+      "bbox": [
+        73.2,
+        263.6,
+        270.1,
+        301.7
+      ],
+      "id": "el_0011",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "• Contact Details:"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "list_item",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "email id: 25i267@psgtech.ac.in contact:8667087578",
+      "page": 2,
+      "bbox": [
+        73.2,
+        304.2,
+        668.2,
+        341.6
+      ],
+      "id": "el_0012",
+      "style": {},
+      "metadata": {
+        "role": "field",
+        "label": "email id",
+        "runs": [
+          {
+            "text": "email id: "
+          },
+          {
+            "text": "25i267@psgtech.ac.in",
+            "uri": "mailto:25i267@psgtech.ac.in"
+          },
+          {
+            "text": " contact:8667087578"
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "• Professional Photograph",
+      "page": 2,
+      "bbox": [
+        73.2,
+        344.0,
+        368.3,
+        382.1
+      ],
+      "id": "el_0013",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "• Professional Photograph"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "list_item",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "image",
+      "content": "images/p2_img1.jpeg",
+      "page": 2,
+      "bbox": [
+        376.0,
+        363.6,
+        504.8,
+        529.3
+      ],
+      "id": "el_0014",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "h1",
+      "content": "About Me",
+      "page": 3,
+      "bbox": [
+        73.2,
+        16.1,
+        250.3,
+        69.8
+      ],
+      "id": "el_0015",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "About Me"
+          }
+        ],
+        "confidence": 0.5,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Introduction I am a second-year B.Tech Information Technology student with a strong interest in programming and technology. I am eager to contribute to IT Association where I can develop my leadership,teamwork and organizational skills while actively participating in technical and non-technical events. Academic performance",
+      "page": 3,
+      "bbox": [
+        30.0,
+        62.8,
+        885.6,
+        245.6
+      ],
+      "id": "el_0016",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Introduction"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "I am a second-year B.Tech Information Technology student with a strong interest in "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "programming and technology. I am eager to contribute to IT Association where I can "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "develop my leadership,teamwork and organizational skills while actively participating in "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "technical and non-technical events."
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Academic performance"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.8,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Grade X: 95.2 percent",
+      "page": 3,
+      "bbox": [
+        43.5,
+        248.5,
+        255.2,
+        280.6
+      ],
+      "id": "el_0017",
+      "style": {},
+      "metadata": {
+        "role": "field",
+        "label": "Grade X",
+        "runs": [
+          {
+            "text": "Grade X: 95.2 percent"
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Grade XII: 93.2 percent",
+      "page": 3,
+      "bbox": [
+        30.0,
+        284.4,
+        275.6,
+        316.5
+      ],
+      "id": "el_0018",
+      "style": {},
+      "metadata": {
+        "role": "field",
+        "label": "Grade XII",
+        "runs": [
+          {
+            "text": "   Grade XII : 93.2 percent"
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Cgpa: 8.8",
+      "page": 3,
+      "bbox": [
+        30.0,
+        320.3,
+        136.7,
+        352.4
+      ],
+      "id": "el_0019",
+      "style": {},
+      "metadata": {
+        "role": "field",
+        "label": "Cgpa",
+        "runs": [
+          {
+            "text": "   Cgpa: 8.8"
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Technical skills C,Python,HTML,CSS,MYSQL,MS Word,Excel,Power Point Soft skills Communication, Problem Solving ,Team work and Collaboration",
+      "page": 3,
+      "bbox": [
+        30.0,
+        355.9,
+        647.9,
+        496.0
+      ],
+      "id": "el_0020",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Technical skills "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "C,Python,HTML,CSS,MYSQL,MS Word,Excel,Power Point"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Soft skills"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Communication, Problem Solving ,Team work and Collaboration"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.8,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Hobbies and interests Painting ,Solving coding challenges,Club activities and Technical events. One unique quality about myself: I stay patient while solving problems and don’t give up easily.",
+      "page": 4,
+      "bbox": [
+        73.2,
+        64.5,
+        775.3,
+        204.6
+      ],
+      "id": "el_0021",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Hobbies and interests"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "  Painting ,Solving coding challenges,Club activities and Technical events."
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "One unique quality about myself:"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "I stay patient while solving problems and don’t give up easily."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.8,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h1",
+      "content": "Events and Club activities",
+      "page": 5,
+      "bbox": [
+        66.8,
+        57.5,
+        513.8,
+        111.3
+      ],
+      "id": "el_0022",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Events and Club activities"
+          }
+        ],
+        "confidence": 0.5,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "h3",
+      "content": "Particpated in",
+      "page": 5,
+      "bbox": [
+        80.8,
+        127.7,
+        261.1,
+        170.5
+      ],
+      "id": "el_0023",
+      "style": {},
+      "metadata": {
+        "level": 3,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Particpated in"
+          }
+        ],
+        "confidence": 0.5,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "•Codecrypt •Cosmix_cvr •Vibrance •Hackathon : SIH 2025 (Internal hackthon) •Volunteered in YOC(Maanavar Illam)",
+      "page": 5,
+      "bbox": [
+        80.8,
+        166.2,
+        570.1,
+        338.7
+      ],
+      "id": "el_0024",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "•Codecrypt"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "•Cosmix_cvr"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "•Vibrance"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "•Hackathon : SIH 2025 (Internal hackthon)"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "•Volunteered in YOC(Maanavar Illam)"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.8,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h1",
+      "content": "Why Should I Be Selected?",
+      "page": 6,
+      "bbox": [
+        73.2,
+        49.9,
+        542.2,
+        103.7
+      ],
+      "id": "el_0025",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Why Should I Be Selected?"
+          }
+        ],
+        "confidence": 0.5,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "I am applying because I want to contribute to the IT Association and be actively involved in organizing events.It’s a great oppurtunity to improve my teamwork,communication and leadership skills. I chose this position because I enjoy planning and working with people.I’m eager to take responsibility and learn by contributing to successful events. What motivates me is the opportunity to learn something new that challenge myself and make a postive impact. I will bring good organizational skills and positive attitude.I complete tasks responsibly and stay commited until the work is finished. I believe integrity, teamwork and consistency are essential for building a strong student community.",
+      "page": 6,
+      "bbox": [
+        73.2,
+        143.0,
+        888.1,
+        474.1
+      ],
+      "id": "el_0026",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "I am applying because I want to contribute to the IT Association and be actively "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "involved in organizing events.It’s a great oppurtunity to improve my "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "teamwork,communication and leadership skills."
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "I chose this position because I enjoy planning and working with people.I’m eager to "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "take responsibility and learn by contributing to successful events."
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "What motivates me is the opportunity to learn something new that challenge "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "myself and make a postive impact."
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "I will bring good organizational skills and positive attitude.I complete tasks "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "responsibly and stay commited until the work is finished."
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "I believe integrity, teamwork and consistency are essential for building a strong "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "student community."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h1",
+      "content": "Problem Solving",
+      "page": 7,
+      "bbox": [
+        73.2,
+        49.9,
+        356.4,
+        103.7
+      ],
+      "id": "el_0027",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Problem Solving"
+          }
+        ],
+        "confidence": 0.5,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "header": [
+          "Issues",
+          "Proposed Solution"
+        ],
+        "rows": [
+          [
+            "Low participation",
+            "Poll students to avoid exam time conflicts and offer rewards for attendance."
+          ],
+          [
+            "Communication Gap",
+            "Concentrate more on publicity responsibility"
+          ],
+          [
+            "What is expected from ITA?",
+            "An orientation session and regular updates of ITA’s goals."
+          ],
+          [
+            "Student requirements",
+            "Collect student feedback regularly and organize events based on student’s interests."
+          ],
+          [
+            "Volunteer shortage",
+            "By building a volunteer culture by recognizing contributions and encouraging students to participate."
+          ]
+        ]
+      },
+      "page": 7,
+      "bbox": [
+        66.0,
+        143.8,
+        894.0,
+        403.8
+      ],
+      "id": "el_0028",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "h1",
+      "content": "One-Year Action Plan",
+      "page": 8,
+      "bbox": [
+        73.2,
+        49.9,
+        445.3,
+        103.7
+      ],
+      "id": "el_0029",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "One-Year Action Plan"
+          }
+        ],
+        "confidence": 0.5,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "h4",
+      "content": "MONTH",
+      "page": 8,
+      "bbox": [
+        62.3,
+        145.6,
+        122.3,
+        170.6
+      ],
+      "id": "el_0030",
+      "style": {},
+      "metadata": {
+        "level": 4,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "MONTH"
+          }
+        ],
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "PROPOSED ACTIVITY",
+      "page": 8,
+      "bbox": [
+        483.5,
+        145.6,
+        637.3,
+        170.6
+      ],
+      "id": "el_0031",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "PROPOSED ACTIVITY"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "AUG-SEP Orientation for new members,introduction to ITA",
+      "page": 8,
+      "bbox": [
+        62.3,
+        188.4,
+        841.6,
+        212.5
+      ],
+      "id": "el_0032",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "AUG-SEP"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Orientation for new members,introduction to ITA"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "OCT-NOV Coding challenge.",
+      "page": 8,
+      "bbox": [
+        62.3,
+        231.0,
+        612.3,
+        255.1
+      ],
+      "id": "el_0033",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "OCT-NOV"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Coding challenge."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "JAN-FEB Hackathon",
+      "page": 8,
+      "bbox": [
+        62.3,
+        273.5,
+        561.7,
+        297.6
+      ],
+      "id": "el_0034",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "JAN-FEB"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Hackathon"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "MAR-APR Project Expo",
+      "page": 8,
+      "bbox": [
+        62.3,
+        316.1,
+        574.8,
+        340.2
+      ],
+      "id": "el_0035",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "MAR-APR"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Project Expo"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "• Expected Participants: Around 80-120 students from all departments depending upon the events.",
+      "page": 9,
+      "bbox": [
+        73.2,
+        41.1,
+        799.2,
+        111.5
+      ],
+      "id": "el_0036",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "• Expected Participants:"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Around 80-120 students from all departments depending upon the events."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "list_item",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "• Budget Idea: Budget wil be planned based on the scale and requirements of each event.",
+      "page": 9,
+      "bbox": [
+        73.2,
+        147.8,
+        799.2,
+        218.2
+      ],
+      "id": "el_0037",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "• Budget Idea:"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Budget wil be planned based on the scale and requirements of each event."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "list_item",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "• Expected Outcomes: •Increased student participation •Improving coding proficiency •Stronger industry exposure •Stronger ITA community",
+      "page": 9,
+      "bbox": [
+        73.2,
+        254.5,
+        395.3,
+        424.2
+      ],
+      "id": "el_0038",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "• Expected Outcomes:"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "•Increased student participation"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "•Improving coding proficiency"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "•Stronger industry exposure"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "•Stronger ITA community"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "list_item",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h1",
+      "content": "Vision for ITA",
+      "page": 10,
+      "bbox": [
+        73.2,
+        26.2,
+        303.9,
+        80.0
+      ],
+      "id": "el_0039",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Vision for ITA"
+          }
+        ],
+        "confidence": 0.5,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "• Title: My Vision for ITA 2026–27",
+      "page": 10,
+      "bbox": [
+        73.2,
+        141.9,
+        454.1,
+        180.7
+      ],
+      "id": "el_0040",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "• Title: My Vision for ITA 2026–27"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "list_item",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "• Vision Statement: “  To build an innovative and industry ready IT community by fostering excellence  ”",
+      "page": 10,
+      "bbox": [
+        73.2,
+        182.1,
+        872.9,
+        251.1
+      ],
+      "id": "el_0041",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "• Vision Statement: “  To build an innovative and industry ready IT community "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "by fostering excellence  ”"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "list_item",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "• My plans: •Technical Events:  Mini Hackathons, Tech Talks •Industry Interaction: Alumni Sessions, Industry Expert Talks. •Coding Activities: Weekly coding challenges •Research Activities: Paper Presentation •Social Responsibility: Cyber safety awareness •Student Engagement:Team building events",
+      "page": 10,
+      "bbox": [
+        73.2,
+        252.5,
+        706.4,
+        475.7
+      ],
+      "id": "el_0042",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "• My plans:"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "•Technical Events:  Mini Hackathons, Tech Talks"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "•Industry Interaction: Alumni Sessions, Industry Expert Talks."
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "•Coding Activities: Weekly coding challenges"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "•Research Activities: Paper Presentation"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "•Social Responsibility: Cyber safety awareness"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "•Student Engagement:Team building events"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "list_item",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h1",
+      "content": "Innovation Ideas",
+      "page": 11,
+      "bbox": [
+        73.2,
+        49.9,
+        364.3,
+        103.7
+      ],
+      "id": "el_0043",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Innovation Ideas"
+          }
+        ],
+        "confidence": 0.5,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "• Student Mentorship Program",
+      "page": 11,
+      "bbox": [
+        73.2,
+        141.9,
+        422.0,
+        180.0
+      ],
+      "id": "el_0044",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "• Student Mentorship Program"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "list_item",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "• Career Guidance Collaboration",
+      "page": 11,
+      "bbox": [
+        73.2,
+        182.1,
+        439.6,
+        220.2
+      ],
+      "id": "el_0045",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "• Career Guidance Collaboration"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "list_item",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "• Coding Quiz",
+      "page": 11,
+      "bbox": [
+        73.2,
+        222.3,
+        227.3,
+        260.4
+      ],
+      "id": "el_0046",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "• Coding Quiz"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "list_item",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "• Skill Development Series",
+      "page": 11,
+      "bbox": [
+        73.2,
+        262.5,
+        370.1,
+        300.6
+      ],
+      "id": "el_0047",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "• Skill Development Series"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "list_item",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h1",
+      "content": "Why Should the Committee Choose Me?",
+      "page": 12,
+      "bbox": [
+        73.2,
+        49.9,
+        792.3,
+        103.7
+      ],
+      "id": "el_0048",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Why Should the Committee Choose Me?"
+          }
+        ],
+        "confidence": 0.5,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The committee should choose me because I am responsible, eager to learn, and committed to contributing to the success of the IT Association. I work well in a team, take ownership of my responsibilities, and am willing to put in consistent effort. My goal is not just to participate in events but to help create meaningful opportunities for other students.",
+      "page": 12,
+      "bbox": [
+        73.2,
+        143.0,
+        854.6,
+        278.7
+      ],
+      "id": "el_0049",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "The committee should choose me because I am responsible, eager to learn, and "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "committed to contributing to the success of the IT Association. I work well in a "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "team, take ownership of my responsibilities, and am willing to put in consistent "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "effort. My goal is not just to participate in events but to help create meaningful "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "opportunities for other students."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "image",
+      "content": "images/p13_img0.jpeg",
+      "page": 13,
+      "bbox": [
+        175.4,
+        143.8,
+        784.6,
+        486.4
+      ],
+      "id": "el_0050",
+      "style": {},
+      "metadata": {}
+    }
+  ]
+}

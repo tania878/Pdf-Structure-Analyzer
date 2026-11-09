@@ -1,0 +1,35 @@
+﻿page,text,label,level,role,score,confidence,needs_review,reasons,font_size,size_ratio,bold,italic,font_family,x0,y0,x1,y1,gap_before,gap_after,n_chars,n_words,numbering,y_rel,first_on_page,alignment,indent
+1,THE SLEREXE COMPANY LIMITED,heading,1,title,3.5,0.6,True,font larger; caps; centered,12.3,1.14,False,False,OCR,160.5,65.5,464.9,81.3,0.0,9.1,27,4,,0.084,True,center,60.5
+1,SAPORS LANE . BOOLE - DORSET . BH 25 8 ER,paragraph,,,1.0,0.9,False,space above,8.9,0.82,False,False,OCR,200.7,90.4,424.3,101.8,9.1,5.9,41,11,,0.115,False,center,100.7
+1,TELEPHONE BOOLE (945 13) 51617 - TELEX 123456,paragraph,,,2.0,0.7,False,caps; centered,8.0,0.74,False,False,OCR,213.9,107.7,411.9,118.0,5.9,66.7,45,8,,0.138,False,center,113.9
+1,Our Ref. 350/PJC/EAC,paragraph,,,1.0,0.9,False,space above,9.9,0.92,False,False,OCR,99.0,184.7,221.3,197.3,66.7,0.0,20,3,,0.236,False,left,-1.0
+1,"18th January, 1972.",paragraph,,,-2.0,1.0,False,ends like a sentence,9.2,0.85,False,False,OCR,411.9,184.7,526.4,196.5,0.0,37.5,19,3,,0.236,False,left,311.9
+1,"Dr. P.N. Cundall,",paragraph,,,-1.0,1.0,False,space above; ends like a sentence,8.3,0.77,False,False,OCR,100.5,234.0,201.8,244.7,37.5,0.4,17,3,,0.299,False,left,0.5
+1,"Mining Surveys Ltd.,",paragraph,,,-2.0,1.0,False,ends like a sentence,10.8,1.0,False,False,OCR,99.4,245.1,220.6,258.9,0.4,0.0,20,3,,0.313,False,left,-0.6
+1,"Holroyd Road,",paragraph,,,-2.0,1.0,False,ends like a sentence,9.2,0.85,False,False,OCR,100.5,258.5,178.9,270.3,0.0,0.0,13,2,,0.33,False,left,0.5
+1,"Reading,",paragraph,,,-2.0,1.0,False,ends like a sentence,11.1,1.03,False,False,OCR,99.8,269.2,149.6,283.4,0.0,0.0,8,1,,0.344,False,left,-0.2
+1,Berks.,paragraph,,,-2.0,1.0,False,ends like a sentence,9.5,0.88,False,False,OCR,99.8,281.8,137.9,294.0,0.0,24.5,6,1,,0.36,False,left,-0.2
+1,"Dear Pete,",paragraph,,,-1.0,1.0,False,space above; ends like a sentence,9.2,0.85,False,False,OCR,100.1,318.5,161.7,330.3,24.5,9.5,10,2,,0.407,False,left,0.1
+1,Permit me to introduce you to the facility of facsimile,paragraph,,,1.0,0.9,False,space above,11.1,1.03,False,False,OCR,129.4,339.8,462.9,354.0,9.5,0.0,55,10,,0.434,False,left,29.4
+1,transmission.,paragraph,,,-2.0,1.0,False,ends like a sentence,9.2,0.85,False,False,OCR,100.9,353.6,179.2,365.5,0.0,11.8,13,1,,0.452,False,left,0.9
+1,In facsimile a photocell is caused to perform a raster scan over,paragraph,,,1.0,0.9,False,space above,9.2,0.85,False,False,OCR,130.9,377.3,517.1,389.1,11.8,0.0,64,12,,0.482,False,left,30.9
+1,the subject copy. The variations of print density on the document,paragraph,,,0.0,1.0,False,,11.1,1.03,False,False,OCR,100.5,387.9,499.6,402.2,0.0,0.0,65,11,,0.495,False,left,0.5
+1,cause the photocell to generate an analogous electrical video signal.,paragraph,,,-2.0,1.0,False,ends like a sentence,11.1,1.03,False,False,OCR,99.4,400.2,515.5,414.4,0.0,0.0,69,10,,0.511,False,left,-0.6
+1,"This signal is used to modulate a carrier, which is transmitted to a",paragraph,,,0.0,1.0,False,,10.8,1.0,False,False,OCR,100.5,412.0,512.4,425.8,0.0,0.0,68,13,,0.526,False,left,0.5
+1,remote destination over a radio or cable communications link.,paragraph,,,-2.0,1.0,False,ends like a sentence,9.9,0.92,False,False,OCR,100.9,424.7,468.0,437.3,0.0,10.6,61,9,,0.542,False,left,0.9
+1,"At the remote terminal, demodulation reconstructs the video",paragraph,,,1.0,0.9,False,space above,10.5,0.97,False,False,OCR,129.8,447.9,487.9,461.4,10.6,0.0,59,8,,0.572,False,left,29.8
+1,"signal, which is used to modulate the density of print produced by a",paragraph,,,0.0,1.0,False,,10.5,0.97,False,False,OCR,100.9,460.2,512.4,473.6,0.0,0.0,68,13,,0.588,False,left,0.9
+1,printing device. This device is scanning in a raster scan synchronised,paragraph,,,0.0,1.0,False,,10.8,1.0,False,False,OCR,100.1,472.0,530.3,485.8,0.0,0.0,70,11,,0.603,False,left,0.1
+1,"with that at the transmitting terminal. As a result, a facsimile",paragraph,,,0.0,1.0,False,,10.8,1.0,False,False,OCR,100.1,483.8,494.1,497.7,0.0,0.0,64,11,,0.618,False,left,0.1
+1,copy of the subject document is produced.,paragraph,,,-2.0,1.0,False,ends like a sentence,10.5,0.97,False,False,OCR,100.9,496.5,349.1,509.9,0.0,9.9,41,7,,0.634,False,left,0.9
+1,Probably you have uses for this facility in your organisation.,paragraph,,,-1.0,1.0,False,space above; ends like a sentence,10.8,1.0,False,False,OCR,130.9,519.8,505.0,533.6,9.9,11.0,62,10,,0.664,False,left,30.9
+1,"Yours sincerely,",paragraph,,,-1.0,1.0,False,space above; ends like a sentence,10.2,0.94,False,False,OCR,323.4,544.6,421.2,557.7,11.0,13.4,16,2,,0.696,False,left,223.4
+1,Phil.,paragraph,,,1.0,0.9,False,font much larger; ends like a sentence,34.8,3.22,False,False,OCR,329.7,571.1,405.6,615.7,13.4,7.9,5,1,,0.729,False,left,229.7
+1,P.J. CROSS,paragraph,,,2.0,0.7,False,caps; space above,8.3,0.77,False,False,OCR,323.4,623.6,386.6,634.2,7.9,0.0,10,2,,0.796,False,left,223.4
+1,Group Leader - Facsimile Research,paragraph,,,0.0,1.0,False,,10.2,0.94,False,False,OCR,323.4,634.2,524.9,647.2,0.0,105.8,33,5,,0.81,False,left,223.4
+1,Registered in England:,paragraph,,,2.0,0.7,False,space above; centered,7.1,0.66,False,False,OCR,247.8,753.0,335.9,762.1,105.8,0.0,22,3,,0.962,False,center,147.8
+1,No. 2038,paragraph,,,0.0,1.0,False,,7.4,0.69,False,False,OCR,345.2,752.6,381.9,762.1,0.0,0.0,8,2,,0.961,False,left,245.2
+1,Registered Office:,paragraph,,,0.0,1.0,False,,7.1,0.66,False,False,OCR,217.4,761.7,288.4,770.8,0.0,0.0,18,2,,0.973,False,left,117.4
+1,60 Vicara,heading,2,clause_heading,3.5,0.6,True,numbered; centered; short numbered section,7.1,0.66,False,False,OCR,297.3,761.7,337.5,770.8,0.0,0.0,9,2,decimal:1,0.973,False,center,197.3
+1,"Lane, Ilford. Essex.",paragraph,,,-2.0,1.0,False,ends like a sentence,8.0,0.74,False,False,OCR,343.7,761.3,419.7,771.6,0.0,0.0,20,3,,0.972,False,left,243.7
+1,No. 1,paragraph,,,0.0,1.0,False,,8.9,0.82,False,False,OCR,32.0,763.7,57.3,775.1,0.0,0.0,5,2,,0.975,False,left,-68.0

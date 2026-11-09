@@ -1,0 +1,828 @@
+{
+  "source_pdf": "C:\\Users\\kevin\\Downloads\\yatzar\\jobs\\3bcda21a8a114c67be509723357c578d\\input.pdf",
+  "element_count": 28,
+  "type_styles": {
+    "h1": {
+      "font_family": "Arial",
+      "font_size": 22,
+      "bold": true,
+      "italic": false,
+      "color": "#111111"
+    },
+    "h2": {
+      "font_family": "Arial",
+      "font_size": 18,
+      "bold": true,
+      "italic": false,
+      "color": "#222222"
+    },
+    "h3": {
+      "font_family": "Arial",
+      "font_size": 15,
+      "bold": true,
+      "italic": false,
+      "color": "#333333"
+    },
+    "h4": {
+      "font_family": "Arial",
+      "font_size": 13,
+      "bold": true,
+      "italic": true,
+      "color": "#444444"
+    },
+    "paragraph": {
+      "font_family": "Georgia",
+      "font_size": 12,
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    "table_header": {
+      "font_family": "Arial",
+      "font_size": 12,
+      "bold": true,
+      "italic": false,
+      "color": "#000000",
+      "background": "#e8e8e8"
+    },
+    "table_cell": {
+      "font_family": "Arial",
+      "font_size": 11,
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    "link_color": "#0645ad"
+  },
+  "elements": [
+    {
+      "type": "h1",
+      "content": "PURCHASE ORDER",
+      "page": 1,
+      "bbox": [
+        212.1,
+        55.8,
+        383.1,
+        80.5
+      ],
+      "id": "el_0000",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "title",
+        "runs": [
+          {
+            "text": "PURCHASE ORDER"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "PO Number BP-PO-2026-041 | Synthetic procurement document",
+      "page": 1,
+      "bbox": [
+        168.4,
+        92.3,
+        426.9,
+        104.7
+      ],
+      "id": "el_0001",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "PO Number BP-PO-2026-041 | Synthetic procurement document"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "PURCHASER: BluePeak Research Services, Coimbatore | VENDOR: Delta Office Systems, Chennai",
+      "page": 1,
+      "bbox": [
+        57.0,
+        123.4,
+        415.2,
+        134.4
+      ],
+      "id": "el_0002",
+      "style": {},
+      "metadata": {
+        "role": "field",
+        "label": "PURCHASER",
+        "runs": [
+          {
+            "text": "PURCHASER: BluePeak Research Services, Coimbatore | VENDOR: Delta Office Systems, Chennai"
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "header": [
+          "Purchase Order No.",
+          "BP-PO-2026-041"
+        ],
+        "rows": [
+          [
+            "Issue Date",
+            "03 November 2026"
+          ],
+          [
+            "Requested Delivery",
+            "20 November 2026"
+          ],
+          [
+            "Currency",
+            "INR"
+          ],
+          [
+            "Payment Terms",
+            "Net 30 days from accepted invoice"
+          ]
+        ]
+      },
+      "page": 1,
+      "bbox": [
+        62.0,
+        145.1,
+        320.8,
+        228.8
+      ],
+      "id": "el_0003",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "h2",
+      "content": "1. Supplier and Delivery Information",
+      "page": 1,
+      "bbox": [
+        57.0,
+        254.0,
+        313.8,
+        274.6
+      ],
+      "id": "el_0004",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "clause_heading",
+        "runs": [
+          {
+            "text": "1. Supplier and Delivery Information"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h3",
+      "content": "1.1 Supplier details",
+      "page": 1,
+      "bbox": [
+        57.0,
+        283.2,
+        166.4,
+        299.7
+      ],
+      "id": "el_0005",
+      "style": {},
+      "metadata": {
+        "level": 3,
+        "role": "clause_heading",
+        "runs": [
+          {
+            "text": "1.1 Supplier details"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Delta Office Systems",
+      "page": 1,
+      "bbox": [
+        57.0,
+        304.3,
+        141.0,
+        316.7
+      ],
+      "id": "el_0006",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Delta Office Systems"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h2",
+      "content": "48 Industrial Estate Road, Chennai, Tamil Nadu 600032",
+      "page": 1,
+      "bbox": [
+        57.0,
+        317.3,
+        280.1,
+        329.7
+      ],
+      "id": "el_0007",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "clause_heading",
+        "runs": [
+          {
+            "text": "48 Industrial Estate Road, Chennai, Tamil Nadu 600032"
+          }
+        ],
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Vendor Code: DOS-118",
+      "page": 1,
+      "bbox": [
+        57.0,
+        330.3,
+        152.6,
+        342.7
+      ],
+      "id": "el_0008",
+      "style": {},
+      "metadata": {
+        "role": "field",
+        "label": "Vendor Code",
+        "runs": [
+          {
+            "text": "Vendor Code: DOS-118"
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h3",
+      "content": "1.2 Ship-to address",
+      "page": 1,
+      "bbox": [
+        57.0,
+        353.2,
+        167.7,
+        369.7
+      ],
+      "id": "el_0009",
+      "style": {},
+      "metadata": {
+        "level": 3,
+        "role": "clause_heading",
+        "runs": [
+          {
+            "text": "1.2 Ship-to address"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "BluePeak Research Services, Receiving Bay 2 Technology Park, Coimbatore, Tamil Nadu 641014",
+      "page": 1,
+      "bbox": [
+        57.0,
+        374.3,
+        259.6,
+        399.7
+      ],
+      "id": "el_0010",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "BluePeak Research Services, Receiving Bay 2"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Technology Park, Coimbatore, Tamil Nadu 641014"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Contact: Procurement Desk",
+      "page": 1,
+      "bbox": [
+        57.0,
+        400.3,
+        167.6,
+        412.7
+      ],
+      "id": "el_0011",
+      "style": {},
+      "metadata": {
+        "role": "field",
+        "label": "Contact",
+        "runs": [
+          {
+            "text": "Contact: Procurement Desk"
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h2",
+      "content": "2. Items Ordered",
+      "page": 1,
+      "bbox": [
+        57.0,
+        427.0,
+        175.4,
+        447.6
+      ],
+      "id": "el_0012",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "clause_heading",
+        "runs": [
+          {
+            "text": "2. Items Ordered"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "header": [
+          "Line",
+          "Item Description",
+          "Quantity",
+          "Unit Price",
+          "Amount"
+        ],
+        "rows": [
+          [
+            "001",
+            "A4 copier paper, 80 GSM, 500-sheet ream",
+            "120",
+            "I285",
+            "I34,200"
+          ],
+          [
+            "002",
+            "Laser toner cartridge, model TX-410",
+            "12",
+            "I2,450",
+            "I29,400"
+          ],
+          [
+            "003",
+            "Document storage box, archival grade",
+            "40",
+            "I165",
+            "I6,600"
+          ]
+        ]
+      },
+      "page": 1,
+      "bbox": [
+        57.0,
+        455.0,
+        476.6,
+        531.0
+      ],
+      "id": "el_0013",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "Subtotal: I70,200",
+      "page": 1,
+      "bbox": [
+        57.0,
+        543.3,
+        129.4,
+        555.7
+      ],
+      "id": "el_0014",
+      "style": {},
+      "metadata": {
+        "role": "field",
+        "label": "Subtotal",
+        "runs": [
+          {
+            "text": "Subtotal: I70,200"
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "GST (18%): I12,636 Total Purchase Order Value: I82,836",
+      "page": 1,
+      "bbox": [
+        57.0,
+        556.3,
+        214.9,
+        581.8
+      ],
+      "id": "el_0015",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "GST (18%): I12,636"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Total Purchase Order Value: I82,836"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "h2",
+      "content": "3. Delivery Requirements",
+      "page": 1,
+      "bbox": [
+        57.0,
+        596.0,
+        236.3,
+        616.6
+      ],
+      "id": "el_0016",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "clause_heading",
+        "runs": [
+          {
+            "text": "3. Delivery Requirements"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h3",
+      "content": "3.1 Packaging and labelling",
+      "page": 1,
+      "bbox": [
+        57.0,
+        625.2,
+        213.8,
+        641.7
+      ],
+      "id": "el_0017",
+      "style": {},
+      "metadata": {
+        "level": 3,
+        "role": "clause_heading",
+        "runs": [
+          {
+            "text": "3.1 Packaging and labelling"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "All cartons must display the purchase order number, line number and quantity. Paper reams must be protected from moisture during transport.",
+      "page": 1,
+      "bbox": [
+        57.0,
+        646.3,
+        538.3,
+        671.7
+      ],
+      "id": "el_0018",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "All cartons must display the purchase order number, line number and quantity. Paper reams must be protected from"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "moisture during transport."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h3",
+      "content": "3.2 Partial deliveries",
+      "page": 1,
+      "bbox": [
+        57.0,
+        682.2,
+        172.4,
+        698.7
+      ],
+      "id": "el_0019",
+      "style": {},
+      "metadata": {
+        "level": 3,
+        "role": "clause_heading",
+        "runs": [
+          {
+            "text": "3.2 Partial deliveries"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Partial delivery is permitted only after written approval from the purchaser. The supplier must provide an updated delivery schedule for any backordered item.",
+      "page": 1,
+      "bbox": [
+        57.0,
+        703.3,
+        538.3,
+        728.7
+      ],
+      "id": "el_0020",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Partial delivery is permitted only after written approval from the purchaser. The supplier must provide an updated delivery"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "schedule for any backordered item."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h2",
+      "content": "4. Inspection and Acceptance",
+      "page": 1,
+      "bbox": [
+        57.0,
+        743.0,
+        267.9,
+        763.6
+      ],
+      "id": "el_0021",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "clause_heading",
+        "runs": [
+          {
+            "text": "4. Inspection and Acceptance"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The purchaser will inspect quantities and visible condition within five business days of receipt. Damaged or incorrect items may be rejected and replaced at the supplier's cost.",
+      "page": 2,
+      "bbox": [
+        57.0,
+        56.3,
+        538.3,
+        81.7
+      ],
+      "id": "el_0022",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "The purchaser will inspect quantities and visible condition within five business days of receipt. Damaged or incorrect"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "items may be rejected and replaced at the supplier's cost."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h2",
+      "content": "5. Invoicing and Payment",
+      "page": 2,
+      "bbox": [
+        57.0,
+        96.0,
+        237.1,
+        116.6
+      ],
+      "id": "el_0023",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "clause_heading",
+        "runs": [
+          {
+            "text": "5. Invoicing and Payment"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Invoices must reference BP-PO-2026-041 and include applicable tax details, delivery documentation and bank information already registered with the purchaser.",
+      "page": 2,
+      "bbox": [
+        57.0,
+        123.3,
+        538.3,
+        148.7
+      ],
+      "id": "el_0024",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Invoices must reference BP-PO-2026-041 and include applicable tax details, delivery documentation and bank"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "information already registered with the purchaser."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h2",
+      "content": "6. Authorisation",
+      "page": 2,
+      "bbox": [
+        57.0,
+        163.0,
+        171.2,
+        183.6
+      ],
+      "id": "el_0025",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "clause_heading",
+        "runs": [
+          {
+            "text": "6. Authorisation"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "header": [
+          "For Purchaser",
+          "For Supplier"
+        ],
+        "rows": [
+          [
+            "Name: __________________",
+            "Name: __________________"
+          ],
+          [
+            "Signature: _______________",
+            "Signature: _______________"
+          ],
+          [
+            "Date: ___________________",
+            "Date: ___________________"
+          ]
+        ]
+      },
+      "page": 2,
+      "bbox": [
+        57.0,
+        191.0,
+        476.6,
+        267.0
+      ],
+      "id": "el_0026",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "This is a fictional purchase order created solely for software testing. It is not a valid offer to purchase.",
+      "page": 2,
+      "bbox": [
+        57.0,
+        279.4,
+        413.6,
+        290.4
+      ],
+      "id": "el_0027",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "This is a fictional purchase order created solely for software testing. It is not a valid offer to purchase."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    }
+  ]
+}

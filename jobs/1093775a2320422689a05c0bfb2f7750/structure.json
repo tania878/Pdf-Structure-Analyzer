@@ -1,0 +1,270 @@
+[
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "title",
+    "text": "THE SLEREXE COMPANY LIMITED",
+    "runs": [
+      {
+        "text": "THE SLEREXE COMPANY LIMITED"
+      }
+    ],
+    "confidence": 0.6,
+    "needs_review": true,
+    "page": 1,
+    "bbox": [
+      160.5,
+      65.5,
+      464.9,
+      81.3
+    ],
+    "id": 0
+  },
+  {
+    "type": "paragraph",
+    "text": "SAPORS LANE . BOOLE - DORSET . BH 25 8 ER TELEPHONE BOOLE (945 13) 51617 - TELEX 123456 Our Ref. 350/PJC/EAC 18th January, 1972. Dr. P.N. Cundall, Mining Surveys Ltd., Holroyd Road, Reading, Berks. Dear Pete, Permit me to introduce you to the facility of facsimile transmission. In facsimile a photocell is caused to perform a raster scan over the subject copy. The variations of print density on the document cause the photocell to generate an analogous electrical video signal. This signal is used to modulate a carrier, which is transmitted to a remote destination over a radio or cable communications link. At the remote terminal, demodulation reconstructs the video signal, which is used to modulate the density of print produced by a printing device. This device is scanning in a raster scan synchronised with that at the transmitting terminal. As a result, a facsimile copy of the subject document is produced. Probably you have uses for this facility in your organisation. Yours sincerely, Phil. P.J. CROSS Group Leader - Facsimile Research Registered in England: No. 2038 Registered Office:",
+    "runs": [
+      {
+        "text": "SAPORS LANE . BOOLE - DORSET . BH 25 8 ER"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "TELEPHONE BOOLE (945 13) 51617 - TELEX 123456"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Our Ref. 350/PJC/EAC"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "18th January, 1972."
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Dr. P.N. Cundall,"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Mining Surveys Ltd.,"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Holroyd Road,"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Reading,"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Berks."
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Dear Pete,"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Permit me to introduce you to the facility of facsimile"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "transmission."
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "In facsimile a photocell is caused to perform a raster scan over"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "the subject copy. The variations of print density on the document"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "cause the photocell to generate an analogous electrical video signal."
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "This signal is used to modulate a carrier, which is transmitted to a"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "remote destination over a radio or cable communications link."
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "At the remote terminal, demodulation reconstructs the video"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "signal, which is used to modulate the density of print produced by a"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "printing device. This device is scanning in a raster scan synchronised"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "with that at the transmitting terminal. As a result, a facsimile"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "copy of the subject document is produced."
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Probably you have uses for this facility in your organisation."
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Yours sincerely,"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Phil."
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "P.J. CROSS"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Group Leader - Facsimile Research"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Registered in England:"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "No. 2038"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Registered Office:"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      99.0,
+      90.4,
+      530.3,
+      770.8
+    ],
+    "id": 1
+  },
+  {
+    "type": "paragraph",
+    "text": "Lane, Ilford. Essex. No. 1",
+    "runs": [
+      {
+        "text": "Lane, Ilford. Essex."
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "No. 1"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      32.0,
+      761.3,
+      419.7,
+      775.1
+    ],
+    "id": 2
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "clause_heading",
+    "text": "60 Vicara",
+    "runs": [
+      {
+        "text": "60 Vicara"
+      }
+    ],
+    "confidence": 0.6,
+    "needs_review": true,
+    "page": 1,
+    "bbox": [
+      297.3,
+      761.7,
+      337.5,
+      770.8
+    ],
+    "id": 3
+  }
+]

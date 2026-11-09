@@ -1,0 +1,344 @@
+{
+  "source_pdf": "C:\\Users\\kevin\\Downloads\\yatzar\\jobs\\b5fb22c8adbb44c28f6c0ea95e17ed04\\input.pdf",
+  "element_count": 11,
+  "type_styles": {
+    "h1": {
+      "font_family": "Arial",
+      "font_size": 22,
+      "bold": true,
+      "italic": false,
+      "color": "#111111"
+    },
+    "h2": {
+      "font_family": "Calibri",
+      "font_size": 18,
+      "bold": true,
+      "italic": false,
+      "color": "#222222"
+    },
+    "h3": {
+      "font_family": "Arial",
+      "font_size": 15,
+      "bold": true,
+      "italic": false,
+      "color": "#333333"
+    },
+    "h4": {
+      "font_family": "Arial",
+      "font_size": 13,
+      "bold": true,
+      "italic": true,
+      "color": "#444444"
+    },
+    "paragraph": {
+      "font_family": "Georgia",
+      "font_size": 12,
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    "table_header": {
+      "font_family": "Arial",
+      "font_size": 12,
+      "bold": true,
+      "italic": false,
+      "color": "#000000",
+      "background": "#e8e8e8"
+    },
+    "table_cell": {
+      "font_family": "Arial",
+      "font_size": 11,
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    "link_color": "#0645ad"
+  },
+  "elements": [
+    {
+      "type": "image",
+      "content": "images/p1_img0.png",
+      "page": 1,
+      "bbox": [
+        78.0,
+        66.0,
+        198.0,
+        106.0
+      ],
+      "id": "el_0000",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "h1",
+      "content": "PURCHASE ORDER",
+      "page": 1,
+      "bbox": [
+        212.1,
+        114.7,
+        383.1,
+        139.5
+      ],
+      "id": "el_0001",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "runs": [
+          {
+            "text": "PURCHASE ORDER"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "PO Number: PO-2026-0042    Date: 15 January 2026 Vendor: Acme Pvt Ltd, 12 Main Street, Chennai Ship To: Beta Corp, 99 Park Avenue, Mumbai",
+      "page": 1,
+      "bbox": [
+        78.0,
+        143.2,
+        326.0,
+        185.6
+      ],
+      "id": "el_0002",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "PO Number: PO-2026-0042    Date: 15 January 2026"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Vendor: Acme Pvt Ltd, 12 Main Street, Chennai"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Ship To: Beta Corp, 99 Park Avenue, Mumbai"
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h1",
+      "content": "1. Order Details",
+      "page": 1,
+      "bbox": [
+        78.0,
+        194.9,
+        196.3,
+        216.9
+      ],
+      "id": "el_0003",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "runs": [
+          {
+            "text": "1. Order Details"
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "header": [
+          "Item",
+          "Description",
+          "Qty",
+          "UnitPrice",
+          "Total"
+        ],
+        "rows": [
+          [
+            "A 101\n-",
+            "Laptop14inch",
+            "5",
+            "80000\n.",
+            "400000\n."
+          ],
+          [
+            "B 205\n-",
+            "WirelessMouse",
+            "10",
+            "1500\n.",
+            "15000\n."
+          ],
+          [
+            "C 310\n-",
+            "USB -CDock",
+            "5",
+            "6000\n.",
+            "30000\n."
+          ],
+          [
+            "",
+            "",
+            "",
+            "Total",
+            "445000\n."
+          ]
+        ]
+      },
+      "page": 1,
+      "bbox": [
+        70.1,
+        224.0,
+        525.1,
+        314.0
+      ],
+      "id": "el_0004",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "h1",
+      "content": "2. Terms and Conditions",
+      "page": 1,
+      "bbox": [
+        78.0,
+        322.9,
+        264.7,
+        344.9
+      ],
+      "id": "el_0005",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "runs": [
+          {
+            "text": "2. Terms and Conditions"
+          }
+        ]
+      }
+    },
+    {
+      "type": "h2",
+      "content": "2.1 Delivery",
+      "page": 1,
+      "bbox": [
+        78.0,
+        357.1,
+        150.3,
+        375.0
+      ],
+      "id": "el_0006",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "2.1 Delivery"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Goods must be delivered within 14 days of this order. The parties agree to perform their obligations in good faith and in accordance with the terms set out in this Agreement.",
+      "page": 1,
+      "bbox": [
+        78.0,
+        381.2,
+        484.8,
+        409.6
+      ],
+      "id": "el_0007",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Goods must be delivered within 14 days of this order. The parties agree to perform their"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "obligations in good faith and in accordance with the terms set out in this Agreement."
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "h2",
+      "content": "2.2 Payment",
+      "page": 1,
+      "bbox": [
+        78.0,
+        421.1,
+        153.9,
+        439.0
+      ],
+      "id": "el_0008",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "runs": [
+          {
+            "text": "2.2 Payment"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Payment within 30 days of invoice. Questions: orders@example.com",
+      "page": 1,
+      "bbox": [
+        78.0,
+        445.2,
+        397.9,
+        459.6
+      ],
+      "id": "el_0009",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Payment within 30 days of invoice. Questions: "
+          },
+          {
+            "text": "orders@example.com",
+            "uri": "mailto:orders@example.com"
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Authorized Signature: ____________________",
+      "page": 1,
+      "bbox": [
+        78.0,
+        479.2,
+        298.6,
+        493.6
+      ],
+      "id": "el_0010",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Authorized Signature: ____________________"
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    }
+  ]
+}

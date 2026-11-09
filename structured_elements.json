@@ -1,0 +1,108 @@
+{
+  "source_pdf": "sample_purchase_order.pdf",
+  "element_count": 6,
+  "elements": [
+    {
+      "type": "heading",
+      "content": "Purchase Order",
+      "page": 1,
+      "bbox": [
+        50.0,
+        80.0,
+        500.0,
+        115.0
+      ],
+      "id": "el_c2594146ee",
+      "style": {
+        "font_family": "Helvetica",
+        "font_size": 28,
+        "bold": true,
+        "alignment": "left"
+      },
+      "metadata": {}
+    },
+    {
+      "type": "subheading",
+      "content": "Supplier Details",
+      "page": 1,
+      "bbox": [
+        50.0,
+        130.0,
+        300.0,
+        155.0
+      ],
+      "id": "el_3abc9a51a9",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "paragraph",
+      "content": "Supplier information goes here.",
+      "page": 1,
+      "bbox": [
+        50.0,
+        165.0,
+        500.0,
+        205.0
+      ],
+      "id": "el_ed1c6062a6",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "image",
+      "content": "assets/image_001.png",
+      "page": 1,
+      "bbox": [
+        100.0,
+        220.0,
+        350.0,
+        400.0
+      ],
+      "id": "el_4d0cc82562",
+      "style": {},
+      "metadata": {
+        "keep_aspect_ratio": true
+      }
+    },
+    {
+      "type": "link",
+      "content": "Supplier website",
+      "page": 1,
+      "bbox": [
+        50.0,
+        420.0,
+        250.0,
+        440.0
+      ],
+      "id": "el_1eea612f05",
+      "style": {},
+      "metadata": {
+        "url": "https://example.com"
+      }
+    },
+    {
+      "type": "table",
+      "content": [
+        [
+          "Item",
+          "Quantity"
+        ],
+        [
+          "Pen",
+          "10"
+        ]
+      ],
+      "page": 1,
+      "bbox": [
+        50.0,
+        450.0,
+        500.0,
+        550.0
+      ],
+      "id": "el_5bbcaacd33",
+      "style": {},
+      "metadata": {}
+    }
+  ]
+}

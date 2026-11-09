@@ -1,0 +1,42 @@
+﻿page,text,label,level,role,score,confidence,needs_review,reasons,font_size,size_ratio,bold,italic,font_family,x0,y0,x1,y1,gap_before,gap_after,n_chars,n_words,numbering,y_rel,first_on_page,alignment,indent
+1,SYNTHETIC TEST DOCUMENT — NOT FOR REAL-WORLD USE,skip,,,0,1.0,False,,,,,,,,,,,,,,,,,,,
+1,Page 1,skip,,,0,1.0,False,,,,,,,,,,,,,,,,,,,
+1,DOCUMENT PROCESSING PILOT — INTERNAL MEMO,heading,1,title,6.5,1.0,False,font much larger; bold; short standalone bold line; caps,18.0,2.0,True,False,Helvetica-Bold,64.1,55.8,531.2,80.5,0.0,11.8,41,6,,0.066,True,left,8.1
+1,Synthetic operational memo for mixed-format classification tests,paragraph,,,2.0,0.7,False,space above; centered,9.0,1.0,False,False,Helvetica,170.3,92.3,424.9,104.7,11.8,18.7,64,7,,0.11,False,center,114.3
+1,Internal document | Ref: OPS-MEMO-26-14 | 03 November 2026,paragraph,,,1.0,0.9,False,space above,8.0,0.89,False,False,Helvetica,57.0,123.4,286.6,134.4,18.7,13.6,58,9,,0.147,False,left,1.0
+1,Purpose of This Memo,heading,2,section_heading,6.5,1.0,False,font much larger; bold; short standalone bold line; space above,15.0,1.67,True,False,Helvetica-Bold,57.0,148.0,217.9,168.6,13.6,6.7,20,4,,0.176,False,left,1.0
+1,This memo describes a fictional document-control pilot and intentionally mixes numbered he,paragraph,,,0.0,1.0,False,,9.0,1.0,False,False,Helvetica,57.0,175.3,538.3,187.7,6.7,0.6,108,13,,0.208,False,left,1.0
+1,"headings, short labels and tabular content.",paragraph,,,-2.0,1.0,False,ends like a sentence,9.0,1.0,False,False,Helvetica,57.0,188.3,226.6,200.7,0.6,14.3,43,6,,0.224,False,left,1.0
+1,Current Situation,heading,2,section_heading,6.5,1.0,False,font much larger; bold; short standalone bold line; space above,15.0,1.67,True,False,Helvetica-Bold,57.0,215.0,179.5,235.6,14.3,6.7,17,2,,0.255,False,left,1.0
+1,"Teams receive purchase orders, supplier agreements, research reports and operational proce",paragraph,,,0.0,1.0,False,,9.0,1.0,False,False,Helvetica,57.0,242.3,538.3,254.7,6.7,0.6,116,15,,0.288,False,left,1.0
+1,classification takes time and can produce inconsistent labels.,paragraph,,,-2.0,1.0,False,ends like a sentence,9.0,1.0,False,False,Helvetica,57.0,255.3,299.6,267.7,0.6,10.5,62,8,,0.303,False,left,1.0
+1,Observed issues,heading,3,section_heading,6.5,1.0,False,font much larger; bold; short standalone bold line; space above,12.0,1.33,True,False,Helvetica-Bold,57.0,278.2,153.1,294.7,10.5,4.6,15,2,,0.33,False,left,1.0
+1,"Common issues include inconsistent heading styles, scanned pages, repeated footer text and",paragraph,,,0.0,1.0,False,,9.0,1.0,False,False,Helvetica,57.0,299.3,538.3,311.7,4.6,0.6,112,15,,0.356,False,left,1.0
+1,paragraph flow.,paragraph,,,-2.0,1.0,False,ends like a sentence,9.0,1.0,False,False,Helvetica,57.0,312.3,119.1,324.7,0.6,14.3,15,2,,0.371,False,left,1.0
+1,Pilot Plan,heading,2,section_heading,6.5,1.0,False,font much larger; bold; short standalone bold line; space above,15.0,1.67,True,False,Helvetica-Bold,57.0,339.0,125.4,359.6,14.3,8.6,10,2,,0.403,False,left,1.0
+1,Phase 1 — Sample collection,heading,3,section_heading,5.5,1.0,False,font much larger; bold; short standalone bold line,12.0,1.33,True,False,Helvetica-Bold,57.0,368.2,223.1,384.7,8.6,4.6,27,5,,0.437,False,left,1.0
+1,Collect representative documents from each category and remove confidential information be,paragraph,,,-3.0,1.0,False,long text,9.0,1.0,False,False,Helvetica,57.0,389.3,538.3,401.7,4.6,0.6,117,16,,0.462,False,left,1.0
+1,environment.,paragraph,,,-2.0,1.0,False,ends like a sentence,9.0,1.0,False,False,Helvetica,57.0,402.3,109.0,414.7,0.6,10.5,12,1,,0.478,False,left,1.0
+1,Phase 2 — Processing,heading,3,section_heading,6.5,1.0,False,font much larger; bold; short standalone bold line; space above,12.0,1.33,True,False,Helvetica-Bold,57.0,425.2,185.7,441.7,10.5,5.6,20,4,,0.505,False,left,1.0
+1,Text extraction,heading,3,section_heading,4.0,0.7,False,font larger; bold; short standalone bold line,10.0,1.11,True,True,Helvetica-BoldOblique,57.0,447.3,128.2,461.1,5.6,5.2,15,2,,0.531,False,left,1.0
+1,"Extract text while retaining page order, line breaks and available font or layout metadata",paragraph,,,-2.0,1.0,False,ends like a sentence,9.0,1.0,False,False,Helvetica,57.0,466.3,409.2,478.7,5.2,7.6,91,14,,0.554,False,left,1.0
+1,Heading classification,heading,3,section_heading,4.0,0.7,False,font larger; bold; short standalone bold line,10.0,1.11,True,True,Helvetica-BoldOblique,57.0,486.3,162.6,500.1,7.6,5.2,22,2,,0.578,False,left,1.0
+1,"Assign heading levels based on typography, numbering, position and semantic context. Do no",paragraph,,,-3.0,1.0,False,long text,9.0,1.0,False,False,Helvetica,57.0,505.3,538.3,517.7,5.2,0.6,119,19,,0.6,False,left,1.0
+1,heading.,paragraph,,,-2.0,1.0,False,ends like a sentence,9.0,1.0,False,False,Helvetica,57.0,518.3,91.5,530.7,0.6,10.5,8,1,,0.616,False,left,1.0
+1,Phase 3 — Evaluation,heading,3,section_heading,6.5,1.0,False,font much larger; bold; short standalone bold line; space above,12.0,1.33,True,False,Helvetica-Bold,57.0,541.2,181.7,557.7,10.5,4.6,20,4,,0.643,False,left,1.0
+1,"Compare predicted labels with a manually reviewed reference set. Record precision, recall ",paragraph,,,-5.0,1.0,False,long text; ends like a sentence,9.0,1.0,False,False,Helvetica,57.0,562.3,530.2,574.7,4.6,14.3,116,16,,0.668,False,left,1.0
+1,Acceptance Criteria,heading,2,section_heading,8.0,1.0,False,font much larger; bold; short standalone bold line; known section word; space above,15.0,1.67,True,False,Helvetica-Bold,57.0,589.0,197.9,609.6,14.3,141.4,19,2,,0.7,False,left,1.0
+1,Risks and Mitigations,heading,2,section_heading,6.5,1.0,False,font much larger; bold; short standalone bold line; space above,15.0,1.67,True,False,Helvetica-Bold,57.0,751.0,211.2,771.6,141.4,0.0,21,3,,0.892,False,left,1.0
+2,SYNTHETIC TEST DOCUMENT — NOT FOR REAL-WORLD USE,skip,,,0,1.0,False,,,,,,,,,,,,,,,,,,,
+2,Page 2,skip,,,0,1.0,False,,,,,,,,,,,,,,,,,,,
+2,Layout variation,heading,3,section_heading,5.5,1.0,False,font much larger; bold; short standalone bold line,12.0,1.33,True,False,Helvetica-Bold,57.0,56.2,149.7,72.7,0.0,4.6,16,2,,0.067,True,left,1.0
+2,"Mitigation: include documents with different fonts, spacing, numbering schemes and page st",paragraph,,,-2.0,1.0,False,ends like a sentence,9.0,1.0,False,False,Helvetica,57.0,77.3,457.7,89.7,4.6,10.5,99,12,,0.092,False,left,1.0
+2,OCR noise,heading,3,section_heading,6.5,1.0,False,font much larger; bold; short standalone bold line; space above,12.0,1.33,True,False,Helvetica-Bold,57.0,100.2,118.4,116.7,10.5,4.6,9,2,,0.119,False,left,1.0
+2,"Mitigation: test extracted text from both digitally generated PDFs and scanned PDFs, and f",paragraph,,,-5.0,1.0,False,long text; ends like a sentence,9.0,1.0,False,False,Helvetica,57.0,121.3,520.7,133.7,4.6,14.3,115,16,,0.144,False,left,1.0
+2,Decision Required,heading,2,section_heading,6.5,1.0,False,font much larger; bold; short standalone bold line; space above,15.0,1.67,True,False,Helvetica-Bold,57.0,148.0,188.7,168.6,14.3,6.7,17,2,,0.176,False,left,1.0
+2,The project owner should approve the sample set and evaluation rubric before the pilot beg,paragraph,,,-2.0,1.0,False,ends like a sentence,9.0,1.0,False,False,Helvetica,57.0,175.3,433.7,187.7,6.7,14.3,94,15,,0.208,False,left,1.0
+2,Appendix — Glossary,heading,2,clause_heading,8.5,1.0,False,font much larger; bold; short standalone bold line; numbered; space above; short numbered section,15.0,1.67,True,False,Helvetica-Bold,57.0,202.0,212.9,222.6,14.3,8.6,19,3,article:1,0.24,False,left,1.0
+2,Heading,heading,3,section_heading,5.5,1.0,False,font much larger; bold; short standalone bold line,12.0,1.33,True,False,Helvetica-Bold,57.0,231.2,104.4,247.7,8.6,4.6,7,1,,0.275,False,left,1.0
+2,A line or phrase that identifies a section or subsection.,paragraph,,,-2.0,1.0,False,ends like a sentence,9.0,1.0,False,False,Helvetica,57.0,252.3,272.6,264.7,4.6,10.5,57,10,,0.3,False,left,1.0
+2,Body paragraph,heading,3,section_heading,6.5,1.0,False,font much larger; bold; short standalone bold line; space above,12.0,1.33,True,False,Helvetica-Bold,57.0,275.2,149.0,291.7,10.5,4.6,14,2,,0.327,False,left,1.0
+2,Explanatory text belonging to a section rather than naming the section.,paragraph,,,-2.0,1.0,False,ends like a sentence,9.0,1.0,False,False,Helvetica,57.0,296.3,338.2,308.7,4.6,0.0,71,11,,0.352,False,left,1.0

@@ -1,0 +1,53 @@
+{
+  "h1": {
+    "font_family": "Arial",
+    "font_size": 22,
+    "bold": true,
+    "italic": false,
+    "color": "#111111"
+  },
+  "h2": {
+    "font_family": "Calibri",
+    "font_size": 18,
+    "bold": true,
+    "italic": false,
+    "color": "#222222"
+  },
+  "h3": {
+    "font_family": "Arial",
+    "font_size": 15,
+    "bold": true,
+    "italic": false,
+    "color": "#333333"
+  },
+  "h4": {
+    "font_family": "Arial",
+    "font_size": 13,
+    "bold": true,
+    "italic": true,
+    "color": "#444444"
+  },
+  "paragraph": {
+    "font_family": "Georgia",
+    "font_size": 12,
+    "bold": false,
+    "italic": false,
+    "color": "#000000"
+  },
+  "table_header": {
+    "font_family": "Arial",
+    "font_size": 12,
+    "bold": true,
+    "italic": false,
+    "color": "#000000",
+    "background": "#e8e8e8"
+  },
+  "table_cell": {
+    "font_family": "Arial",
+    "font_size": 11,
+    "bold": false,
+    "italic": false,
+    "color": "#000000"
+  },
+  "link_color": "#0645ad"
+}

@@ -1,0 +1,1012 @@
+{
+  "source_pdf": "C:\\Users\\kevin\\Downloads\\yatzar\\jobs\\463db9dcc4c74002baef1f428bc5e43a\\input.pdf",
+  "element_count": 36,
+  "type_styles": {
+    "h1": {
+      "font_family": "Arial",
+      "font_size": 22,
+      "bold": true,
+      "italic": false,
+      "color": "#111111"
+    },
+    "h2": {
+      "font_family": "Arial",
+      "font_size": 18,
+      "bold": true,
+      "italic": false,
+      "color": "#222222"
+    },
+    "h3": {
+      "font_family": "Arial",
+      "font_size": 15,
+      "bold": true,
+      "italic": false,
+      "color": "#333333"
+    },
+    "h4": {
+      "font_family": "Arial",
+      "font_size": 13,
+      "bold": true,
+      "italic": true,
+      "color": "#444444"
+    },
+    "paragraph": {
+      "font_family": "Georgia",
+      "font_size": 12,
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    "table_header": {
+      "font_family": "Arial",
+      "font_size": 12,
+      "bold": true,
+      "italic": false,
+      "color": "#000000",
+      "background": "#e8e8e8"
+    },
+    "table_cell": {
+      "font_family": "Arial",
+      "font_size": 11,
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    "link_color": "#0645ad"
+  },
+  "elements": [
+    {
+      "type": "paragraph",
+      "content": "PSG CoLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLOGY PSG cOLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLOGY",
+      "page": 1,
+      "bbox": [
+        35.6,
+        10.7,
+        545.3,
+        31.9
+      ],
+      "id": "el_0000",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "PSG CoLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLOGY PSG cOLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLOGY "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h1",
+      "content": "TECHNOLOGY",
+      "page": 1,
+      "bbox": [
+        24.6,
+        24.2,
+        38.2,
+        109.2
+      ],
+      "id": "el_0001",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "TECHNOLOGY "
+          }
+        ],
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h1",
+      "content": "PSG COLLEGE OF TECHNOLOGY",
+      "page": 1,
+      "bbox": [
+        134.5,
+        28.2,
+        452.3,
+        55.1
+      ],
+      "id": "el_0002",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "PSG COLLEGE OF TECHNOLOGY "
+          }
+        ],
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "coIMBATORE -641 004 INDIA",
+      "page": 1,
+      "bbox": [
+        215.2,
+        55.1,
+        360.6,
+        69.0
+      ],
+      "id": "el_0003",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "coIMBATORE -641 004 INDIA "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "( AUTONOMOUS INSTITUTION AFFILIATED TO ANNA UNIVERSITY )",
+      "page": 1,
+      "bbox": [
+        161.2,
+        66.9,
+        440.5,
+        86.2
+      ],
+      "id": "el_0004",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "( AUTONOMOUS INSTITUTION AFFILIATED TO ANNA UNIVERSITY ) "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "BTech DEGREE EXAMINATIONS JUN 2026",
+      "page": 1,
+      "bbox": [
+        190.0,
+        83.9,
+        393.2,
+        97.0
+      ],
+      "id": "el_0005",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "BTech DEGREE EXAMINATIONS JUN 2026 "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "OF",
+      "page": 1,
+      "bbox": [
+        25.6,
+        96.2,
+        43.4,
+        110.7
+      ],
+      "id": "el_0006",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "OF "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "header": [
+          "NAME ROLL NO BRANCH : : SI267 IANIACARROLLINE : INFORMAAION TCHNOL OGY STATEMENT OF",
+          "GRADES",
+          "Folio No.: A 339241 UMIS NUMBER :9994444274 EMIS NUMBER :2016286298 DATE OF BIRTH : 24'102007"
+        ],
+        "rows": [
+          [
+            "Course Code Course Title",
+            "",
+            "Credits Grade Letter Point Grade"
+          ],
+          [
+            "SECOND SEMESTER",
+            "",
+            ""
+          ],
+          [
+            "231201 231202 231203 TRANSFORMS AND ITS APPLICATIONS SENSORS FOR ENGINEERING APPLICATIONS COMMUNICATION SYSTEMS",
+            "",
+            "9 A A"
+          ],
+          [
+            "231204 231205 DIGITAL LOGIC DESIGN PYTHON PROGRAMMING",
+            "",
+            "A A"
+          ],
+          [
+            "23G001 23121| 231214 230213 ENGINEERING GRAPHICS COMMUNICATION SKILLS FOR ENGINEERS BASIC SCIENCE LABORATORY FOUNDATIONS OF PROBLEM SOLVING",
+            "",
+            "2.0 2.0 10 Completed A S A"
+          ],
+          [
+            "23121S ACTIVIIY POINT PROGRAMME",
+            "",
+            "Completed"
+          ],
+          [
+            "As per scheme -Credits to be enrolled upto Second Semester Credits enrolled upto Second Semester - Total credits carned upto Second Semester - CGPA upto Second Semester",
+            "44,00 44.00 44.00 8.98",
+            ""
+          ]
+        ]
+      },
+      "page": 1,
+      "bbox": [
+        53.4,
+        107.8,
+        520.6,
+        458.8
+      ],
+      "id": "el_0007",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "h1",
+      "content": "COLLEGE",
+      "page": 1,
+      "bbox": [
+        25.7,
+        108.7,
+        39.8,
+        163.3
+      ],
+      "id": "el_0008",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "COLLEGE "
+          }
+        ],
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h1",
+      "content": "PSG",
+      "page": 1,
+      "bbox": [
+        26.6,
+        156.0,
+        42.5,
+        181.6
+      ],
+      "id": "el_0009",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "PSG "
+          }
+        ],
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h1",
+      "content": "TECHNOLOGY",
+      "page": 1,
+      "bbox": [
+        26.0,
+        174.7,
+        40.2,
+        259.7
+      ],
+      "id": "el_0010",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "TECHNOLOGY "
+          }
+        ],
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "OF",
+      "page": 1,
+      "bbox": [
+        27.6,
+        248.1,
+        45.5,
+        257.1
+      ],
+      "id": "el_0011",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "OF "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "COLLEGE",
+      "page": 1,
+      "bbox": [
+        27.7,
+        259.4,
+        41.3,
+        311.9
+      ],
+      "id": "el_0012",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "COLLEGE "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "h1",
+      "content": "PSG",
+      "page": 1,
+      "bbox": [
+        28.1,
+        306.5,
+        44.6,
+        332.0
+      ],
+      "id": "el_0013",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "PSG "
+          }
+        ],
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h1",
+      "content": "TECHNOLOGY",
+      "page": 1,
+      "bbox": [
+        28.0,
+        325.1,
+        42.2,
+        410.2
+      ],
+      "id": "el_0014",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "TECHNOLOGY "
+          }
+        ],
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "OF",
+      "page": 1,
+      "bbox": [
+        29.1,
+        397.1,
+        47.6,
+        411.6
+      ],
+      "id": "el_0015",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "OF "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "h1",
+      "content": "COLLEGE",
+      "page": 1,
+      "bbox": [
+        29.1,
+        409.4,
+        43.3,
+        467.4
+      ],
+      "id": "el_0016",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "COLLEGE "
+          }
+        ],
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h1",
+      "content": "PSG",
+      "page": 1,
+      "bbox": [
+        30.1,
+        459.4,
+        45.9,
+        485.0
+      ],
+      "id": "el_0017",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "PSG "
+          }
+        ],
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "- End of Statement",
+      "page": 1,
+      "bbox": [
+        210.3,
+        471.8,
+        283.7,
+        482.1
+      ],
+      "id": "el_0018",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "-"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "End of Statement "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h1",
+      "content": "TECHNOLOGY",
+      "page": 1,
+      "bbox": [
+        30.0,
+        475.6,
+        43.6,
+        560.6
+      ],
+      "id": "el_0019",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "TECHNOLOGY "
+          }
+        ],
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "OF",
+      "page": 1,
+      "bbox": [
+        31.1,
+        547.6,
+        48.9,
+        562.1
+      ],
+      "id": "el_0020",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "OF "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "h2",
+      "content": "CoLLEGE",
+      "page": 1,
+      "bbox": [
+        31.1,
+        560.1,
+        45.3,
+        615.4
+      ],
+      "id": "el_0021",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "CoLLEGE "
+          }
+        ],
+        "confidence": 0.5,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "PSG",
+      "page": 1,
+      "bbox": [
+        32.1,
+        608.3,
+        47.9,
+        630.4
+      ],
+      "id": "el_0022",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "PSG "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "h1",
+      "content": "TECHNOLOGY",
+      "page": 1,
+      "bbox": [
+        31.5,
+        625.4,
+        45.7,
+        707.0
+      ],
+      "id": "el_0023",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "TECHNOLOGY "
+          }
+        ],
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Note",
+      "page": 1,
+      "bbox": [
+        59.9,
+        654.5,
+        80.3,
+        663.5
+      ],
+      "id": "el_0024",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Note "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Absolute Grading adopted for all courses",
+      "page": 1,
+      "bbox": [
+        59.4,
+        662.7,
+        206.5,
+        674.4
+      ],
+      "id": "el_0025",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Absolute Grading adopted for all courses "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Only thosc courses passed by the candidate are printed in this statement",
+      "page": 1,
+      "bbox": [
+        58.8,
+        674.5,
+        312.2,
+        686.9
+      ],
+      "id": "el_0026",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Only thosc courses passed by the candidate are printed in this statement "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "DATE 30 062026",
+      "page": 1,
+      "bbox": [
+        64.3,
+        692.1,
+        135.0,
+        701.8
+      ],
+      "id": "el_0027",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "DATE 30 062026 "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "OF",
+      "page": 1,
+      "bbox": [
+        33.0,
+        694.1,
+        50.9,
+        708.6
+      ],
+      "id": "el_0028",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "OF "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "COLLEGE",
+      "page": 1,
+      "bbox": [
+        33.1,
+        707.1,
+        46.7,
+        762.4
+      ],
+      "id": "el_0029",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "COLLEGE "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Seal",
+      "page": 1,
+      "bbox": [
+        62.1,
+        729.2,
+        86.9,
+        744.4
+      ],
+      "id": "el_0030",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Seal "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.8,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "CONTRoLLER OFEXAMINATIONS",
+      "page": 1,
+      "bbox": [
+        344.4,
+        730.9,
+        493.3,
+        743.4
+      ],
+      "id": "el_0031",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "CONTRoLLER OFEXAMINATIONS "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.8,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Medium of Instruction Englısh This document is issued without any correction",
+      "page": 1,
+      "bbox": [
+        63.3,
+        752.7,
+        233.1,
+        755.6
+      ],
+      "id": "el_0032",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Medium of Instruction Englısh "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "This document is issued without any correction "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h1",
+      "content": "PSG",
+      "page": 1,
+      "bbox": [
+        33.5,
+        754.5,
+        50.0,
+        780.0
+      ],
+      "id": "el_0033",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "PSG "
+          }
+        ],
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "CGPA Cumulative Gtade Point Average",
+      "page": 1,
+      "bbox": [
+        63.7,
+        764.7,
+        213.9,
+        776.4
+      ],
+      "id": "el_0034",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "CGPA Cumulative Gtade Point Average "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "PSG COLLEGE OF TECHNOLOGY PSG cOLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLoGY",
+      "page": 1,
+      "bbox": [
+        40.1,
+        774.7,
+        551.0,
+        785.1
+      ],
+      "id": "el_0035",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "PSG COLLEGE OF TECHNOLOGY PSG cOLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLoGY "
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,1394 @@
+[
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "section_heading",
+    "text": "PSG COLLEGE OF TECHNOLOGY",
+    "runs": [
+      {
+        "text": "PSG COLLEGE OF TECHNOLOGY"
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      228.8,
+      91.2,
+      731.1,
+      140.0
+    ],
+    "id": 0
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "section_heading",
+    "text": "DEPARTMENT OF IT",
+    "runs": [
+      {
+        "text": "DEPARTMENT OF IT"
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      322.7,
+      134.4,
+      637.2,
+      183.2
+    ],
+    "id": 1
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "section_heading",
+    "text": "Information Technology Association",
+    "runs": [
+      {
+        "text": "Information Technology Association"
+      }
+    ],
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      195.1,
+      177.6,
+      764.8,
+      226.4
+    ],
+    "id": 2
+  },
+  {
+    "type": "image",
+    "src": "images/p1_img3.jpeg",
+    "bbox": [
+      109.7,
+      205.1,
+      174.6,
+      270.0
+    ],
+    "page": 1,
+    "id": 3
+  },
+  {
+    "type": "image",
+    "src": "images/p1_img4.jpeg",
+    "bbox": [
+      813.8,
+      214.6,
+      855.8,
+      270.0
+    ],
+    "page": 1,
+    "id": 4
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "section_heading",
+    "text": "Office Bearer Interview",
+    "runs": [
+      {
+        "text": "Office Bearer Interview"
+      }
+    ],
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      296.5,
+      220.8,
+      663.4,
+      269.6
+    ],
+    "id": 5
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "About Me",
+    "runs": [
+      {
+        "text": "About Me"
+      }
+    ],
+    "confidence": 0.5,
+    "needs_review": true,
+    "page": 2,
+    "bbox": [
+      73.2,
+      49.9,
+      250.3,
+      103.7
+    ],
+    "id": 6
+  },
+  {
+    "type": "paragraph",
+    "text": "• Name: Tania Carrolline T",
+    "runs": [
+      {
+        "text": "• Name: Tania Carrolline T"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "list_item",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      73.2,
+      102.8,
+      368.6,
+      140.9
+    ],
+    "id": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "• Roll Number:25I267",
+    "runs": [
+      {
+        "text": "• Roll Number:25I267"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "list_item",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      73.2,
+      143.0,
+      318.8,
+      181.1
+    ],
+    "id": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "• Class & Section:BTECH IT G1",
+    "runs": [
+      {
+        "text": "• Class & Section:BTECH IT G1"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "list_item",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      73.2,
+      183.2,
+      410.2,
+      221.3
+    ],
+    "id": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "• Position Applied For: Executive member",
+    "runs": [
+      {
+        "text": "• Position Applied For: Executive member"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "list_item",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      73.2,
+      223.4,
+      544.2,
+      261.5
+    ],
+    "id": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "• Contact Details:",
+    "runs": [
+      {
+        "text": "• Contact Details:"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "list_item",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      73.2,
+      263.6,
+      270.1,
+      301.7
+    ],
+    "id": 11
+  },
+  {
+    "type": "paragraph",
+    "role": "field",
+    "label": "email id",
+    "value": "25i267@psgtech.ac.in contact:8667087578",
+    "text": "email id: 25i267@psgtech.ac.in contact:8667087578",
+    "runs": [
+      {
+        "text": "email id: "
+      },
+      {
+        "text": "25i267@psgtech.ac.in",
+        "uri": "mailto:25i267@psgtech.ac.in"
+      },
+      {
+        "text": " contact:8667087578"
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      73.2,
+      304.2,
+      668.2,
+      341.6
+    ],
+    "id": 12
+  },
+  {
+    "type": "paragraph",
+    "text": "• Professional Photograph",
+    "runs": [
+      {
+        "text": "• Professional Photograph"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "list_item",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 2,
+    "bbox": [
+      73.2,
+      344.0,
+      368.3,
+      382.1
+    ],
+    "id": 13
+  },
+  {
+    "type": "image",
+    "src": "images/p2_img1.jpeg",
+    "bbox": [
+      376.0,
+      363.6,
+      504.8,
+      529.3
+    ],
+    "page": 2,
+    "id": 14
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "About Me",
+    "runs": [
+      {
+        "text": "About Me"
+      }
+    ],
+    "confidence": 0.5,
+    "needs_review": true,
+    "page": 3,
+    "bbox": [
+      73.2,
+      16.1,
+      250.3,
+      69.8
+    ],
+    "id": 15
+  },
+  {
+    "type": "paragraph",
+    "text": "Introduction I am a second-year B.Tech Information Technology student with a strong interest in programming and technology. I am eager to contribute to IT Association where I can develop my leadership,teamwork and organizational skills while actively participating in technical and non-technical events. Academic performance",
+    "runs": [
+      {
+        "text": "Introduction"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "I am a second-year B.Tech Information Technology student with a strong interest in "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "programming and technology. I am eager to contribute to IT Association where I can "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "develop my leadership,teamwork and organizational skills while actively participating in "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "technical and non-technical events."
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Academic performance"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 3,
+    "bbox": [
+      30.0,
+      62.8,
+      885.6,
+      245.6
+    ],
+    "id": 16
+  },
+  {
+    "type": "paragraph",
+    "role": "field",
+    "label": "Grade X",
+    "value": "95.2 percent",
+    "text": "Grade X: 95.2 percent",
+    "runs": [
+      {
+        "text": "Grade X: 95.2 percent"
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 3,
+    "bbox": [
+      43.5,
+      248.5,
+      255.2,
+      280.6
+    ],
+    "id": 17
+  },
+  {
+    "type": "paragraph",
+    "role": "field",
+    "label": "Grade XII",
+    "value": "93.2 percent",
+    "text": "Grade XII: 93.2 percent",
+    "runs": [
+      {
+        "text": "   Grade XII : 93.2 percent"
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 3,
+    "bbox": [
+      30.0,
+      284.4,
+      275.6,
+      316.5
+    ],
+    "id": 18
+  },
+  {
+    "type": "paragraph",
+    "role": "field",
+    "label": "Cgpa",
+    "value": "8.8",
+    "text": "Cgpa: 8.8",
+    "runs": [
+      {
+        "text": "   Cgpa: 8.8"
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 3,
+    "bbox": [
+      30.0,
+      320.3,
+      136.7,
+      352.4
+    ],
+    "id": 19
+  },
+  {
+    "type": "paragraph",
+    "text": "Technical skills C,Python,HTML,CSS,MYSQL,MS Word,Excel,Power Point Soft skills Communication, Problem Solving ,Team work and Collaboration",
+    "runs": [
+      {
+        "text": "Technical skills "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "C,Python,HTML,CSS,MYSQL,MS Word,Excel,Power Point"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Soft skills"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Communication, Problem Solving ,Team work and Collaboration"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 3,
+    "bbox": [
+      30.0,
+      355.9,
+      647.9,
+      496.0
+    ],
+    "id": 20
+  },
+  {
+    "type": "paragraph",
+    "text": "Hobbies and interests Painting ,Solving coding challenges,Club activities and Technical events. One unique quality about myself: I stay patient while solving problems and don’t give up easily.",
+    "runs": [
+      {
+        "text": "Hobbies and interests"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "  Painting ,Solving coding challenges,Club activities and Technical events."
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "One unique quality about myself:"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "I stay patient while solving problems and don’t give up easily."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 4,
+    "bbox": [
+      73.2,
+      64.5,
+      775.3,
+      204.6
+    ],
+    "id": 21
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "Events and Club activities",
+    "runs": [
+      {
+        "text": "Events and Club activities"
+      }
+    ],
+    "confidence": 0.5,
+    "needs_review": true,
+    "page": 5,
+    "bbox": [
+      66.8,
+      57.5,
+      513.8,
+      111.3
+    ],
+    "id": 22
+  },
+  {
+    "type": "h3",
+    "level": 3,
+    "role": "section_heading",
+    "text": "Particpated in",
+    "runs": [
+      {
+        "text": "Particpated in"
+      }
+    ],
+    "confidence": 0.5,
+    "needs_review": true,
+    "page": 5,
+    "bbox": [
+      80.8,
+      127.7,
+      261.1,
+      170.5
+    ],
+    "id": 23
+  },
+  {
+    "type": "paragraph",
+    "text": "•Codecrypt •Cosmix_cvr •Vibrance •Hackathon : SIH 2025 (Internal hackthon) •Volunteered in YOC(Maanavar Illam)",
+    "runs": [
+      {
+        "text": "•Codecrypt"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "•Cosmix_cvr"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "•Vibrance"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "•Hackathon : SIH 2025 (Internal hackthon)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "•Volunteered in YOC(Maanavar Illam)"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 5,
+    "bbox": [
+      80.8,
+      166.2,
+      570.1,
+      338.7
+    ],
+    "id": 24
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "Why Should I Be Selected?",
+    "runs": [
+      {
+        "text": "Why Should I Be Selected?"
+      }
+    ],
+    "confidence": 0.5,
+    "needs_review": true,
+    "page": 6,
+    "bbox": [
+      73.2,
+      49.9,
+      542.2,
+      103.7
+    ],
+    "id": 25
+  },
+  {
+    "type": "paragraph",
+    "text": "I am applying because I want to contribute to the IT Association and be actively involved in organizing events.It’s a great oppurtunity to improve my teamwork,communication and leadership skills. I chose this position because I enjoy planning and working with people.I’m eager to take responsibility and learn by contributing to successful events. What motivates me is the opportunity to learn something new that challenge myself and make a postive impact. I will bring good organizational skills and positive attitude.I complete tasks responsibly and stay commited until the work is finished. I believe integrity, teamwork and consistency are essential for building a strong student community.",
+    "runs": [
+      {
+        "text": "I am applying because I want to contribute to the IT Association and be actively "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "involved in organizing events.It’s a great oppurtunity to improve my "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "teamwork,communication and leadership skills."
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "I chose this position because I enjoy planning and working with people.I’m eager to "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "take responsibility and learn by contributing to successful events."
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "What motivates me is the opportunity to learn something new that challenge "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "myself and make a postive impact."
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "I will bring good organizational skills and positive attitude.I complete tasks "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "responsibly and stay commited until the work is finished."
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "I believe integrity, teamwork and consistency are essential for building a strong "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "student community."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 6,
+    "bbox": [
+      73.2,
+      143.0,
+      888.1,
+      474.1
+    ],
+    "id": 26
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "Problem Solving",
+    "runs": [
+      {
+        "text": "Problem Solving"
+      }
+    ],
+    "confidence": 0.5,
+    "needs_review": true,
+    "page": 7,
+    "bbox": [
+      73.2,
+      49.9,
+      356.4,
+      103.7
+    ],
+    "id": 27
+  },
+  {
+    "type": "table",
+    "bbox": [
+      66.0,
+      143.8,
+      894.0,
+      403.8
+    ],
+    "header": [
+      "Issues",
+      "Proposed Solution"
+    ],
+    "rows": [
+      [
+        "Low participation",
+        "Poll students to avoid exam time conflicts and offer rewards for attendance."
+      ],
+      [
+        "Communication Gap",
+        "Concentrate more on publicity responsibility"
+      ],
+      [
+        "What is expected from ITA?",
+        "An orientation session and regular updates of ITA’s goals."
+      ],
+      [
+        "Student requirements",
+        "Collect student feedback regularly and organize events based on student’s interests."
+      ],
+      [
+        "Volunteer shortage",
+        "By building a volunteer culture by recognizing contributions and encouraging students to participate."
+      ]
+    ],
+    "page": 7,
+    "id": 28
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "One-Year Action Plan",
+    "runs": [
+      {
+        "text": "One-Year Action Plan"
+      }
+    ],
+    "confidence": 0.5,
+    "needs_review": true,
+    "page": 8,
+    "bbox": [
+      73.2,
+      49.9,
+      445.3,
+      103.7
+    ],
+    "id": 29
+  },
+  {
+    "type": "h4",
+    "level": 4,
+    "role": "section_heading",
+    "text": "MONTH",
+    "runs": [
+      {
+        "text": "MONTH"
+      }
+    ],
+    "confidence": 0.6,
+    "needs_review": true,
+    "page": 8,
+    "bbox": [
+      62.3,
+      145.6,
+      122.3,
+      170.6
+    ],
+    "id": 30
+  },
+  {
+    "type": "paragraph",
+    "text": "PROPOSED ACTIVITY",
+    "runs": [
+      {
+        "text": "PROPOSED ACTIVITY"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.6,
+    "needs_review": true,
+    "page": 8,
+    "bbox": [
+      483.5,
+      145.6,
+      637.3,
+      170.6
+    ],
+    "id": 31
+  },
+  {
+    "type": "paragraph",
+    "text": "AUG-SEP Orientation for new members,introduction to ITA",
+    "runs": [
+      {
+        "text": "AUG-SEP"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Orientation for new members,introduction to ITA"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 8,
+    "bbox": [
+      62.3,
+      188.4,
+      841.6,
+      212.5
+    ],
+    "id": 32
+  },
+  {
+    "type": "paragraph",
+    "text": "OCT-NOV Coding challenge.",
+    "runs": [
+      {
+        "text": "OCT-NOV"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Coding challenge."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 8,
+    "bbox": [
+      62.3,
+      231.0,
+      612.3,
+      255.1
+    ],
+    "id": 33
+  },
+  {
+    "type": "paragraph",
+    "text": "JAN-FEB Hackathon",
+    "runs": [
+      {
+        "text": "JAN-FEB"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Hackathon"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 8,
+    "bbox": [
+      62.3,
+      273.5,
+      561.7,
+      297.6
+    ],
+    "id": 34
+  },
+  {
+    "type": "paragraph",
+    "text": "MAR-APR Project Expo",
+    "runs": [
+      {
+        "text": "MAR-APR"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Project Expo"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 8,
+    "bbox": [
+      62.3,
+      316.1,
+      574.8,
+      340.2
+    ],
+    "id": 35
+  },
+  {
+    "type": "paragraph",
+    "text": "• Expected Participants: Around 80-120 students from all departments depending upon the events.",
+    "runs": [
+      {
+        "text": "• Expected Participants:"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Around 80-120 students from all departments depending upon the events."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "list_item",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 9,
+    "bbox": [
+      73.2,
+      41.1,
+      799.2,
+      111.5
+    ],
+    "id": 36
+  },
+  {
+    "type": "paragraph",
+    "text": "• Budget Idea: Budget wil be planned based on the scale and requirements of each event.",
+    "runs": [
+      {
+        "text": "• Budget Idea:"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Budget wil be planned based on the scale and requirements of each event."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "list_item",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 9,
+    "bbox": [
+      73.2,
+      147.8,
+      799.2,
+      218.2
+    ],
+    "id": 37
+  },
+  {
+    "type": "paragraph",
+    "text": "• Expected Outcomes: •Increased student participation •Improving coding proficiency •Stronger industry exposure •Stronger ITA community",
+    "runs": [
+      {
+        "text": "• Expected Outcomes:"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "•Increased student participation"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "•Improving coding proficiency"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "•Stronger industry exposure"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "•Stronger ITA community"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "list_item",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 9,
+    "bbox": [
+      73.2,
+      254.5,
+      395.3,
+      424.2
+    ],
+    "id": 38
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "Vision for ITA",
+    "runs": [
+      {
+        "text": "Vision for ITA"
+      }
+    ],
+    "confidence": 0.5,
+    "needs_review": true,
+    "page": 10,
+    "bbox": [
+      73.2,
+      26.2,
+      303.9,
+      80.0
+    ],
+    "id": 39
+  },
+  {
+    "type": "paragraph",
+    "text": "• Title: My Vision for ITA 2026–27",
+    "runs": [
+      {
+        "text": "• Title: My Vision for ITA 2026–27"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "list_item",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      73.2,
+      141.9,
+      454.1,
+      180.7
+    ],
+    "id": 40
+  },
+  {
+    "type": "paragraph",
+    "text": "• Vision Statement: “  To build an innovative and industry ready IT community by fostering excellence  ”",
+    "runs": [
+      {
+        "text": "• Vision Statement: “  To build an innovative and industry ready IT community "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "by fostering excellence  ”"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "list_item",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      73.2,
+      182.1,
+      872.9,
+      251.1
+    ],
+    "id": 41
+  },
+  {
+    "type": "paragraph",
+    "text": "• My plans: •Technical Events:  Mini Hackathons, Tech Talks •Industry Interaction: Alumni Sessions, Industry Expert Talks. •Coding Activities: Weekly coding challenges •Research Activities: Paper Presentation •Social Responsibility: Cyber safety awareness •Student Engagement:Team building events",
+    "runs": [
+      {
+        "text": "• My plans:"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "•Technical Events:  Mini Hackathons, Tech Talks"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "•Industry Interaction: Alumni Sessions, Industry Expert Talks."
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "•Coding Activities: Weekly coding challenges"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "•Research Activities: Paper Presentation"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "•Social Responsibility: Cyber safety awareness"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "•Student Engagement:Team building events"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "list_item",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 10,
+    "bbox": [
+      73.2,
+      252.5,
+      706.4,
+      475.7
+    ],
+    "id": 42
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "Innovation Ideas",
+    "runs": [
+      {
+        "text": "Innovation Ideas"
+      }
+    ],
+    "confidence": 0.5,
+    "needs_review": true,
+    "page": 11,
+    "bbox": [
+      73.2,
+      49.9,
+      364.3,
+      103.7
+    ],
+    "id": 43
+  },
+  {
+    "type": "paragraph",
+    "text": "• Student Mentorship Program",
+    "runs": [
+      {
+        "text": "• Student Mentorship Program"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "list_item",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 11,
+    "bbox": [
+      73.2,
+      141.9,
+      422.0,
+      180.0
+    ],
+    "id": 44
+  },
+  {
+    "type": "paragraph",
+    "text": "• Career Guidance Collaboration",
+    "runs": [
+      {
+        "text": "• Career Guidance Collaboration"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "list_item",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 11,
+    "bbox": [
+      73.2,
+      182.1,
+      439.6,
+      220.2
+    ],
+    "id": 45
+  },
+  {
+    "type": "paragraph",
+    "text": "• Coding Quiz",
+    "runs": [
+      {
+        "text": "• Coding Quiz"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "list_item",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 11,
+    "bbox": [
+      73.2,
+      222.3,
+      227.3,
+      260.4
+    ],
+    "id": 46
+  },
+  {
+    "type": "paragraph",
+    "text": "• Skill Development Series",
+    "runs": [
+      {
+        "text": "• Skill Development Series"
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "list_item",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 11,
+    "bbox": [
+      73.2,
+      262.5,
+      370.1,
+      300.6
+    ],
+    "id": 47
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "Why Should the Committee Choose Me?",
+    "runs": [
+      {
+        "text": "Why Should the Committee Choose Me?"
+      }
+    ],
+    "confidence": 0.5,
+    "needs_review": true,
+    "page": 12,
+    "bbox": [
+      73.2,
+      49.9,
+      792.3,
+      103.7
+    ],
+    "id": 48
+  },
+  {
+    "type": "paragraph",
+    "text": "The committee should choose me because I am responsible, eager to learn, and committed to contributing to the success of the IT Association. I work well in a team, take ownership of my responsibilities, and am willing to put in consistent effort. My goal is not just to participate in events but to help create meaningful opportunities for other students.",
+    "runs": [
+      {
+        "text": "The committee should choose me because I am responsible, eager to learn, and "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "committed to contributing to the success of the IT Association. I work well in a "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "team, take ownership of my responsibilities, and am willing to put in consistent "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "effort. My goal is not just to participate in events but to help create meaningful "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "opportunities for other students."
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 12,
+    "bbox": [
+      73.2,
+      143.0,
+      854.6,
+      278.7
+    ],
+    "id": 49
+  },
+  {
+    "type": "image",
+    "src": "images/p13_img0.jpeg",
+    "bbox": [
+      175.4,
+      143.8,
+      784.6,
+      486.4
+    ],
+    "page": 13,
+    "id": 50
+  }
+]

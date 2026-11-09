@@ -1,0 +1,251 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PDF cells preview</title>
+<style>
+body{margin:0;font-family:Segoe UI,Arial,sans-serif;background:#f4f5f7}
+.wrap{display:flex;gap:20px;align-items:flex-start;max-width:1200px;margin:0 auto;padding:20px}
+#doc{flex:1;min-width:0}
+#panel{width:280px;position:sticky;top:20px;background:#fff;border:1px solid #ccc;border-radius:8px;padding:14px;font-size:14px}
+#panel h3{margin:0 0 6px}
+#panel label{display:block;margin:10px 0 3px;font-weight:600}
+#panel label.plain{font-weight:400;margin:4px 0}
+#panel select,#panel input[type=number]{width:100%;padding:5px;box-sizing:border-box}
+#panel input[type=color]{width:60px;height:30px;padding:0;border:1px solid #aaa}
+#panel .row{display:flex;gap:16px}
+#panel button{margin-top:12px;margin-right:6px;padding:6px 10px;cursor:pointer}
+#selinfo{display:block;color:#555;margin-top:4px}
+.cell{position:relative;background:#fff;border:1px solid #ddd;border-radius:6px;padding:18px 12px 10px;margin:8px 0;cursor:pointer}
+.cell .tag{position:absolute;top:2px;left:8px;font:10px monospace;color:#888;text-transform:uppercase}
+.cell.review{border-color:#e8a000}
+.cell.sel{outline:2px solid #9db9f5;background:#f3f7ff}
+.cell.picked{outline:3px solid #2f6fed}
+.cell h1,.cell h2,.cell h3,.cell h4{margin:0}
+table{border-collapse:collapse;width:100%}
+td,th{border:1px solid #999;padding:4px 8px;text-align:left;vertical-align:top}
+img{max-width:100%}
+@media print{body{background:#fff}.wrap{display:block;padding:0;max-width:none}#panel{display:none}
+.cell{border:none!important;outline:none!important;background:none!important;padding:0;margin:4px 0;break-inside:avoid}
+.cell .tag{display:none}th,td{-webkit-print-color-adjust:exact;print-color-adjust:exact}}
+@media(max-width:800px){.wrap{flex-direction:column}#panel{width:auto;position:static}}
+</style>
+<style id="dyn"></style></head><body>
+<div class="wrap">
+<div id="doc">
+<div class="cell" data-types="h1"><span class="tag">h1 · title</span><h1 data-style="h1" data-eid="el_0000">MASTER SERVICESAGREEMENT</h1></div>
+<div class="cell review" data-types="h2"><span class="tag">h2 · section heading · check</span><h2 data-style="h2" data-eid="el_0001">Fictional sample for OCR, PDF extraction and document-structure testing</h2></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph · field</span><div data-style="paragraph" data-eid="el_0002">Effective Date: 1 November 2026</div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph · field</span><div data-style="paragraph" data-eid="el_0003">Reference: MSA-2026-1048</div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph · field</span><div data-style="paragraph" data-eid="el_0004">Client: Northstar Retail Solutions Private Limited, 42 Lake View Road, Coimbatore, Tamil Nadu 641018, India</div></div>
+<div class="cell review" data-types="paragraph"><span class="tag">paragraph · check</span><div data-style="paragraph" data-eid="el_0005">Service Provider: Blue Oak Digital Systems Private Limited, 18 Crescent Avenue, Bengaluru, Karnataka 560001, India </div></div>
+<div class="cell review" data-types="h1"><span class="tag">h1 · section heading · check</span><h1 data-style="h1" data-eid="el_0006">IMPORTANT NOTICE</h1></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0007">This is a fictional sample created solely for software testing. All parties, addresses, dates, amounts and terms are invented. It is not legal advice and must not be used as a real agreement. </div></div>
+<div class="cell" data-types="h1"><span class="tag">h1 · section heading</span><h1 data-style="h1" data-eid="el_0008">RECITALS</h1></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0009">The Client wishes to engage the Service Provider to design, configure and support a document workflow platform. The Service Provider states that it has the personnel and technical capability to perform the Services. The parties agree as follows: </div></div>
+<div class="cell review" data-types="h1"><span class="tag">h1 · section heading · check</span><h1 data-style="h1" data-eid="el_0010">1.DEFINITIONS AND INTERPRETATION</h1></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0011">1.1 Definitions. In this Agreement, unless the context requires otherwise, &quot;Business Day&quot; means a day other than Saturday, Sunday or a public holiday in the place where the relevant obligation is to be performed; &quot;Confidential Information&quot; means information described in Clause 8; &quot;Deliverables&quot; means the work products identified in Schedule A; &quot;Services&quot; means the r,   t    o s ns ,   s  es means the amounts payable under Clause 5. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0012">1.2 Interpretation. References to a person include an individual, company, partnership, government authority or other legal entity. The words &quot;including&quot; and &quot;in particular&quot; shall be construed without limitation. Headings are inserted for convenience and shall not affect interpretation. A reference to a clause or schedule is a reference to a clause or schedule of this Agreement. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0013">1.3 Order of precedence. If there is an inconsistency between the main body of this Agreement and a schedule, the main body shall prevail unless the schedule expressly states that it overrides the relevant clause. Any change to this order must be recorded in a written amendment signed by authorised representatives of both parties. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0014">SAMPLE CONTRACT —FOR TESTING ONLY—NOT LEGAL ADVICE </div></div>
+<div class="cell" data-types="h2"><span class="tag">h2 · clause heading</span><h2 data-style="h2" data-eid="el_0015">2. SCOPE OF SERVICES</h2></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0016">2.1 Appointment. The Client appoints the Service Provider to perform the Services, and the Service Provider accepts the appointment, on the terms of this Agreement. The Service Provider shall perform the Services with reasonable skill, care and diligence consistent with generally accepted professional standards. </div></div>
+<div class="cell" data-types="h3"><span class="tag">h3 · clause heading</span><h3 data-style="h3" data-eid="el_0017">2.2 Project activities. The Services include requirements workshops, workflow mapping, configuration of the document intake</h3></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0018">oir ons -o t Dlit t st Dt  rt oons o ld activities, milestones and assumptions are set out in Schedule A. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0019">2.3 Out-of-scope work. Any work not expressly included in Schedule A is outside the scope of the Services. The parties may agree additional work through a change request under Clause 4. The Service Provider is not required to begin out-of-scope work until the change request has been approved in writing. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0020">2.4 Client dependencies. The Client shall provide timely access to relevant personnel, systems, sample documents, business rules and decisions. The Service Provider shall notify the Client promptly if a dependency is likely to affect a milestone or the quality of a Deliverable. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0021">SAMPLE CONTRACT — FOR TESTING ONLY—NOT LEGAL ADVICE </div></div>
+<div class="cell" data-types="h2"><span class="tag">h2 · clause heading</span><h2 data-style="h2" data-eid="el_0022">3. PROJECT GOVERNANCE AND MILESTONES</h2></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0023">3.1 Project leads. Each party shall appoint a project lead with authority to coordinate day-to-day matters. The initial project leads shall be nominated within five Business Days after the Effective Date. Either party may replace its project lead by written notice. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0024">3.2 Status meetings. The project leads shall meet at least once each week during active implementation. The Service Provider shall provide a concise status report identifying completed work, upcoming activities, open issues, risks and decisions required from the Client. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0025">3.3 Indicative timetable. The parties currently anticipate a ten-week implementation period. The timetable is indicative and depends on timely completion of Client dependencies, approval of requirements and availability of test environments. A revised timetable shall be documented if a material dependency changes. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0026">3.4 Escalation. A project issue not resolved by the project leads within three Business Days shall be escalated to the parties&#x27; nominated senior representatives. Those representatives shall meet or confer in good faith and seek a practical resolution. </div></div>
+<div class="cell" data-types="h2"><span class="tag">h2 · clause heading</span><h2 data-style="h2" data-eid="el_0027">4. CHANGE CONTROL AND ACCEPTANCE</h2></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0028">i s  s ns st s  i  so s   s i nh. proposing party shall describe the requested change, its business reason and any known impact. The Service Provider shall assess the likely effect on effort, cost, dependencies and delivery dates. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0029">4.2 Approval. A change shall take effect only when recorded in a change request signed or otherwise expressly approved in writing by authorised representatives of both parties. Project meeting notes alone shall not amend this Agreement unless they clearly identify the amendment and are approved by both parties. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0030">4.3 Delivery review. The Client shall review each Deliverable within seven Business Days after receipt and shall either accept it or provide a written list of material non-conformities against the agreed requirements. The Service Provider shall use reasonable efforts to correct substantiated non-conformities and resubmit the Deliverable. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0031">4.4 Deemed acceptance. If the Client does not provide an acceptance notice or a sufficiently detailed rejection notice within the review period, the Deliverable shall be treated as accepted. Use of a Deliverable in a live production environment shall also constitute acceptance, except for defects notified before such use. </div></div>
+<div class="cell" data-types="h2"><span class="tag">h2 · clause heading</span><h2 data-style="h2" data-eid="el_0032">5. FEES, INVOICING AND PAYMENT</h2></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0033">5.1 Fees. The total fixed implementation fee is INR 12,50,000 (Indian Rupees Twelve Lakh Fifty Thousand only), exclusive of applicable taxes. Any approved change request may result in additional fees. Recurring support fees, if any, shall be agreed separately in writing. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0034">5.2 Milestone invoices. The Service Provider may invoice 20% on project commencement, 30% on approval of the solution design, 30% on delivery of the configured platform and 20% on final acceptance. Each invoice shall identify the relevant milestone and applicable taxes. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0035">5.3 Payment period. The Client shall pay undisputed invoices within thirty calendar days after receipt. If the Client disputes an invoice in good faith, it shall notify the Service Provider within ten Business Days, provide reasons and pay the undisputed portion by the due date. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0036">5.4 Late payment. Undisputed amounts not paid when due may accrue simple interest at 1% per month or the maximum rate permitted by applicable law, whichever is lower. The Service Provider shall provide written notice and a further ten Business Days to cure before suspending affected Services for non-payment. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0037">SAMPLE CONTRACT —FOR TESTING ONLY—NOT LEGAL ADVICE </div></div>
+<div class="cell" data-types="h2"><span class="tag">h2 · clause heading</span><h2 data-style="h2" data-eid="el_0038">6. REPRESENTATIONS, WARRANTIES AND SUPPORT</h2></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0039">6.1 Mutual authority. Each party represents that it is duly organised and has authority to enter into this Agreement. Each signatory represents that they are authorised to sign on behalf of the party identified below. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0040">6.2 Service warranty. The Service Provider warrants that it shall perform the Services in a professional and workmanlike manner and that, for thirty days after acceptance, the Deliverables will materially conform to the written specifications agreed by the parties. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0041">6.3 Remedy. For a substantiated breach of the service warranty, the Service Provider shall, at its option, re-perform the affected Services or correct the affected Deliverable. This remedy is the Client&#x27;s exclusive remedy for breach of the warranty in Clause 6.2, subject to non-excludable rights under applicable law. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0042">6.4 Support. During the agreed support period, the Service Provider shall acknowledge critical incidents within four business hours and high-priority incidents within one Business Day. Response times are targets for acknowledgement and do not guarantee resolution within the same period. </div></div>
+<div class="cell" data-types="h2"><span class="tag">h2 · clause heading</span><h2 data-style="h2" data-eid="el_0043">7. INTELLECTUAL PROPERTY AND DATA</h2></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0044">7.1 Client materials. The Client retains all rights in documents, data, trademarks and materials supplied by or on behalf of the Client. The Client grants the Service Provider a limited, non-exclusive right to use those materials solely to perform the Services. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0045">7.2 Deliverables. Upon payment of all undisputed Fees due for the relevant Deliverable, the Service Provider assigns to the Client the intellectual property rights in bespoke Deliverables created specifically for the Client under this Agreement, excluding Background Materials. </div></div>
+<div class="cell" data-types="h3"><span class="tag">h3 · clause heading</span><h3 data-style="h3" data-eid="el_0046">7.3 Background Materials. The Service Provider retains ownership of tools, templates, methods, know-how, software</h3></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0047">components and materials developed independently of this Project or used generally in its business. To the extent embedded in a Deliverable, the Service Provider grants the Client a perpetual, worldwide, non-exclusive licence to use those Background Materials as part of that Deliverable. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0048">7.4 Data handling. Each party shall comply with applicable data protection and information security laws. The Service Provider shall use Client data only for the Services, restrict access to personnel who need it and apply reasonable technical and organisational safeguards. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0049">SAMPLE CONTRACT — FOR TESTING ONLY—NOT LEGAL ADVICE </div></div>
+<div class="cell" data-types="h2"><span class="tag">h2 · clause heading</span><h2 data-style="h2" data-eid="el_0050">8. CONFIDENTIALITY AND SECURITY</h2></div>
+<div class="cell" data-types="h3"><span class="tag">h3 · clause heading</span><h3 data-style="h3" data-eid="el_0051">8.1 Confidential Information. Confidential Information includes non-public commercial, financial, technical, operational or</h3></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0052">personal information disclosed by one party to the other, whether in written, oral, electronic or other form, that is marked confidential or ought reasonably to be understood as confidential. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0053">8.2 Obligations. The receiving party shall protect Confidential Information using at least the same degree of care it uses for its own similar information, and in no event less than reasonable care. It shall use the information only to perform or receive the benefit of this Agreementand shall not disclose it except as permitted below. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0054">8.3 Exclusions. Confidential Information does not include information that the receiving party can demonstrate is public through no breach, was lawfully known without restriction, was independently developed without use of the disclosing party&#x27;s information, or was lawfully received from a third party without a duty of confidence. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0055">8.4 Compelled disclosure. A party may disclose Confidential Information to the extent required by law or a competent authority, provided that, where legally permitted, it gives prior notice and reasonably cooperates with efforts to limit the disclosure. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0056">8.5 Security incident. A party becoming aware of unauthorised access to the other party&#x27;s Confidential Information in its control shall notify the other party without undue delay and cooperate in investigating, containing and mitigating the incident. </div></div>
+<div class="cell" data-types="h2"><span class="tag">h2 · clause heading</span><h2 data-style="h2" data-eid="el_0057">9. LIABILITY, INDEMNITY AND INSURANCE</h2></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0058">9.1 Excluded losses. To the maximum extent permitted by law, neither party shall be liable to the other for indirect or consequential loss, loss of anticipated profits, loss of business opportunity or loss of goodwill arising out of this Agreement, whether in contract, tort or otherwise. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0059">9.2 Liability cap. Subject to Clause 9.3, each party&#x27;s aggregate liability arising out of or in connection with this Agreement shall not exceed the Fees paid or payable under this Agreement during the twelve months preceding the event giving rise to the claim. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0060">9.3 Exceptions. Nothing in this Agreement limits liability for fraud, wilful misconduct, death or personal injury caused by negligence, breach of confidentiality, infringement of the other party&#x27;s intellectual property rights, or any liability that cannot lawfully be limited. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0061">9.4 Third-party claims. Each party shall promptly notify the other of a third-party claim for which it seeks indemnification, allow the indemnifying party reasonable control of the defence and provide reasonable cooperation. No settlement imposing an admission or payment obligation on the indemnified party may be made without its prior written consent. </div></div>
+<div class="cell" data-types="h3"><span class="tag">h3 · clause heading</span><h3 data-style="h3" data-eid="el_0062">9.5 Insurance. The Service Provider shall maintain commercially reasonable professional indemnity and general liability</h3></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0063">insurance during the term and shall provide evidence of coverage upon reasonable written request. </div></div>
+<div class="cell" data-types="h2"><span class="tag">h2 · clause heading</span><h2 data-style="h2" data-eid="el_0064">10. TERM, TERMINATION AND GENERAL</h2></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0065">10.1 Term. This Agreement begins on the Effective Date and continues until completion of the Services, unless terminated earlier in accordance with this Clause. Provisions which by their nature are intended to survive shall continue after expiry or termination. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0066">10.2 Termination for cause. Either party may terminate this Agreement by written notice if the other party commits a material breach and fails to remedy it within thirty days after receiving a notice describing the breach. A party may terminate immediately if the other party becomes insolvent or ceases business, to the extent permitted by applicable law. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0067">10.3 Consequences. On termination, the Client shall pay for Services properly performed and approved expenses incurred up to the termination date. Each party shall return or securely destroy the other party&#x27;s Confidential Information, subject to lawful retention requirements and routine backup processes. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0068">10.4 Force majeure. Neither party shall be liable for delay caused by events beyond its reasonable control, including natural disasters, widespread network outages, acts of government, civil disturbance or epidemic restrictions. The affected party shall notify the other and take reasonable steps to mitigate the impact. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0069">10.5 Notices. Notices under this Agreement shall be in writing and delivered by hand, reputable courier or email to the addresses designated by each party. Notices by email are deemed received when no delivery failure message is generated and the sender retains a copy of the sent message. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0070">10.6 Governing law and disputes. This Agreement shall be governed by the laws of India. The parties shall first attempt to resolve disputes through good-faith discussions between senior representatives. If unresolved within thirty days, the courts at Coimbatore, Tamil Nadu shall have exclusive jurisdiction, subject to applicable law. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0071">10.7 Entire agreement. This Agreement and its schedules constitute the entire agreement between the parties concerning its subject matter and supersede prior discussions and understandings. Any amendment must be in writing and approved by authorised representatives of both parties. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0072">10.8 Counterparts. This Agreement may be executed in counterparts, each of which shall be treated as an original and all of which together form one instrument. Electronic signatures may be used where legally recognised. </div></div>
+<div class="cell" data-types="h2"><span class="tag">h2 · clause heading</span><h2 data-style="h2" data-eid="el_0073">SCHEDULE A—SERVICESANDDELIVERABLES</h2></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0074">A1. Discovery and design: conduct up to three requirements workshops; document agreed workflows; prepare a solution design and configuration plan. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0075">A2. Configuration: configure document intake, metadata fields, document categories, validation rules and role-based access settings in the agreed test environment. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0076">A3. Testing and training: support one user acceptance testing cycle, record defects, provide up to two administrator training sessions and supply a user guide. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0077">A4. Deliverables: requirements summary, solution design, configured test instance, test issue log, administrator guide and deployment handover note. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0078">A5. Assumptions: the Client will provide sample documents, reviewers, access credentials and timely decisions. Historical archive migration, custom mobile applications and third-party licence charges are excluded unless separately agreed. </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0079">A6. Indicative milestones: Weeks 1–2 discovery; Week 3 design approval; Weeks 4–7 configuration; Week 8 testing; Week 9 training; Week 10 handover and acceptance. </div></div>
+<div class="cell review" data-types="h1"><span class="tag">h1 · section heading · check</span><h1 data-style="h1" data-eid="el_0080">END OF SAMPLE AGREEMENT</h1></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0081">SAMPLE CONTRACT — FOR TESTING ONLY —NOT LEGAL ADVICE </div></div>
+</div>
+<div id="panel">
+  <h3>Font settings</h3>
+  <small>Choose an element type, or click a cell. Changes apply instantly.</small>
+  <label>Element type</label><select id="type"></select>
+  <label>Apply to</label>
+  <label class="plain"><input type="radio" name="scope" value="type" id="scopeType" checked> All cells of this type</label>
+  <label class="plain"><input type="radio" name="scope" value="cell" id="scopeCell" disabled> Only the selected cell</label>
+  <small id="selinfo">No cell selected</small>
+  <label>Font family</label><select id="family"></select>
+  <label>Font size (px)</label><input type="number" id="size" min="6" max="80" step="0.5">
+  <div class="row"><label class="plain"><input type="checkbox" id="bold"> Bold</label><label class="plain"><input type="checkbox" id="italic"> Italic</label></div>
+  <label>Text color</label><input type="color" id="color">
+  <div id="bgrow"><label>Background</label><input type="color" id="bg"></div>
+  <label>Link color</label><input type="color" id="link">
+  <button id="clear">Clear cell override</button>
+  <button id="reset">Reset all</button>
+  <button id="save">Download styles.json</button>
+  <button id="print">Print / Save as PDF</button>
+  <button id="srvexport" style="display:none">Export PDF (server)</button>
+</div></div>
+<script>
+const DEFAULTS = {"h1": {"font_family": "Arial", "font_size": 22, "bold": true, "italic": false, "color": "#111111"}, "h2": {"font_family": "Arial", "font_size": 18, "bold": true, "italic": false, "color": "#222222"}, "h3": {"font_family": "Arial", "font_size": 15, "bold": true, "italic": false, "color": "#333333"}, "h4": {"font_family": "Arial", "font_size": 13, "bold": true, "italic": true, "color": "#444444"}, "paragraph": {"font_family": "Georgia", "font_size": 12, "bold": false, "italic": false, "color": "#000000"}, "table_header": {"font_family": "Arial", "font_size": 12, "bold": true, "italic": false, "color": "#000000", "background": "#e8e8e8"}, "table_cell": {"font_family": "Arial", "font_size": 11, "bold": false, "italic": false, "color": "#000000"}, "link_color": "#0645ad"};
+const OVERRIDES0 = {};
+const TYPES = ["h1","h2","h3","h4","paragraph","table_header","table_cell"];
+const NAMES = {h1:"Heading (h1)",h2:"Subheading (h2)",h3:"Sub-subheading (h3)",h4:"Level 4 (h4)",
+  paragraph:"Content / paragraph",table_header:"Table header",table_cell:"Table cell"};
+const FONTS = ["Arial","Calibri","Georgia","Times New Roman","Verdana","Tahoma","Courier New","Trebuchet MS"];
+const clone = o => JSON.parse(JSON.stringify(o));
+let styles = clone(DEFAULTS), overrides = clone(OVERRIDES0);
+let cur = "h1", selEid = null;
+const $ = id => document.getElementById(id);
+const scope = () => document.querySelector("input[name=scope]:checked").value;
+
+function eff(t, eid){
+  const s = Object.assign({}, styles[t]), o = (eid && overrides[eid]) || {};
+  for (const k in o) s[k === "text_color" ? "color" : k] = o[k];
+  return s;
+}
+function apply(){
+  let css = "";
+  for (const t of TYPES){
+    const s = styles[t];
+    css += `[data-style="${t}"]{font-family:'${s.font_family}',sans-serif;font-size:${s.font_size}px;` +
+           `font-weight:${s.bold ? 700 : 400};font-style:${s.italic ? "italic" : "normal"};color:${s.color};` +
+           `${s.background ? "background:" + s.background + ";" : ""}}\n`;
+  }
+  for (const eid in overrides){
+    const o = overrides[eid]; let d = "";
+    if (o.font_family) d += `font-family:'${o.font_family}',sans-serif;`;
+    if (o.font_size) d += `font-size:${o.font_size}px;`;
+    if ("bold" in o) d += `font-weight:${o.bold ? 700 : 400};`;
+    if ("italic" in o) d += `font-style:${o.italic ? "italic" : "normal"};`;
+    if ("underline" in o) d += `text-decoration:${o.underline ? "underline" : "none"};`;
+    if (o.alignment) d += `text-align:${o.alignment};`;
+    if (o.text_color) d += `color:${o.text_color};`;
+    if (o.background) d += `background:${o.background};`;
+    if (d) css += `[data-eid="${eid}"][data-style]{${d}}\n`;
+  }
+  css += `.cell a{color:${styles.link_color}}`;
+  $("dyn").textContent = css;
+}
+function ensureFont(name){
+  if (![...$("family").options].some(o => o.value === name)){
+    const o = document.createElement("option"); o.value = o.textContent = name; $("family").appendChild(o);
+  }
+}
+function load(){
+  const s = eff(cur, scope() === "cell" ? selEid : null);
+  ensureFont(s.font_family);
+  $("type").value = cur; $("family").value = s.font_family; $("size").value = s.font_size;
+  $("bold").checked = !!s.bold; $("italic").checked = !!s.italic; $("color").value = s.color;
+  $("bgrow").style.display = (cur === "table_header") ? "block" : "none";
+  if (s.background) $("bg").value = s.background;
+  $("link").value = styles.link_color;
+  $("scopeCell").disabled = !selEid;
+  $("selinfo").textContent = selEid ? `Selected cell: ${selEid}` + (overrides[selEid] ? " (has override)" : "") : "No cell selected";
+  document.querySelectorAll(".cell").forEach(c => {
+    c.classList.toggle("sel", (c.dataset.types || "").split(" ").includes(cur));
+    c.classList.toggle("picked", !!selEid && !!c.querySelector(`[data-eid="${selEid}"]`));
+  });
+}
+function set(prop, val){
+  if (scope() === "cell" && selEid){
+    (overrides[selEid] = overrides[selEid] || {})[prop === "color" ? "text_color" : prop] = val;
+  } else {
+    styles[cur][prop] = val;
+  }
+  apply(); load();
+}
+
+TYPES.forEach(t => { const o = document.createElement("option"); o.value = t; o.textContent = NAMES[t]; $("type").appendChild(o); });
+FONTS.forEach(f => { const o = document.createElement("option"); o.value = o.textContent = f; $("family").appendChild(o); });
+document.querySelectorAll("input[name=scope]").forEach(r => r.onchange = load);
+$("type").onchange = e => { cur = e.target.value; selEid = null; $("scopeType").checked = true; load(); };
+$("family").onchange = e => set("font_family", e.target.value);
+$("size").oninput = e => { const v = parseFloat(e.target.value); if (v > 0) set("font_size", v); };
+$("bold").onchange = e => set("bold", e.target.checked);
+$("italic").onchange = e => set("italic", e.target.checked);
+$("color").oninput = e => set("color", e.target.value);
+$("bg").oninput = e => set("background", e.target.value);
+$("link").oninput = e => { styles.link_color = e.target.value; apply(); };
+$("print").onclick = () => window.print();
+$("clear").onclick = () => { if (selEid){ delete overrides[selEid]; apply(); load(); } };
+$("reset").onclick = () => { styles = clone(DEFAULTS); overrides = clone(OVERRIDES0); apply(); load(); };
+function payload(){
+  const out = Object.assign({}, styles);
+  const ov = {}; for (const k in overrides) if (Object.keys(overrides[k]).length) ov[k] = overrides[k];
+  if (Object.keys(ov).length) out.element_overrides = ov;
+  return out;
+}
+function saveBlob(blob, name){
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob); a.download = name; a.click();
+}
+$("save").onclick = () => saveBlob(new Blob([JSON.stringify(payload(), null, 2)], {type: "application/json"}), "styles.json");
+if (location.protocol.startsWith("http") && location.pathname.startsWith("/jobs/")) $("srvexport").style.display = "inline-block";
+$("srvexport").onclick = async () => {
+  $("srvexport").textContent = "Exporting...";
+  try {
+    const r = await fetch("export", {method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify(payload())});
+    if (!r.ok) throw new Error(await r.text());
+    saveBlob(await r.blob(), "exported.pdf");
+  } catch (err) { alert("Export failed: " + err.message); }
+  $("srvexport").textContent = "Export PDF (server)";
+};
+$("doc").addEventListener("click", e => {
+  const el = e.target.closest("[data-style]");
+  if (!el) return;
+  cur = el.dataset.style;
+  selEid = el.dataset.eid || null;
+  if (!selEid) $("scopeType").checked = true;
+  load();
+});
+apply(); load();
+</script></body></html>

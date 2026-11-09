@@ -1,0 +1,36 @@
+﻿page,text,label,level,role,score,confidence,needs_review,reasons,font_size,size_ratio,bold,italic,font_family,x0,y0,x1,y1,gap_before,gap_after,n_chars,n_words,numbering,y_rel,first_on_page,alignment,indent
+1,SYNTHETIC TEST DOCUMENT — NOT FOR REAL-WORLD USE,skip,,,0,1.0,False,,,,,,,,,,,,,,,,,,,
+1,Page 1,skip,,,0,1.0,False,,,,,,,,,,,,,,,,,,,
+1,PURCHASE ORDER,heading,1,title,7.5,1.0,False,font much larger; bold; short standalone bold line; caps; centered,18.0,2.0,True,False,Helvetica-Bold,212.1,55.8,383.1,80.5,0.0,11.8,14,2,,0.066,True,center,156.1
+1,PO Number BP-PO-2026-041 | Synthetic procurement document,paragraph,,,2.0,0.7,False,space above; centered,9.0,1.0,False,False,Helvetica,168.4,92.3,426.9,104.7,11.8,18.7,57,7,,0.11,False,center,112.4
+1,"PURCHASER: BluePeak Research Services, Coimbatore | VENDOR: Delta Office Systems, Chennai",field,,,0.0,0.9,False,label: value,8.0,0.89,False,False,Helvetica,57.0,123.4,415.2,134.4,18.7,119.6,89,11,,0.147,False,left,1.0
+1,1. Supplier and Delivery Information,heading,2,clause_heading,8.5,1.0,False,font much larger; bold; short standalone bold line; numbered; space above; short numbered section,15.0,1.67,True,False,Helvetica-Bold,57.0,254.0,313.8,274.6,119.6,8.6,36,5,decimal:1,0.302,False,left,1.0
+1,1.1 Supplier details,heading,3,clause_heading,7.5,1.0,False,font much larger; bold; short standalone bold line; numbered; short numbered section,12.0,1.33,True,False,Helvetica-Bold,57.0,283.2,166.4,299.7,8.6,4.6,20,3,decimal:2,0.336,False,left,1.0
+1,Delta Office Systems,paragraph,,,0.0,1.0,False,,9.0,1.0,False,False,Helvetica,57.0,304.3,141.0,316.7,4.6,0.6,20,3,,0.361,False,left,1.0
+1,"48 Industrial Estate Road, Chennai, Tamil Nadu 600032",heading,2,clause_heading,3.5,0.6,True,numbered; short numbered section,9.0,1.0,False,False,Helvetica,57.0,317.3,280.1,329.7,0.6,0.6,53,8,decimal:1,0.377,False,left,1.0
+1,Vendor Code: DOS-118,field,,,0.0,0.9,False,label: value,9.0,1.0,False,False,Helvetica,57.0,330.3,152.6,342.7,0.6,10.5,20,3,,0.392,False,left,1.0
+1,1.2 Ship-to address,heading,3,clause_heading,8.5,1.0,False,font much larger; bold; short standalone bold line; numbered; space above; short numbered section,12.0,1.33,True,False,Helvetica-Bold,57.0,353.2,167.7,369.7,10.5,4.6,19,3,decimal:2,0.42,False,left,1.0
+1,"BluePeak Research Services, Receiving Bay 2",paragraph,,,0.0,1.0,False,,9.0,1.0,False,False,Helvetica,57.0,374.3,243.6,386.7,4.6,0.6,43,6,,0.445,False,left,1.0
+1,"Technology Park, Coimbatore, Tamil Nadu 641014",paragraph,,,0.0,1.0,False,,9.0,1.0,False,False,Helvetica,57.0,387.3,259.6,399.7,0.6,0.6,46,6,,0.46,False,left,1.0
+1,Contact: Procurement Desk,field,,,0.0,0.9,False,label: value,9.0,1.0,False,False,Helvetica,57.0,400.3,167.6,412.7,0.6,14.3,25,3,,0.475,False,left,1.0
+1,2. Items Ordered,heading,2,clause_heading,8.5,1.0,False,font much larger; bold; short standalone bold line; numbered; space above; short numbered section,15.0,1.67,True,False,Helvetica-Bold,57.0,427.0,175.4,447.6,14.3,95.7,16,3,decimal:1,0.507,False,left,1.0
+1,"Subtotal: I70,200",field,,,0.0,0.9,False,label: value,9.0,1.0,False,False,Helvetica,57.0,543.3,129.4,555.7,95.7,0.6,17,2,,0.645,False,left,1.0
+1,"GST (18%): I12,636",paragraph,,,1.0,0.9,False,caps,9.0,1.0,False,False,Helvetica,57.0,556.3,141.4,568.7,0.6,0.7,18,3,,0.661,False,left,1.0
+1,"Total Purchase Order Value: I82,836",paragraph,,,2.5,0.6,True,bold; short standalone bold line,9.0,1.0,True,False,Helvetica-Bold,57.0,569.4,214.9,581.8,0.7,14.2,35,5,,0.676,False,left,1.0
+1,3. Delivery Requirements,heading,2,clause_heading,10.0,1.0,False,font much larger; bold; short standalone bold line; numbered; known section word; space above; short numbered section,15.0,1.67,True,False,Helvetica-Bold,57.0,596.0,236.3,616.6,14.2,8.6,24,3,decimal:1,0.708,False,left,1.0
+1,3.1 Packaging and labelling,heading,3,clause_heading,7.5,1.0,False,font much larger; bold; short standalone bold line; numbered; short numbered section,12.0,1.33,True,False,Helvetica-Bold,57.0,625.2,213.8,641.7,8.6,4.6,27,4,decimal:2,0.743,False,left,1.0
+1,"All cartons must display the purchase order number, line number and quantity. Paper reams ",paragraph,,,-3.0,1.0,False,long text,9.0,1.0,False,False,Helvetica,57.0,646.3,538.3,658.7,4.6,0.6,112,18,,0.768,False,left,1.0
+1,moisture during transport.,paragraph,,,-2.0,1.0,False,ends like a sentence,9.0,1.0,False,False,Helvetica,57.0,659.3,159.6,671.7,0.6,10.5,26,3,,0.783,False,left,1.0
+1,3.2 Partial deliveries,heading,3,clause_heading,8.5,1.0,False,font much larger; bold; short standalone bold line; numbered; space above; short numbered section,12.0,1.33,True,False,Helvetica-Bold,57.0,682.2,172.4,698.7,10.5,4.6,22,3,decimal:2,0.81,False,left,1.0
+1,Partial delivery is permitted only after written approval from the purchaser. The supplier,paragraph,,,-3.0,1.0,False,long text,9.0,1.0,False,False,Helvetica,57.0,703.3,538.3,715.7,4.6,0.6,123,18,,0.835,False,left,1.0
+1,schedule for any backordered item.,paragraph,,,0.0,1.0,False,numbered; ends like a sentence,9.0,1.0,False,False,Helvetica,57.0,716.3,197.6,728.7,0.6,14.3,34,5,article:1,0.851,False,left,1.0
+1,4. Inspection and Acceptance,heading,2,clause_heading,10.0,1.0,False,font much larger; bold; short standalone bold line; numbered; known section word; space above; short numbered section,15.0,1.67,True,False,Helvetica-Bold,57.0,743.0,267.9,763.6,14.3,0.0,28,4,decimal:1,0.883,False,left,1.0
+2,SYNTHETIC TEST DOCUMENT — NOT FOR REAL-WORLD USE,skip,,,0,1.0,False,,,,,,,,,,,,,,,,,,,
+2,Page 2,skip,,,0,1.0,False,,,,,,,,,,,,,,,,,,,
+2,The purchaser will inspect quantities and visible condition within five business days of r,paragraph,,,-3.0,1.0,False,long text,9.0,1.0,False,False,Helvetica,57.0,56.3,538.3,68.7,0.0,0.6,118,17,,0.067,True,left,1.0
+2,items may be rejected and replaced at the supplier's cost.,paragraph,,,-2.0,1.0,False,ends like a sentence,9.0,1.0,False,False,Helvetica,57.0,69.3,286.3,81.7,0.6,14.3,58,10,,0.082,False,left,1.0
+2,5. Invoicing and Payment,heading,2,clause_heading,10.0,1.0,False,font much larger; bold; short standalone bold line; numbered; known section word; space above; short numbered section,15.0,1.67,True,False,Helvetica-Bold,57.0,96.0,237.1,116.6,14.3,6.7,24,4,decimal:1,0.114,False,left,1.0
+2,"Invoices must reference BP-PO-2026-041 and include applicable tax details, delivery docume",paragraph,,,0.0,1.0,False,,9.0,1.0,False,False,Helvetica,57.0,123.3,538.3,135.7,6.7,0.6,106,13,,0.146,False,left,1.0
+2,information already registered with the purchaser.,paragraph,,,-2.0,1.0,False,ends like a sentence,9.0,1.0,False,False,Helvetica,57.0,136.3,254.6,148.7,0.6,14.3,50,6,,0.162,False,left,1.0
+2,6. Authorisation,heading,2,clause_heading,8.5,1.0,False,font much larger; bold; short standalone bold line; numbered; space above; short numbered section,15.0,1.67,True,False,Helvetica-Bold,57.0,163.0,171.2,183.6,14.3,95.8,16,2,decimal:1,0.194,False,left,1.0
+2,This is a fictional purchase order created solely for software testing. It is not a valid ,paragraph,,,-4.0,1.0,False,space above; long text; ends like a sentence,8.0,0.89,False,False,Helvetica,57.0,279.4,413.6,290.4,95.8,0.0,108,19,,0.332,False,left,1.0

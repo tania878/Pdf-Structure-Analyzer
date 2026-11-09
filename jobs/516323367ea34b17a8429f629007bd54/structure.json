@@ -1,0 +1,1830 @@
+[
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "AIR POLLUTION",
+    "runs": [
+      {
+        "text": "AIR POLLUTION "
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      249.5,
+      72.6,
+      366.3,
+      88.0
+    ],
+    "id": 0
+  },
+  {
+    "type": "paragraph",
+    "text": "Air pollution is define as the composition of air is disturbed due to presence of gas, smoke, dust, chemical particulate etc., which are injurious to human being, plant and animal.",
+    "runs": [
+      {
+        "text": "Air pollution is define as the composition of air is disturbed due to presence of gas, "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "smoke, dust, chemical particulate etc., which are injurious to human being, plant "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "and animal. "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      72.0,
+      100.9,
+      543.4,
+      153.3
+    ],
+    "id": 1
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "Types of Air pollution",
+    "runs": [
+      {
+        "text": "Types of Air pollution "
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      72.0,
+      166.7,
+      207.3,
+      182.1
+    ],
+    "id": 2
+  },
+  {
+    "type": "paragraph",
+    "text": "i) Primary pollutant: Pollutants that are emitted directly from the human or natural activities are known as primary pollutant. For example, CO2, SO2, NOx, particulate matter, hydrocarbons etc. ii) Secondary pollutant: when primary pollutants are react with atmospheric moisture content then a new category of pollutants is form, known as secondary pollutant. For example, carbonic acid, nitric acid, sulphuric acid etc.",
+    "runs": [
+      {
+        "text": "i)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Primary pollutant: Pollutants that are emitted directly from the human "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "or natural activities are known as primary pollutant. For example, CO2, "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "SO2, NOx, particulate matter, hydrocarbons etc. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "ii)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Secondary pollutant: when primary pollutants are react with "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "atmospheric moisture content then a new category of pollutants is form, "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "known as secondary pollutant. For example, carbonic acid, nitric acid, "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "sulphuric acid etc. "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      90.0,
+      195.0,
+      543.7,
+      321.6
+    ],
+    "id": 3
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "Cause of Air pollution",
+    "runs": [
+      {
+        "text": "Cause of Air pollution "
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      72.0,
+      334.7,
+      208.3,
+      350.1
+    ],
+    "id": 4
+  },
+  {
+    "type": "paragraph",
+    "text": "a)Urbanization b)Population c)Deforestation d)Industrialization e)Vehicle emission",
+    "runs": [
+      {
+        "text": "a)Urbanization "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "b)Population "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "c)Deforestation  "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "d)Industrialization "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "e)Vehicle emission "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      90.0,
+      363.1,
+      208.3,
+      452.6
+    ],
+    "id": 5
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "Major Air pollutants and their effects",
+    "runs": [
+      {
+        "text": "Major Air pollutants and their effects "
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      72.0,
+      466.1,
+      300.7,
+      481.5
+    ],
+    "id": 6
+  },
+  {
+    "type": "paragraph",
+    "text": "a)Carbon dioxide: the concentration of CO2 gas increase in atmosphere due to",
+    "runs": [
+      {
+        "text": "a)Carbon dioxide: the concentration of CO2 gas increase in atmosphere due to "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      90.0,
+      494.1,
+      543.3,
+      509.9
+    ],
+    "id": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "emission from vehicles, burning of fossil fuel, emission from volcano, industries, agricultural activity etc. it increase green house effect which causes global warming and climate change. b)Carbon monoxide: carbon monoxide gas releases after incomplete",
+    "runs": [
+      {
+        "text": "emission from vehicles, burning of fossil fuel, emission from volcano, "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "industries, agricultural activity etc. it increase green house effect which "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "causes global warming and climate change. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "b)Carbon monoxide: carbon monoxide gas releases after incomplete "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      90.0,
+      512.6,
+      543.6,
+      583.7
+    ],
+    "id": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "combustion of fossil fuel or other product. The source of CO is vehicle emission, burning of coal, biomass combustion etc. CO causes headache, dizziness, heart failure (in blood CO combines with oxygen which reduced the affinity of haemoglobin towards oxygen), etc. c)Sulphur dioxide: SO2 releases from oil refineries, volcanic eruption, and",
+    "runs": [
+      {
+        "text": "combustion of fossil fuel or other product. The source of CO is vehicle "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "emission, burning of coal, biomass combustion etc. CO causes headache, "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "dizziness, heart failure (in blood CO combines with oxygen which reduced "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "the affinity of haemoglobin towards oxygen), etc.  "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "c)Sulphur dioxide: SO2 releases from oil refineries, volcanic eruption, and "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      90.0,
+      586.8,
+      543.6,
+      676.8
+    ],
+    "id": 9
+  },
+  {
+    "type": "paragraph",
+    "text": "chemical industries etc. sulphur dioxide react with moisture to form",
+    "runs": [
+      {
+        "text": "chemical industries etc. sulphur dioxide react with moisture to form "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 1,
+    "bbox": [
+      108.1,
+      679.5,
+      543.7,
+      694.9
+    ],
+    "id": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "secondary pollutant which causes eye irritation. It can also cause allergic reaction and asthma. d)Lead: tetra ethyl lead used as anti-knocking agents in petrol for smooth",
+    "runs": [
+      {
+        "text": "secondary pollutant which causes eye irritation. It can also cause allergic "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "reaction and asthma. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "d)Lead: tetra ethyl lead used as anti-knocking agents in petrol for smooth "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 2,
+    "bbox": [
+      90.0,
+      72.3,
+      543.5,
+      124.7
+    ],
+    "id": 11
+  },
+  {
+    "type": "paragraph",
+    "text": "function vehicle. Lead particle coming out from the exhaust of vehicle and mixed with air. It causes injurious effect on kidney and liver. It also lowers down the intelligence power in children. e)Nitrogen oxide: it release from vehicle exhausts, volcanic eruption, lighting",
+    "runs": [
+      {
+        "text": "function vehicle. Lead particle coming out from the exhaust of vehicle and "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "mixed with air. It causes injurious effect on kidney and liver. It also lowers "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "down the intelligence power in children. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "e)Nitrogen oxide: it release from vehicle exhausts, volcanic eruption, lighting "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 2,
+    "bbox": [
+      90.0,
+      127.8,
+      543.7,
+      198.9
+    ],
+    "id": 12
+  },
+  {
+    "type": "paragraph",
+    "text": "etc. like SO2, it also react with moisture content present in atmosphere and causes eye irritation.",
+    "runs": [
+      {
+        "text": "etc. like SO2, it also react with moisture content present in atmosphere and "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "causes eye irritation.  "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 2,
+    "bbox": [
+      108.1,
+      202.0,
+      543.2,
+      235.9
+    ],
+    "id": 13
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "Techniques used for prevention of Air pollution",
+    "runs": [
+      {
+        "text": "Techniques used for prevention of Air pollution "
+      }
+    ],
+    "page": 2,
+    "bbox": [
+      90.0,
+      249.3,
+      378.3,
+      264.7
+    ],
+    "id": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "i) Filters: filter remove particulate matter from the gas stream. Bag house filter system is the most common and it is made up of cotton fibers. When polluted gas passed through it, then polluted gas are deposited on cotton fibers. ii) Electrostatic scrubber: the emitting dust is charged with ions and ionized particulate matter is collected on oppositely charged surface. The collected particles are removed by shaking the surface. iii) Scrubbers: Scrubbers are wet collectors. They remove aerosol from a stream of gas either by collecting wet particle on a surface followed by their removal on the particles are wetted by scrubber liquid.",
+    "runs": [
+      {
+        "text": "i)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Filters: filter remove particulate matter from the gas stream. Bag house "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "filter system is the most common and it is made up of cotton fibers. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "When polluted gas passed through it, then polluted gas are deposited on "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "cotton fibers. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "ii)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Electrostatic scrubber: the emitting dust is charged with ions and ionized "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "particulate matter is collected on oppositely charged surface. The "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "collected particles are removed by shaking the surface. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "iii)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Scrubbers: Scrubbers are wet collectors. They remove aerosol from a "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "stream of gas either by collecting wet particle on a surface followed by "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "their removal on the particles are wetted by scrubber liquid. "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 2,
+    "bbox": [
+      90.0,
+      277.6,
+      543.5,
+      459.6
+    ],
+    "id": 15
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "WATER POLLUTION",
+    "runs": [
+      {
+        "text": "WATER POLLUTION "
+      }
+    ],
+    "page": 2,
+    "bbox": [
+      235.8,
+      501.6,
+      379.7,
+      517.0
+    ],
+    "id": 16
+  },
+  {
+    "type": "paragraph",
+    "text": "The undesirable biological or chemical substance present in water which adversely affect living organism is referred as water pollution.",
+    "runs": [
+      {
+        "text": "The undesirable biological or chemical substance present in water which adversely "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "affect living organism is referred as water pollution.  "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 2,
+    "bbox": [
+      72.0,
+      529.7,
+      539.0,
+      563.8
+    ],
+    "id": 17
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "Source of Water pollution",
+    "runs": [
+      {
+        "text": "Source of Water pollution "
+      }
+    ],
+    "page": 2,
+    "bbox": [
+      72.0,
+      577.0,
+      230.6,
+      592.4
+    ],
+    "id": 18
+  },
+  {
+    "type": "paragraph",
+    "text": "i) Point source pollution: if pollutants discharge from single identifiable source then it is known as point source. For example, municipal sources, industrial sources etc.",
+    "runs": [
+      {
+        "text": "i)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Point source pollution: if pollutants discharge from single identifiable "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "source then it is known as point source. For example, municipal sources, "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "industrial sources etc. "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 2,
+    "bbox": [
+      90.0,
+      605.3,
+      543.7,
+      657.7
+    ],
+    "id": 19
+  },
+  {
+    "type": "paragraph",
+    "text": "ii) Non-point source pollution: if pollutants discharge from random or scattered source then it is known as non-point source. For example, construction site, agricultural site, Acid rain, animal waste etc.",
+    "runs": [
+      {
+        "text": "ii)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Non-point source pollution: if pollutants discharge from random or "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "scattered source then it is known as non-point source. For example, "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "construction site, agricultural site, Acid rain, animal waste etc.  "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 3,
+    "bbox": [
+      90.0,
+      72.3,
+      543.5,
+      124.7
+    ],
+    "id": 20
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "Cause & effects of Water pollution",
+    "runs": [
+      {
+        "text": "Cause & effects of Water pollution "
+      }
+    ],
+    "page": 3,
+    "bbox": [
+      72.0,
+      156.6,
+      282.7,
+      172.0
+    ],
+    "id": 21
+  },
+  {
+    "type": "paragraph",
+    "text": "a)Disease causing agents: the micro-organism including bacteria, virus,",
+    "runs": [
+      {
+        "text": "a)Disease causing agents: the micro-organism including bacteria, virus, "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 3,
+    "bbox": [
+      90.0,
+      184.9,
+      543.4,
+      200.3
+    ],
+    "id": 22
+  },
+  {
+    "type": "paragraph",
+    "text": "protozoa, if present in drinking water causes disease. For example, b)Oxygen depleting waste: organic matters present in water are degraded by",
+    "runs": [
+      {
+        "text": "protozoa, if present in drinking water causes disease. For example,  "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "b)Oxygen depleting waste: organic matters present in water are degraded by "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 3,
+    "bbox": [
+      90.0,
+      203.4,
+      543.3,
+      237.3
+    ],
+    "id": 23
+  },
+  {
+    "type": "paragraph",
+    "text": "microorganism present in water which required oxygen. If large amount of organic matter present in waste water then large amount of oxygen is required by the microorganism to degrade the waste. Therefore oxygen content in water decrease. The amount of oxygen consumed by microorganism is referred as Biological Oxygen Demand (BOD). High level of BOC means large amount of waste present in water. c)Water soluble inorganic chemicals: the elements like lead, mercury,",
+    "runs": [
+      {
+        "text": "microorganism present in water which required oxygen. If large amount of "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "organic matter present in waste water then large amount of oxygen is "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "required by the microorganism to degrade the waste. Therefore oxygen "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "content in water decrease. The amount of oxygen consumed by "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "microorganism is referred as Biological Oxygen Demand (BOD). High level "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "of BOC means large amount of waste present in water.  "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "c)Water soluble inorganic chemicals: the elements like lead, mercury, "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 3,
+    "bbox": [
+      90.0,
+      240.4,
+      543.5,
+      366.9
+    ],
+    "id": 24
+  },
+  {
+    "type": "paragraph",
+    "text": "cadmium, arsenic adversely affect the human being and animals. For example, cadmium causes Itai-Itai disease, mercury causes Minamata disease. d)Suspended solids: if suspended solid present in water bodies, then water",
+    "runs": [
+      {
+        "text": "cadmium, arsenic adversely affect the human being and animals. For "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "example, cadmium causes Itai-Itai disease, mercury causes Minamata "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "disease. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "d)Suspended solids: if suspended solid present in water bodies, then water "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 3,
+    "bbox": [
+      90.0,
+      370.0,
+      543.6,
+      441.1
+    ],
+    "id": 25
+  },
+  {
+    "type": "paragraph",
+    "text": "become turbid and therefore proper sunlight does not reach to the aquatic plant and animal which disturb the life of aquatic ecosystem.",
+    "runs": [
+      {
+        "text": "become turbid and therefore proper sunlight does not reach to the aquatic "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "plant and animal which disturb the life of aquatic ecosystem. "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 3,
+    "bbox": [
+      108.1,
+      444.2,
+      543.3,
+      478.1
+    ],
+    "id": 26
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "Control measure for preventing water pollution",
+    "runs": [
+      {
+        "text": "Control measure for preventing water pollution "
+      }
+    ],
+    "page": 3,
+    "bbox": [
+      72.0,
+      491.5,
+      360.5,
+      506.9
+    ],
+    "id": 27
+  },
+  {
+    "type": "paragraph",
+    "text": "i) Industrial effluent and domestic waste must be treated before disposal. ii) Recycling of waste water through waste water treatment. iii) Public awareness program.",
+    "runs": [
+      {
+        "text": "i)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Industrial effluent and domestic waste must be treated before disposal. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "ii)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Recycling of waste water through waste water treatment. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "iii)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Public awareness program.  "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 3,
+    "bbox": [
+      90.0,
+      519.8,
+      524.7,
+      572.2
+    ],
+    "id": 28
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "SOIL POLLUTION",
+    "runs": [
+      {
+        "text": "SOIL POLLUTION "
+      }
+    ],
+    "page": 3,
+    "bbox": [
+      245.6,
+      604.1,
+      370.1,
+      619.5
+    ],
+    "id": 29
+  },
+  {
+    "type": "paragraph",
+    "text": "Soil pollution can be defined as introduction of undesirable substance in soil which adversely affects its physical, chemical and biological properties.",
+    "runs": [
+      {
+        "text": "Soil pollution can be defined as introduction of undesirable substance in soil which "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "adversely affects its physical, chemical and biological properties. "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 3,
+    "bbox": [
+      72.0,
+      632.4,
+      543.6,
+      666.3
+    ],
+    "id": 30
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "Source of Soil pollution",
+    "runs": [
+      {
+        "text": "Source of Soil pollution "
+      }
+    ],
+    "page": 3,
+    "bbox": [
+      72.0,
+      679.7,
+      215.2,
+      695.1
+    ],
+    "id": 31
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "Cause of Soil pollution or degradation",
+    "runs": [
+      {
+        "text": "Cause of Soil pollution or degradation "
+      }
+    ],
+    "page": 4,
+    "bbox": [
+      72.0,
+      72.6,
+      303.1,
+      88.0
+    ],
+    "id": 32
+  },
+  {
+    "type": "paragraph",
+    "text": "a)Soil erosion: removal or movement of top soil from one place to another",
+    "runs": [
+      {
+        "text": "a)Soil erosion: removal or movement of top soil from one place to another "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 4,
+    "bbox": [
+      90.0,
+      100.9,
+      543.5,
+      116.3
+    ],
+    "id": 33
+  },
+  {
+    "type": "paragraph",
+    "text": "place is known as soil erosion, it is a natural process. But the erosion enhances by human activities like mining, construction, new land for agricultural practices, deforestation, overgrazing etc. Due to erosion, soil become less fertile and erosion also reduce the soil water holding capacity. b)Excess use of fertilizers: Essential micronutrients like N, P, K are supplied",
+    "runs": [
+      {
+        "text": "place is known as soil erosion, it is a natural process. But the erosion "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "enhances by human activities like mining, construction, new land for "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "agricultural practices, deforestation, overgrazing etc. Due to erosion, soil "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "become less fertile and erosion also reduce the soil water holding capacity. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "b)Excess use of fertilizers: Essential micronutrients like N, P, K are supplied "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 4,
+    "bbox": [
+      90.0,
+      119.4,
+      543.6,
+      209.0
+    ],
+    "id": 34
+  },
+  {
+    "type": "paragraph",
+    "text": "by chemical fertilizer to increase the crop yield or productivity. The microorganism present in the soil converts nitrogen into nitrate ions; enter into food chain from soil disturbing the biochemical process. c)Acid Rain: acid rain increases the acidity of soil which reduces the crop",
+    "runs": [
+      {
+        "text": "by chemical fertilizer to increase the crop yield or productivity. The "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "microorganism present in the soil converts nitrogen into nitrate ions; enter "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "into food chain from soil disturbing the biochemical process. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "c)Acid Rain: acid rain increases the acidity of soil which reduces the crop "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 4,
+    "bbox": [
+      90.0,
+      212.1,
+      543.7,
+      282.9
+    ],
+    "id": 35
+  },
+  {
+    "type": "paragraph",
+    "text": "yield. d)Salinity of water: Due to excessive irrigation, concentration of soluble salt",
+    "runs": [
+      {
+        "text": "yield. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "d)Salinity of water: Due to excessive irrigation, concentration of soluble salt "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 4,
+    "bbox": [
+      90.0,
+      286.0,
+      543.4,
+      319.9
+    ],
+    "id": 36
+  },
+  {
+    "type": "paragraph",
+    "text": "increase in soil, then productivity and quality of soil decrease. These salts deposit on the surface then diffusion of oxygen and drainage of water in soil does not occur therefore growth of plant is slow down. e)Industrial waste: various pollutants present in the environment from",
+    "runs": [
+      {
+        "text": "increase in soil, then productivity and quality of soil decrease. These salts "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "deposit on the surface then diffusion of oxygen and drainage of water in soil "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "does not occur therefore growth of plant is slow down. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "e)Industrial waste: various pollutants present in the environment from "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 4,
+    "bbox": [
+      90.0,
+      323.0,
+      543.7,
+      394.1
+    ],
+    "id": 37
+  },
+  {
+    "type": "paragraph",
+    "text": "industrial waste. Discharge from chemical industries, fertilizer and pharmaceutical companies are highly polluting.",
+    "runs": [
+      {
+        "text": "industrial waste. Discharge from chemical industries, fertilizer and "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "pharmaceutical companies are highly polluting. "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 4,
+    "bbox": [
+      108.1,
+      397.2,
+      543.1,
+      431.0
+    ],
+    "id": 38
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "Effect of Soil pollution",
+    "runs": [
+      {
+        "text": "Effect of Soil pollution "
+      }
+    ],
+    "page": 4,
+    "bbox": [
+      72.0,
+      444.4,
+      209.7,
+      459.8
+    ],
+    "id": 39
+  },
+  {
+    "type": "paragraph",
+    "text": "i) Salinity and water logging reduce the fertility of soil and crop yield. ii) Toxic chemical present in the soil also affect the plant growth and human life. iii) Soil pollution contaminated the underground water.",
+    "runs": [
+      {
+        "text": "i)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Salinity and water logging reduce the fertility of soil and crop yield. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "ii)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Toxic chemical present in the soil also affect the plant growth and human "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "life. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "iii)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Soil pollution contaminated the underground water. "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 4,
+    "bbox": [
+      90.0,
+      472.8,
+      543.1,
+      543.6
+    ],
+    "id": 40
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "Control measures for preventing soil pollution",
+    "runs": [
+      {
+        "text": "Control measures for preventing soil pollution "
+      }
+    ],
+    "page": 4,
+    "bbox": [
+      72.0,
+      557.0,
+      352.1,
+      572.5
+    ],
+    "id": 41
+  },
+  {
+    "type": "paragraph",
+    "text": "i) Soil erosion must be prevented by proper tree plantation. ii) Waste from industry and domestic must be treated before dumping. iii) Replace synthetic fertilizers with organic fertilizers. iv) Toxic and non degradable materials must be banned. v) Recycling and reuse of waste materials. vi) Public awareness.",
+    "runs": [
+      {
+        "text": "i)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Soil erosion must be prevented by proper tree plantation. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "ii)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Waste from industry and domestic must be treated before dumping. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "iii)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Replace synthetic fertilizers with organic fertilizers. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "iv)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Toxic and non degradable materials must be banned. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "v)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Recycling and reuse of waste materials. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "vi)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Public awareness.   "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 4,
+    "bbox": [
+      90.0,
+      585.4,
+      507.7,
+      693.4
+    ],
+    "id": 42
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "MARINE POLLUTION",
+    "runs": [
+      {
+        "text": "MARINE POLLUTION "
+      }
+    ],
+    "page": 5,
+    "bbox": [
+      233.1,
+      72.6,
+      382.6,
+      88.0
+    ],
+    "id": 43
+  },
+  {
+    "type": "paragraph",
+    "text": "Marine pollution defined as contamination of oceans or seas, due to presence of unwanted materials or pollutants. The most common pollutants include chemicals, oils, toxic bio-matter, plastics etc.",
+    "runs": [
+      {
+        "text": "Marine pollution defined as contamination of oceans or seas, due to presence of "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "unwanted materials or pollutants. The most common pollutants include chemicals, "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "oils, toxic bio-matter, plastics etc. "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 5,
+    "bbox": [
+      72.0,
+      100.9,
+      543.6,
+      153.3
+    ],
+    "id": 44
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "Cause of Marine pollution",
+    "runs": [
+      {
+        "text": "Cause of Marine pollution "
+      }
+    ],
+    "page": 5,
+    "bbox": [
+      72.0,
+      166.7,
+      232.3,
+      182.1
+    ],
+    "id": 45
+  },
+  {
+    "type": "paragraph",
+    "text": "i) Rivers receive huge amount of sewage, garbage, pesticides, toxic chemical from industries ends up in the sea. ii) Dumping of radioactive elements, discharge of oils and petroleum product into the sea also causes marine pollution. iii) Large amount of plastic bags dumped into sea also causes marine pollution. iv) The waste material from container ships like gases, chemicals, and sewage also causes marine pollution. v) Greenhouse gases releases from burning of fossil fuel, dissolve in the sea water and making sea water more acidic. vi) Deep sea mining also causes marine pollution.",
+    "runs": [
+      {
+        "text": "i)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Rivers receive huge amount of sewage, garbage, pesticides, toxic "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "chemical from industries ends up in the sea. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "ii)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Dumping of radioactive elements, discharge of oils and petroleum "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "product into the sea also causes marine pollution. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "iii)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Large amount of plastic bags dumped into sea also causes marine "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "pollution. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "iv)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "The waste material from container ships like gases, chemicals, and "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "sewage also causes marine pollution. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "v)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Greenhouse gases releases from burning of fossil fuel, dissolve in the sea "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "water and making sea water more acidic.  "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "vi)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Deep sea mining also causes marine pollution. "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 5,
+    "bbox": [
+      90.0,
+      195.0,
+      543.3,
+      395.5
+    ],
+    "id": 46
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "Effect of marine pollution",
+    "runs": [
+      {
+        "text": "Effect of marine pollution "
+      }
+    ],
+    "page": 5,
+    "bbox": [
+      72.0,
+      408.9,
+      229.9,
+      424.3
+    ],
+    "id": 47
+  },
+  {
+    "type": "paragraph",
+    "text": "a)Dumping of sewage, chemicals, organic matters into ocean can results in",
+    "runs": [
+      {
+        "text": "a)Dumping of sewage, chemicals, organic matters into ocean can results in "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 5,
+    "bbox": [
+      90.0,
+      437.2,
+      543.1,
+      452.6
+    ],
+    "id": 48
+  },
+  {
+    "type": "paragraph",
+    "text": "depletion of oxygen. Due to depletion of oxygen, it is hard to survive aquatic plants and animals. b)Discharge of oil and petroleum products into the ocean, can block the",
+    "runs": [
+      {
+        "text": "depletion of oxygen. Due to depletion of oxygen, it is hard to survive aquatic "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "plants and animals. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "b)Discharge of oil and petroleum products into the ocean, can block the "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 5,
+    "bbox": [
+      90.0,
+      455.7,
+      543.5,
+      508.1
+    ],
+    "id": 49
+  },
+  {
+    "type": "paragraph",
+    "text": "sunlight which is used by aquatic plants for photosynthesis. c)Many aquatic animals and marine birds ingest small piece of plastic, causes",
+    "runs": [
+      {
+        "text": "sunlight which is used by aquatic plants for photosynthesis. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "c)Many aquatic animals and marine birds ingest small piece of plastic, causes "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 5,
+    "bbox": [
+      90.0,
+      511.2,
+      543.3,
+      545.1
+    ],
+    "id": 50
+  },
+  {
+    "type": "paragraph",
+    "text": "gastro-intestinal disorder and damage the tissue of eggs. d)When greenhouse gas like CO2 when dissolve, increase the acidity of sea",
+    "runs": [
+      {
+        "text": "gastro-intestinal disorder and damage the tissue of eggs. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "d)When greenhouse gas like CO2 when dissolve, increase the acidity of sea "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 5,
+    "bbox": [
+      90.0,
+      548.4,
+      543.3,
+      582.7
+    ],
+    "id": 51
+  },
+  {
+    "type": "paragraph",
+    "text": "water ad affect the aquatic plant and animal.",
+    "runs": [
+      {
+        "text": "water ad affect the aquatic plant and animal. "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 5,
+    "bbox": [
+      108.1,
+      585.4,
+      359.8,
+      600.8
+    ],
+    "id": 52
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "text": "Control measure for marine pollution",
+    "runs": [
+      {
+        "text": "Control measure for marine pollution "
+      }
+    ],
+    "page": 5,
+    "bbox": [
+      72.0,
+      614.2,
+      301.2,
+      629.6
+    ],
+    "id": 53
+  },
+  {
+    "type": "paragraph",
+    "text": "i) Waste water must be treated before dumping. ii) Reduce the use of single use plastic. iii) To minimize the greenhouse gases use alternative energy resources. iv) Chemical fertilizers may be replacing by organic fertilizers.",
+    "runs": [
+      {
+        "text": "i)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Waste water must be treated before dumping.  "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "ii)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Reduce the use of single use plastic. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "iii)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "To minimize the greenhouse gases use alternative energy resources. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "iv)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Chemical fertilizers may be replacing by organic fertilizers. "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 5,
+    "bbox": [
+      90.0,
+      642.3,
+      509.4,
+      713.4
+    ],
+    "id": 54
+  },
+  {
+    "type": "paragraph",
+    "text": "v) Proper monitoring of sea water. vi) Various campaigns should be done to prohibit marine pollution.",
+    "runs": [
+      {
+        "text": "v)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Proper monitoring of sea water. "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "vi)"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Various campaigns should be done to prohibit marine pollution. "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "page": 6,
+    "bbox": [
+      90.0,
+      72.3,
+      487.8,
+      106.2
+    ],
+    "id": 55
+  }
+]

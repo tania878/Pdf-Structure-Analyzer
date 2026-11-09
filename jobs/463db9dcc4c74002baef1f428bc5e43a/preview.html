@@ -1,0 +1,205 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PDF cells preview</title>
+<style>
+body{margin:0;font-family:Segoe UI,Arial,sans-serif;background:#f4f5f7}
+.wrap{display:flex;gap:20px;align-items:flex-start;max-width:1200px;margin:0 auto;padding:20px}
+#doc{flex:1;min-width:0}
+#panel{width:280px;position:sticky;top:20px;background:#fff;border:1px solid #ccc;border-radius:8px;padding:14px;font-size:14px}
+#panel h3{margin:0 0 6px}
+#panel label{display:block;margin:10px 0 3px;font-weight:600}
+#panel label.plain{font-weight:400;margin:4px 0}
+#panel select,#panel input[type=number]{width:100%;padding:5px;box-sizing:border-box}
+#panel input[type=color]{width:60px;height:30px;padding:0;border:1px solid #aaa}
+#panel .row{display:flex;gap:16px}
+#panel button{margin-top:12px;margin-right:6px;padding:6px 10px;cursor:pointer}
+#selinfo{display:block;color:#555;margin-top:4px}
+.cell{position:relative;background:#fff;border:1px solid #ddd;border-radius:6px;padding:18px 12px 10px;margin:8px 0;cursor:pointer}
+.cell .tag{position:absolute;top:2px;left:8px;font:10px monospace;color:#888;text-transform:uppercase}
+.cell.review{border-color:#e8a000}
+.cell.sel{outline:2px solid #9db9f5;background:#f3f7ff}
+.cell.picked{outline:3px solid #2f6fed}
+.cell h1,.cell h2,.cell h3,.cell h4{margin:0}
+table{border-collapse:collapse;width:100%}
+td,th{border:1px solid #999;padding:4px 8px;text-align:left;vertical-align:top}
+img{max-width:100%}
+@media print{body{background:#fff}.wrap{display:block;padding:0;max-width:none}#panel{display:none}
+.cell{border:none!important;outline:none!important;background:none!important;padding:0;margin:4px 0;break-inside:avoid}
+.cell .tag{display:none}th,td{-webkit-print-color-adjust:exact;print-color-adjust:exact}}
+@media(max-width:800px){.wrap{flex-direction:column}#panel{width:auto;position:static}}
+</style>
+<style id="dyn"></style></head><body>
+<div class="wrap">
+<div id="doc">
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0000">PSG CoLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLOGY PSG cOLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLOGY  </div></div>
+<div class="cell" data-types="h1"><span class="tag">h1 · section heading</span><h1 data-style="h1" data-eid="el_0001">TECHNOLOGY </h1></div>
+<div class="cell" data-types="h1"><span class="tag">h1 · section heading</span><h1 data-style="h1" data-eid="el_0002">PSG COLLEGE OF TECHNOLOGY </h1></div>
+<div class="cell review" data-types="paragraph"><span class="tag">paragraph · check</span><div data-style="paragraph" data-eid="el_0003">coIMBATORE -641 004 INDIA  </div></div>
+<div class="cell review" data-types="paragraph"><span class="tag">paragraph · check</span><div data-style="paragraph" data-eid="el_0004">( AUTONOMOUS INSTITUTION AFFILIATED TO ANNA UNIVERSITY )  </div></div>
+<div class="cell review" data-types="paragraph"><span class="tag">paragraph · check</span><div data-style="paragraph" data-eid="el_0005">BTech DEGREE EXAMINATIONS JUN 2026  </div></div>
+<div class="cell review" data-types="paragraph"><span class="tag">paragraph · check</span><div data-style="paragraph" data-eid="el_0006">OF  </div></div>
+<div class="cell" data-types="table_header table_cell"><span class="tag">table</span><table><tr><th data-style="table_header">NAME ROLL NO BRANCH : : SI267 IANIACARROLLINE : INFORMAAION TCHNOL OGY STATEMENT OF</th><th data-style="table_header">GRADES</th><th data-style="table_header">Folio No.: A 339241 UMIS NUMBER :9994444274 EMIS NUMBER :2016286298 DATE OF BIRTH : 24&#x27;102007</th></tr><tr><td data-style="table_cell">Course Code Course Title</td><td data-style="table_cell"></td><td data-style="table_cell">Credits Grade Letter Point Grade</td></tr><tr><td data-style="table_cell">SECOND SEMESTER</td><td data-style="table_cell"></td><td data-style="table_cell"></td></tr><tr><td data-style="table_cell">231201 231202 231203 TRANSFORMS AND ITS APPLICATIONS SENSORS FOR ENGINEERING APPLICATIONS COMMUNICATION SYSTEMS</td><td data-style="table_cell"></td><td data-style="table_cell">9 A A</td></tr><tr><td data-style="table_cell">231204 231205 DIGITAL LOGIC DESIGN PYTHON PROGRAMMING</td><td data-style="table_cell"></td><td data-style="table_cell">A A</td></tr><tr><td data-style="table_cell">23G001 23121| 231214 230213 ENGINEERING GRAPHICS COMMUNICATION SKILLS FOR ENGINEERS BASIC SCIENCE LABORATORY FOUNDATIONS OF PROBLEM SOLVING</td><td data-style="table_cell"></td><td data-style="table_cell">2.0 2.0 10 Completed A S A</td></tr><tr><td data-style="table_cell">23121S ACTIVIIY POINT PROGRAMME</td><td data-style="table_cell"></td><td data-style="table_cell">Completed</td></tr><tr><td data-style="table_cell">As per scheme -Credits to be enrolled upto Second Semester Credits enrolled upto Second Semester - Total credits carned upto Second Semester - CGPA upto Second Semester</td><td data-style="table_cell">44,00 44.00 44.00 8.98</td><td data-style="table_cell"></td></tr></table></div>
+<div class="cell" data-types="h1"><span class="tag">h1 · section heading</span><h1 data-style="h1" data-eid="el_0008">COLLEGE </h1></div>
+<div class="cell" data-types="h1"><span class="tag">h1 · section heading</span><h1 data-style="h1" data-eid="el_0009">PSG </h1></div>
+<div class="cell" data-types="h1"><span class="tag">h1 · section heading</span><h1 data-style="h1" data-eid="el_0010">TECHNOLOGY </h1></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0011">OF  </div></div>
+<div class="cell review" data-types="paragraph"><span class="tag">paragraph · check</span><div data-style="paragraph" data-eid="el_0012">COLLEGE  </div></div>
+<div class="cell" data-types="h1"><span class="tag">h1 · section heading</span><h1 data-style="h1" data-eid="el_0013">PSG </h1></div>
+<div class="cell" data-types="h1"><span class="tag">h1 · section heading</span><h1 data-style="h1" data-eid="el_0014">TECHNOLOGY </h1></div>
+<div class="cell review" data-types="paragraph"><span class="tag">paragraph · check</span><div data-style="paragraph" data-eid="el_0015">OF  </div></div>
+<div class="cell" data-types="h1"><span class="tag">h1 · section heading</span><h1 data-style="h1" data-eid="el_0016">COLLEGE </h1></div>
+<div class="cell" data-types="h1"><span class="tag">h1 · section heading</span><h1 data-style="h1" data-eid="el_0017">PSG </h1></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0018">- End of Statement  </div></div>
+<div class="cell" data-types="h1"><span class="tag">h1 · section heading</span><h1 data-style="h1" data-eid="el_0019">TECHNOLOGY </h1></div>
+<div class="cell review" data-types="paragraph"><span class="tag">paragraph · check</span><div data-style="paragraph" data-eid="el_0020">OF  </div></div>
+<div class="cell review" data-types="h2"><span class="tag">h2 · section heading · check</span><h2 data-style="h2" data-eid="el_0021">CoLLEGE </h2></div>
+<div class="cell review" data-types="paragraph"><span class="tag">paragraph · check</span><div data-style="paragraph" data-eid="el_0022">PSG  </div></div>
+<div class="cell" data-types="h1"><span class="tag">h1 · section heading</span><h1 data-style="h1" data-eid="el_0023">TECHNOLOGY </h1></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0024">Note  </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0025">Absolute Grading adopted for all courses  </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0026">Only thosc courses passed by the candidate are printed in this statement  </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0027">DATE 30 062026  </div></div>
+<div class="cell review" data-types="paragraph"><span class="tag">paragraph · check</span><div data-style="paragraph" data-eid="el_0028">OF  </div></div>
+<div class="cell review" data-types="paragraph"><span class="tag">paragraph · check</span><div data-style="paragraph" data-eid="el_0029">COLLEGE  </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0030">Seal  </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0031">CONTRoLLER OFEXAMINATIONS  </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0032">Medium of Instruction Englısh  This document is issued without any correction  </div></div>
+<div class="cell" data-types="h1"><span class="tag">h1 · section heading</span><h1 data-style="h1" data-eid="el_0033">PSG </h1></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0034">CGPA Cumulative Gtade Point Average  </div></div>
+<div class="cell" data-types="paragraph"><span class="tag">paragraph</span><div data-style="paragraph" data-eid="el_0035">PSG COLLEGE OF TECHNOLOGY PSG cOLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLoGY  </div></div>
+</div>
+<div id="panel">
+  <h3>Font settings</h3>
+  <small>Choose an element type, or click a cell. Changes apply instantly.</small>
+  <label>Element type</label><select id="type"></select>
+  <label>Apply to</label>
+  <label class="plain"><input type="radio" name="scope" value="type" id="scopeType" checked> All cells of this type</label>
+  <label class="plain"><input type="radio" name="scope" value="cell" id="scopeCell" disabled> Only the selected cell</label>
+  <small id="selinfo">No cell selected</small>
+  <label>Font family</label><select id="family"></select>
+  <label>Font size (px)</label><input type="number" id="size" min="6" max="80" step="0.5">
+  <div class="row"><label class="plain"><input type="checkbox" id="bold"> Bold</label><label class="plain"><input type="checkbox" id="italic"> Italic</label></div>
+  <label>Text color</label><input type="color" id="color">
+  <div id="bgrow"><label>Background</label><input type="color" id="bg"></div>
+  <label>Link color</label><input type="color" id="link">
+  <button id="clear">Clear cell override</button>
+  <button id="reset">Reset all</button>
+  <button id="save">Download styles.json</button>
+  <button id="print">Print / Save as PDF</button>
+  <button id="srvexport" style="display:none">Export PDF (server)</button>
+</div></div>
+<script>
+const DEFAULTS = {"h1": {"font_family": "Arial", "font_size": 22, "bold": true, "italic": false, "color": "#111111"}, "h2": {"font_family": "Arial", "font_size": 18, "bold": true, "italic": false, "color": "#222222"}, "h3": {"font_family": "Arial", "font_size": 15, "bold": true, "italic": false, "color": "#333333"}, "h4": {"font_family": "Arial", "font_size": 13, "bold": true, "italic": true, "color": "#444444"}, "paragraph": {"font_family": "Georgia", "font_size": 12, "bold": false, "italic": false, "color": "#000000"}, "table_header": {"font_family": "Arial", "font_size": 12, "bold": true, "italic": false, "color": "#000000", "background": "#e8e8e8"}, "table_cell": {"font_family": "Arial", "font_size": 11, "bold": false, "italic": false, "color": "#000000"}, "link_color": "#0645ad"};
+const OVERRIDES0 = {};
+const TYPES = ["h1","h2","h3","h4","paragraph","table_header","table_cell"];
+const NAMES = {h1:"Heading (h1)",h2:"Subheading (h2)",h3:"Sub-subheading (h3)",h4:"Level 4 (h4)",
+  paragraph:"Content / paragraph",table_header:"Table header",table_cell:"Table cell"};
+const FONTS = ["Arial","Calibri","Georgia","Times New Roman","Verdana","Tahoma","Courier New","Trebuchet MS"];
+const clone = o => JSON.parse(JSON.stringify(o));
+let styles = clone(DEFAULTS), overrides = clone(OVERRIDES0);
+let cur = "h1", selEid = null;
+const $ = id => document.getElementById(id);
+const scope = () => document.querySelector("input[name=scope]:checked").value;
+
+function eff(t, eid){
+  const s = Object.assign({}, styles[t]), o = (eid && overrides[eid]) || {};
+  for (const k in o) s[k === "text_color" ? "color" : k] = o[k];
+  return s;
+}
+function apply(){
+  let css = "";
+  for (const t of TYPES){
+    const s = styles[t];
+    css += `[data-style="${t}"]{font-family:'${s.font_family}',sans-serif;font-size:${s.font_size}px;` +
+           `font-weight:${s.bold ? 700 : 400};font-style:${s.italic ? "italic" : "normal"};color:${s.color};` +
+           `${s.background ? "background:" + s.background + ";" : ""}}\n`;
+  }
+  for (const eid in overrides){
+    const o = overrides[eid]; let d = "";
+    if (o.font_family) d += `font-family:'${o.font_family}',sans-serif;`;
+    if (o.font_size) d += `font-size:${o.font_size}px;`;
+    if ("bold" in o) d += `font-weight:${o.bold ? 700 : 400};`;
+    if ("italic" in o) d += `font-style:${o.italic ? "italic" : "normal"};`;
+    if ("underline" in o) d += `text-decoration:${o.underline ? "underline" : "none"};`;
+    if (o.alignment) d += `text-align:${o.alignment};`;
+    if (o.text_color) d += `color:${o.text_color};`;
+    if (o.background) d += `background:${o.background};`;
+    if (d) css += `[data-eid="${eid}"][data-style]{${d}}\n`;
+  }
+  css += `.cell a{color:${styles.link_color}}`;
+  $("dyn").textContent = css;
+}
+function ensureFont(name){
+  if (![...$("family").options].some(o => o.value === name)){
+    const o = document.createElement("option"); o.value = o.textContent = name; $("family").appendChild(o);
+  }
+}
+function load(){
+  const s = eff(cur, scope() === "cell" ? selEid : null);
+  ensureFont(s.font_family);
+  $("type").value = cur; $("family").value = s.font_family; $("size").value = s.font_size;
+  $("bold").checked = !!s.bold; $("italic").checked = !!s.italic; $("color").value = s.color;
+  $("bgrow").style.display = (cur === "table_header") ? "block" : "none";
+  if (s.background) $("bg").value = s.background;
+  $("link").value = styles.link_color;
+  $("scopeCell").disabled = !selEid;
+  $("selinfo").textContent = selEid ? `Selected cell: ${selEid}` + (overrides[selEid] ? " (has override)" : "") : "No cell selected";
+  document.querySelectorAll(".cell").forEach(c => {
+    c.classList.toggle("sel", (c.dataset.types || "").split(" ").includes(cur));
+    c.classList.toggle("picked", !!selEid && !!c.querySelector(`[data-eid="${selEid}"]`));
+  });
+}
+function set(prop, val){
+  if (scope() === "cell" && selEid){
+    (overrides[selEid] = overrides[selEid] || {})[prop === "color" ? "text_color" : prop] = val;
+  } else {
+    styles[cur][prop] = val;
+  }
+  apply(); load();
+}
+
+TYPES.forEach(t => { const o = document.createElement("option"); o.value = t; o.textContent = NAMES[t]; $("type").appendChild(o); });
+FONTS.forEach(f => { const o = document.createElement("option"); o.value = o.textContent = f; $("family").appendChild(o); });
+document.querySelectorAll("input[name=scope]").forEach(r => r.onchange = load);
+$("type").onchange = e => { cur = e.target.value; selEid = null; $("scopeType").checked = true; load(); };
+$("family").onchange = e => set("font_family", e.target.value);
+$("size").oninput = e => { const v = parseFloat(e.target.value); if (v > 0) set("font_size", v); };
+$("bold").onchange = e => set("bold", e.target.checked);
+$("italic").onchange = e => set("italic", e.target.checked);
+$("color").oninput = e => set("color", e.target.value);
+$("bg").oninput = e => set("background", e.target.value);
+$("link").oninput = e => { styles.link_color = e.target.value; apply(); };
+$("print").onclick = () => window.print();
+$("clear").onclick = () => { if (selEid){ delete overrides[selEid]; apply(); load(); } };
+$("reset").onclick = () => { styles = clone(DEFAULTS); overrides = clone(OVERRIDES0); apply(); load(); };
+function payload(){
+  const out = Object.assign({}, styles);
+  const ov = {}; for (const k in overrides) if (Object.keys(overrides[k]).length) ov[k] = overrides[k];
+  if (Object.keys(ov).length) out.element_overrides = ov;
+  return out;
+}
+function saveBlob(blob, name){
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob); a.download = name; a.click();
+}
+$("save").onclick = () => saveBlob(new Blob([JSON.stringify(payload(), null, 2)], {type: "application/json"}), "styles.json");
+if (location.protocol.startsWith("http") && location.pathname.startsWith("/jobs/")) $("srvexport").style.display = "inline-block";
+$("srvexport").onclick = async () => {
+  $("srvexport").textContent = "Exporting...";
+  try {
+    const r = await fetch("export", {method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify(payload())});
+    if (!r.ok) throw new Error(await r.text());
+    saveBlob(await r.blob(), "exported.pdf");
+  } catch (err) { alert("Export failed: " + err.message); }
+  $("srvexport").textContent = "Export PDF (server)";
+};
+$("doc").addEventListener("click", e => {
+  const el = e.target.closest("[data-style]");
+  if (!el) return;
+  cur = el.dataset.style;
+  selEid = el.dataset.eid || null;
+  if (!selEid) $("scopeType").checked = true;
+  load();
+});
+apply(); load();
+</script></body></html>

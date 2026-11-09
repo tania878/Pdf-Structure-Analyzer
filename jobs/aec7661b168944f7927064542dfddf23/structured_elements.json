@@ -1,0 +1,559 @@
+{
+  "source_pdf": "C:\\Users\\kevin\\Downloads\\yatzar\\jobs\\aec7661b168944f7927064542dfddf23\\input.pdf",
+  "element_count": 15,
+  "type_styles": {
+    "h1": {
+      "font_family": "Arial",
+      "font_size": 22,
+      "bold": true,
+      "italic": false,
+      "color": "#111111"
+    },
+    "h2": {
+      "font_family": "Arial",
+      "font_size": 18,
+      "bold": true,
+      "italic": false,
+      "color": "#222222"
+    },
+    "h3": {
+      "font_family": "Arial",
+      "font_size": 15,
+      "bold": true,
+      "italic": false,
+      "color": "#333333"
+    },
+    "h4": {
+      "font_family": "Arial",
+      "font_size": 13,
+      "bold": true,
+      "italic": true,
+      "color": "#444444"
+    },
+    "paragraph": {
+      "font_family": "Georgia",
+      "font_size": 12,
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    "table_header": {
+      "font_family": "Arial",
+      "font_size": 12,
+      "bold": true,
+      "italic": false,
+      "color": "#000000",
+      "background": "#e8e8e8"
+    },
+    "table_cell": {
+      "font_family": "Arial",
+      "font_size": 11,
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    "link_color": "#0645ad"
+  },
+  "elements": [
+    {
+      "type": "h1",
+      "content": "THE SLEREXE COMPANY LIMITED",
+      "page": 1,
+      "bbox": [
+        160.5,
+        65.5,
+        464.9,
+        81.3
+      ],
+      "id": "el_0000",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "title",
+        "runs": [
+          {
+            "text": "THE SLEREXE COMPANY LIMITED"
+          }
+        ],
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "SAPORS LANE . BOOLE - DORSET . BH 25 8 ER TELEPHONE BOOLE (945 13) 51617 - TELEX 123456",
+      "page": 1,
+      "bbox": [
+        200.7,
+        90.4,
+        424.3,
+        118.0
+      ],
+      "id": "el_0001",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "SAPORS LANE . BOOLE - DORSET . BH 25 8 ER"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "TELEPHONE BOOLE (945 13) 51617 - TELEX 123456"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Our Ref. 350/PJC/EAC 18th January, 1972.",
+      "page": 1,
+      "bbox": [
+        99.0,
+        184.7,
+        526.4,
+        196.5
+      ],
+      "id": "el_0002",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Our Ref. 350/PJC/EAC"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "18th January, 1972."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Dr. P.N. Cundall, Mining Surveys Ltd., Holroyd Road, Reading, Berks.",
+      "page": 1,
+      "bbox": [
+        99.4,
+        234.0,
+        220.6,
+        294.0
+      ],
+      "id": "el_0003",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Dr. P.N. Cundall,"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Mining Surveys Ltd.,"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Holroyd Road,"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Reading,"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Berks."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Dear Pete,",
+      "page": 1,
+      "bbox": [
+        100.1,
+        318.5,
+        161.7,
+        330.3
+      ],
+      "id": "el_0004",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Dear Pete,"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Permit me to introduce you to the facility of facsimile transmission.",
+      "page": 1,
+      "bbox": [
+        100.9,
+        339.8,
+        462.9,
+        365.5
+      ],
+      "id": "el_0005",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Permit me to introduce you to the facility of facsimile"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "transmission."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "In facsimile a photocell is caused to perform a raster scan over the subject copy. The variations of print density on the document cause the photocell to generate an analogous electrical video signal. This signal is used to modulate a carrier, which is transmitted to a remote destination over a radio or cable communications link.",
+      "page": 1,
+      "bbox": [
+        99.4,
+        377.3,
+        517.1,
+        437.3
+      ],
+      "id": "el_0006",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "In facsimile a photocell is caused to perform a raster scan over"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "the subject copy. The variations of print density on the document"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "cause the photocell to generate an analogous electrical video signal."
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "This signal is used to modulate a carrier, which is transmitted to a"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "remote destination over a radio or cable communications link."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "At the remote terminal, demodulation reconstructs the video signal, which is used to modulate the density of print produced by a printing device. This device is scanning in a raster scan synchronised with that at the transmitting terminal. As a result, a facsimile copy of the subject document is produced.",
+      "page": 1,
+      "bbox": [
+        100.1,
+        447.9,
+        530.3,
+        509.9
+      ],
+      "id": "el_0007",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "At the remote terminal, demodulation reconstructs the video"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "signal, which is used to modulate the density of print produced by a"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "printing device. This device is scanning in a raster scan synchronised"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "with that at the transmitting terminal. As a result, a facsimile"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "copy of the subject document is produced."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Probably you have uses for this facility in your organisation.",
+      "page": 1,
+      "bbox": [
+        130.9,
+        519.8,
+        505.0,
+        533.6
+      ],
+      "id": "el_0008",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Probably you have uses for this facility in your organisation."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Yours sincerely,",
+      "page": 1,
+      "bbox": [
+        323.4,
+        544.6,
+        421.2,
+        557.7
+      ],
+      "id": "el_0009",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Yours sincerely,"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Phil.",
+      "page": 1,
+      "bbox": [
+        329.7,
+        571.1,
+        405.6,
+        615.7
+      ],
+      "id": "el_0010",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Phil."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "P.J. CROSS Group Leader - Facsimile Research",
+      "page": 1,
+      "bbox": [
+        323.4,
+        623.6,
+        524.9,
+        647.2
+      ],
+      "id": "el_0011",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "P.J. CROSS"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Group Leader - Facsimile Research"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Registered in England: No. 2038 Registered Office:",
+      "page": 1,
+      "bbox": [
+        217.4,
+        753.0,
+        381.9,
+        770.8
+      ],
+      "id": "el_0012",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Registered in England:"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "No. 2038"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "Registered Office:"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Lane, Ilford. Essex. No. 1",
+      "page": 1,
+      "bbox": [
+        32.0,
+        761.3,
+        419.7,
+        775.1
+      ],
+      "id": "el_0013",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Lane, Ilford. Essex."
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "No. 1"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h2",
+      "content": "60 Vicara",
+      "page": 1,
+      "bbox": [
+        297.3,
+        761.7,
+        337.5,
+        770.8
+      ],
+      "id": "el_0014",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "clause_heading",
+        "runs": [
+          {
+            "text": "60 Vicara"
+          }
+        ],
+        "confidence": 0.6,
+        "needs_review": true
+      }
+    }
+  ]
+}

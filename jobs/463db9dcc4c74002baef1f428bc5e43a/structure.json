@@ -1,0 +1,846 @@
+[
+  {
+    "type": "paragraph",
+    "text": "PSG CoLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLOGY PSG cOLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLOGY",
+    "runs": [
+      {
+        "text": "PSG CoLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLOGY PSG cOLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLOGY "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      35.6,
+      10.7,
+      545.3,
+      31.9
+    ],
+    "id": 0
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "TECHNOLOGY",
+    "runs": [
+      {
+        "text": "TECHNOLOGY "
+      }
+    ],
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      24.6,
+      24.2,
+      38.2,
+      109.2
+    ],
+    "id": 1
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "PSG COLLEGE OF TECHNOLOGY",
+    "runs": [
+      {
+        "text": "PSG COLLEGE OF TECHNOLOGY "
+      }
+    ],
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      134.5,
+      28.2,
+      452.3,
+      55.1
+    ],
+    "id": 2
+  },
+  {
+    "type": "paragraph",
+    "text": "coIMBATORE -641 004 INDIA",
+    "runs": [
+      {
+        "text": "coIMBATORE -641 004 INDIA "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.6,
+    "needs_review": true,
+    "page": 1,
+    "bbox": [
+      215.2,
+      55.1,
+      360.6,
+      69.0
+    ],
+    "id": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "( AUTONOMOUS INSTITUTION AFFILIATED TO ANNA UNIVERSITY )",
+    "runs": [
+      {
+        "text": "( AUTONOMOUS INSTITUTION AFFILIATED TO ANNA UNIVERSITY ) "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.6,
+    "needs_review": true,
+    "page": 1,
+    "bbox": [
+      161.2,
+      66.9,
+      440.5,
+      86.2
+    ],
+    "id": 4
+  },
+  {
+    "type": "paragraph",
+    "text": "BTech DEGREE EXAMINATIONS JUN 2026",
+    "runs": [
+      {
+        "text": "BTech DEGREE EXAMINATIONS JUN 2026 "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.6,
+    "needs_review": true,
+    "page": 1,
+    "bbox": [
+      190.0,
+      83.9,
+      393.2,
+      97.0
+    ],
+    "id": 5
+  },
+  {
+    "type": "paragraph",
+    "text": "OF",
+    "runs": [
+      {
+        "text": "OF "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.6,
+    "needs_review": true,
+    "page": 1,
+    "bbox": [
+      25.6,
+      96.2,
+      43.4,
+      110.7
+    ],
+    "id": 6
+  },
+  {
+    "type": "table",
+    "bbox": [
+      53.4,
+      107.8,
+      520.6,
+      458.8
+    ],
+    "header": [
+      "NAME ROLL NO BRANCH : : SI267 IANIACARROLLINE : INFORMAAION TCHNOL OGY STATEMENT OF",
+      "GRADES",
+      "Folio No.: A 339241 UMIS NUMBER :9994444274 EMIS NUMBER :2016286298 DATE OF BIRTH : 24'102007"
+    ],
+    "rows": [
+      [
+        "Course Code Course Title",
+        "",
+        "Credits Grade Letter Point Grade"
+      ],
+      [
+        "SECOND SEMESTER",
+        "",
+        ""
+      ],
+      [
+        "231201 231202 231203 TRANSFORMS AND ITS APPLICATIONS SENSORS FOR ENGINEERING APPLICATIONS COMMUNICATION SYSTEMS",
+        "",
+        "9 A A"
+      ],
+      [
+        "231204 231205 DIGITAL LOGIC DESIGN PYTHON PROGRAMMING",
+        "",
+        "A A"
+      ],
+      [
+        "23G001 23121| 231214 230213 ENGINEERING GRAPHICS COMMUNICATION SKILLS FOR ENGINEERS BASIC SCIENCE LABORATORY FOUNDATIONS OF PROBLEM SOLVING",
+        "",
+        "2.0 2.0 10 Completed A S A"
+      ],
+      [
+        "23121S ACTIVIIY POINT PROGRAMME",
+        "",
+        "Completed"
+      ],
+      [
+        "As per scheme -Credits to be enrolled upto Second Semester Credits enrolled upto Second Semester - Total credits carned upto Second Semester - CGPA upto Second Semester",
+        "44,00 44.00 44.00 8.98",
+        ""
+      ]
+    ],
+    "page": 1,
+    "id": 7
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "COLLEGE",
+    "runs": [
+      {
+        "text": "COLLEGE "
+      }
+    ],
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      25.7,
+      108.7,
+      39.8,
+      163.3
+    ],
+    "id": 8
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "PSG",
+    "runs": [
+      {
+        "text": "PSG "
+      }
+    ],
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      26.6,
+      156.0,
+      42.5,
+      181.6
+    ],
+    "id": 9
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "TECHNOLOGY",
+    "runs": [
+      {
+        "text": "TECHNOLOGY "
+      }
+    ],
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      26.0,
+      174.7,
+      40.2,
+      259.7
+    ],
+    "id": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "OF",
+    "runs": [
+      {
+        "text": "OF "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      27.6,
+      248.1,
+      45.5,
+      257.1
+    ],
+    "id": 11
+  },
+  {
+    "type": "paragraph",
+    "text": "COLLEGE",
+    "runs": [
+      {
+        "text": "COLLEGE "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.6,
+    "needs_review": true,
+    "page": 1,
+    "bbox": [
+      27.7,
+      259.4,
+      41.3,
+      311.9
+    ],
+    "id": 12
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "PSG",
+    "runs": [
+      {
+        "text": "PSG "
+      }
+    ],
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      28.1,
+      306.5,
+      44.6,
+      332.0
+    ],
+    "id": 13
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "TECHNOLOGY",
+    "runs": [
+      {
+        "text": "TECHNOLOGY "
+      }
+    ],
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      28.0,
+      325.1,
+      42.2,
+      410.2
+    ],
+    "id": 14
+  },
+  {
+    "type": "paragraph",
+    "text": "OF",
+    "runs": [
+      {
+        "text": "OF "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.6,
+    "needs_review": true,
+    "page": 1,
+    "bbox": [
+      29.1,
+      397.1,
+      47.6,
+      411.6
+    ],
+    "id": 15
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "COLLEGE",
+    "runs": [
+      {
+        "text": "COLLEGE "
+      }
+    ],
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      29.1,
+      409.4,
+      43.3,
+      467.4
+    ],
+    "id": 16
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "PSG",
+    "runs": [
+      {
+        "text": "PSG "
+      }
+    ],
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      30.1,
+      459.4,
+      45.9,
+      485.0
+    ],
+    "id": 17
+  },
+  {
+    "type": "paragraph",
+    "text": "- End of Statement",
+    "runs": [
+      {
+        "text": "-"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "End of Statement "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      210.3,
+      471.8,
+      283.7,
+      482.1
+    ],
+    "id": 18
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "TECHNOLOGY",
+    "runs": [
+      {
+        "text": "TECHNOLOGY "
+      }
+    ],
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      30.0,
+      475.6,
+      43.6,
+      560.6
+    ],
+    "id": 19
+  },
+  {
+    "type": "paragraph",
+    "text": "OF",
+    "runs": [
+      {
+        "text": "OF "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.6,
+    "needs_review": true,
+    "page": 1,
+    "bbox": [
+      31.1,
+      547.6,
+      48.9,
+      562.1
+    ],
+    "id": 20
+  },
+  {
+    "type": "h2",
+    "level": 2,
+    "role": "section_heading",
+    "text": "CoLLEGE",
+    "runs": [
+      {
+        "text": "CoLLEGE "
+      }
+    ],
+    "confidence": 0.5,
+    "needs_review": true,
+    "page": 1,
+    "bbox": [
+      31.1,
+      560.1,
+      45.3,
+      615.4
+    ],
+    "id": 21
+  },
+  {
+    "type": "paragraph",
+    "text": "PSG",
+    "runs": [
+      {
+        "text": "PSG "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.6,
+    "needs_review": true,
+    "page": 1,
+    "bbox": [
+      32.1,
+      608.3,
+      47.9,
+      630.4
+    ],
+    "id": 22
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "TECHNOLOGY",
+    "runs": [
+      {
+        "text": "TECHNOLOGY "
+      }
+    ],
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      31.5,
+      625.4,
+      45.7,
+      707.0
+    ],
+    "id": 23
+  },
+  {
+    "type": "paragraph",
+    "text": "Note",
+    "runs": [
+      {
+        "text": "Note "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      59.9,
+      654.5,
+      80.3,
+      663.5
+    ],
+    "id": 24
+  },
+  {
+    "type": "paragraph",
+    "text": "Absolute Grading adopted for all courses",
+    "runs": [
+      {
+        "text": "Absolute Grading adopted for all courses "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      59.4,
+      662.7,
+      206.5,
+      674.4
+    ],
+    "id": 25
+  },
+  {
+    "type": "paragraph",
+    "text": "Only thosc courses passed by the candidate are printed in this statement",
+    "runs": [
+      {
+        "text": "Only thosc courses passed by the candidate are printed in this statement "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      58.8,
+      674.5,
+      312.2,
+      686.9
+    ],
+    "id": 26
+  },
+  {
+    "type": "paragraph",
+    "text": "DATE 30 062026",
+    "runs": [
+      {
+        "text": "DATE 30 062026 "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.9,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      64.3,
+      692.1,
+      135.0,
+      701.8
+    ],
+    "id": 27
+  },
+  {
+    "type": "paragraph",
+    "text": "OF",
+    "runs": [
+      {
+        "text": "OF "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.6,
+    "needs_review": true,
+    "page": 1,
+    "bbox": [
+      33.0,
+      694.1,
+      50.9,
+      708.6
+    ],
+    "id": 28
+  },
+  {
+    "type": "paragraph",
+    "text": "COLLEGE",
+    "runs": [
+      {
+        "text": "COLLEGE "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.6,
+    "needs_review": true,
+    "page": 1,
+    "bbox": [
+      33.1,
+      707.1,
+      46.7,
+      762.4
+    ],
+    "id": 29
+  },
+  {
+    "type": "paragraph",
+    "text": "Seal",
+    "runs": [
+      {
+        "text": "Seal "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      62.1,
+      729.2,
+      86.9,
+      744.4
+    ],
+    "id": 30
+  },
+  {
+    "type": "paragraph",
+    "text": "CONTRoLLER OFEXAMINATIONS",
+    "runs": [
+      {
+        "text": "CONTRoLLER OFEXAMINATIONS "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 0.8,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      344.4,
+      730.9,
+      493.3,
+      743.4
+    ],
+    "id": 31
+  },
+  {
+    "type": "paragraph",
+    "text": "Medium of Instruction Englısh This document is issued without any correction",
+    "runs": [
+      {
+        "text": "Medium of Instruction Englısh "
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "This document is issued without any correction "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      63.3,
+      752.7,
+      233.1,
+      755.6
+    ],
+    "id": 32
+  },
+  {
+    "type": "h1",
+    "level": 1,
+    "role": "section_heading",
+    "text": "PSG",
+    "runs": [
+      {
+        "text": "PSG "
+      }
+    ],
+    "confidence": 0.7,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      33.5,
+      754.5,
+      50.0,
+      780.0
+    ],
+    "id": 33
+  },
+  {
+    "type": "paragraph",
+    "text": "CGPA Cumulative Gtade Point Average",
+    "runs": [
+      {
+        "text": "CGPA Cumulative Gtade Point Average "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      63.7,
+      764.7,
+      213.9,
+      776.4
+    ],
+    "id": 34
+  },
+  {
+    "type": "paragraph",
+    "text": "PSG COLLEGE OF TECHNOLOGY PSG cOLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLoGY",
+    "runs": [
+      {
+        "text": "PSG COLLEGE OF TECHNOLOGY PSG cOLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLOGY PSG COLLEGE OF TECHNOLoGY "
+      },
+      {
+        "text": " "
+      }
+    ],
+    "role": "paragraph",
+    "confidence": 1.0,
+    "needs_review": false,
+    "page": 1,
+    "bbox": [
+      40.1,
+      774.7,
+      551.0,
+      785.1
+    ],
+    "id": 35
+  }
+]

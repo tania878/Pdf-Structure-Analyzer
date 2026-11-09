@@ -1,0 +1,932 @@
+{
+  "source_pdf": "C:\\Users\\kevin\\Downloads\\yatzar\\jobs\\1a6f7e9a69104dd08c8f9ac5f7aa5c67\\input.pdf",
+  "element_count": 33,
+  "type_styles": {
+    "h1": {
+      "font_family": "Arial",
+      "font_size": 22,
+      "bold": true,
+      "italic": false,
+      "color": "#111111"
+    },
+    "h2": {
+      "font_family": "Arial",
+      "font_size": 18,
+      "bold": true,
+      "italic": false,
+      "color": "#222222"
+    },
+    "h3": {
+      "font_family": "Arial",
+      "font_size": 15,
+      "bold": true,
+      "italic": false,
+      "color": "#333333"
+    },
+    "h4": {
+      "font_family": "Arial",
+      "font_size": 13,
+      "bold": true,
+      "italic": true,
+      "color": "#444444"
+    },
+    "paragraph": {
+      "font_family": "Georgia",
+      "font_size": 12,
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    "table_header": {
+      "font_family": "Arial",
+      "font_size": 12,
+      "bold": true,
+      "italic": false,
+      "color": "#000000",
+      "background": "#e8e8e8"
+    },
+    "table_cell": {
+      "font_family": "Arial",
+      "font_size": 11,
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    "link_color": "#0645ad"
+  },
+  "elements": [
+    {
+      "type": "h1",
+      "content": "DOCUMENT PROCESSING PILOT — INTERNAL MEMO",
+      "page": 1,
+      "bbox": [
+        64.1,
+        55.8,
+        531.2,
+        80.5
+      ],
+      "id": "el_0000",
+      "style": {},
+      "metadata": {
+        "level": 1,
+        "role": "title",
+        "runs": [
+          {
+            "text": "DOCUMENT PROCESSING PILOT — INTERNAL MEMO"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Synthetic operational memo for mixed-format classification tests",
+      "page": 1,
+      "bbox": [
+        170.3,
+        92.3,
+        424.9,
+        104.7
+      ],
+      "id": "el_0001",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Synthetic operational memo for mixed-format classification tests"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Internal document | Ref: OPS-MEMO-26-14 | 03 November 2026",
+      "page": 1,
+      "bbox": [
+        57.0,
+        123.4,
+        286.6,
+        134.4
+      ],
+      "id": "el_0002",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Internal document | Ref: OPS-MEMO-26-14 | 03 November 2026"
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 0.9,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h2",
+      "content": "Purpose of This Memo",
+      "page": 1,
+      "bbox": [
+        57.0,
+        148.0,
+        217.9,
+        168.6
+      ],
+      "id": "el_0003",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Purpose of This Memo"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "This memo describes a fictional document-control pilot and intentionally mixes numbered headings, unnumbered headings, short labels and tabular content.",
+      "page": 1,
+      "bbox": [
+        57.0,
+        175.3,
+        538.3,
+        200.7
+      ],
+      "id": "el_0004",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "This memo describes a fictional document-control pilot and intentionally mixes numbered headings, unnumbered"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "headings, short labels and tabular content."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h2",
+      "content": "Current Situation",
+      "page": 1,
+      "bbox": [
+        57.0,
+        215.0,
+        179.5,
+        235.6
+      ],
+      "id": "el_0005",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Current Situation"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Teams receive purchase orders, supplier agreements, research reports and operational procedures as PDF files. Manual classification takes time and can produce inconsistent labels.",
+      "page": 1,
+      "bbox": [
+        57.0,
+        242.3,
+        538.3,
+        267.7
+      ],
+      "id": "el_0006",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Teams receive purchase orders, supplier agreements, research reports and operational procedures as PDF files. Manual"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "classification takes time and can produce inconsistent labels."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h3",
+      "content": "Observed issues",
+      "page": 1,
+      "bbox": [
+        57.0,
+        278.2,
+        153.1,
+        294.7
+      ],
+      "id": "el_0007",
+      "style": {},
+      "metadata": {
+        "level": 3,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Observed issues"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Common issues include inconsistent heading styles, scanned pages, repeated footer text and tables that interrupt paragraph flow.",
+      "page": 1,
+      "bbox": [
+        57.0,
+        299.3,
+        538.3,
+        324.7
+      ],
+      "id": "el_0008",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Common issues include inconsistent heading styles, scanned pages, repeated footer text and tables that interrupt"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "paragraph flow."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h2",
+      "content": "Pilot Plan",
+      "page": 1,
+      "bbox": [
+        57.0,
+        339.0,
+        125.4,
+        359.6
+      ],
+      "id": "el_0009",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Pilot Plan"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h3",
+      "content": "Phase 1 — Sample collection",
+      "page": 1,
+      "bbox": [
+        57.0,
+        368.2,
+        223.1,
+        384.7
+      ],
+      "id": "el_0010",
+      "style": {},
+      "metadata": {
+        "level": 3,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Phase 1 — Sample collection"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Collect representative documents from each category and remove confidential information before using them in the test environment.",
+      "page": 1,
+      "bbox": [
+        57.0,
+        389.3,
+        538.3,
+        414.7
+      ],
+      "id": "el_0011",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Collect representative documents from each category and remove confidential information before using them in the test"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "environment."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h3",
+      "content": "Phase 2 — Processing",
+      "page": 1,
+      "bbox": [
+        57.0,
+        425.2,
+        185.7,
+        441.7
+      ],
+      "id": "el_0012",
+      "style": {},
+      "metadata": {
+        "level": 3,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Phase 2 — Processing"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h3",
+      "content": "Text extraction",
+      "page": 1,
+      "bbox": [
+        57.0,
+        447.3,
+        128.2,
+        461.1
+      ],
+      "id": "el_0013",
+      "style": {},
+      "metadata": {
+        "level": 3,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Text extraction"
+          }
+        ],
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Extract text while retaining page order, line breaks and available font or layout metadata.",
+      "page": 1,
+      "bbox": [
+        57.0,
+        466.3,
+        409.2,
+        478.7
+      ],
+      "id": "el_0014",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Extract text while retaining page order, line breaks and available font or layout metadata."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h3",
+      "content": "Heading classification",
+      "page": 1,
+      "bbox": [
+        57.0,
+        486.3,
+        162.6,
+        500.1
+      ],
+      "id": "el_0015",
+      "style": {},
+      "metadata": {
+        "level": 3,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Heading classification"
+          }
+        ],
+        "confidence": 0.7,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Assign heading levels based on typography, numbering, position and semantic context. Do not treat every short line as a heading.",
+      "page": 1,
+      "bbox": [
+        57.0,
+        505.3,
+        538.3,
+        530.7
+      ],
+      "id": "el_0016",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Assign heading levels based on typography, numbering, position and semantic context. Do not treat every short line as a"
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": "heading."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h3",
+      "content": "Phase 3 — Evaluation",
+      "page": 1,
+      "bbox": [
+        57.0,
+        541.2,
+        181.7,
+        557.7
+      ],
+      "id": "el_0017",
+      "style": {},
+      "metadata": {
+        "level": 3,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Phase 3 — Evaluation"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Compare predicted labels with a manually reviewed reference set. Record precision, recall and common error patterns.",
+      "page": 1,
+      "bbox": [
+        57.0,
+        562.3,
+        530.2,
+        574.7
+      ],
+      "id": "el_0018",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Compare predicted labels with a manually reviewed reference set. Record precision, recall and common error patterns."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h2",
+      "content": "Acceptance Criteria",
+      "page": 1,
+      "bbox": [
+        57.0,
+        589.0,
+        197.9,
+        609.6
+      ],
+      "id": "el_0019",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Acceptance Criteria"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "header": [
+          "ID",
+          "Criterion",
+          "Expected result"
+        ],
+        "rows": [
+          [
+            "AC-01",
+            "Recognise document title",
+            "Title label or metadata"
+          ],
+          [
+            "AC-02",
+            "Recognise major sections",
+            "H1"
+          ],
+          [
+            "AC-03",
+            "Recognise nested sections",
+            "H2/H3 as appropriate"
+          ],
+          [
+            "AC-04",
+            "Preserve ordinary text",
+            "Paragraph"
+          ],
+          [
+            "AC-05",
+            "Handle tables",
+            "Table content not mislabelled as headings"
+          ]
+        ]
+      },
+      "page": 1,
+      "bbox": [
+        57.0,
+        617.0,
+        476.6,
+        731.0
+      ],
+      "id": "el_0020",
+      "style": {},
+      "metadata": {}
+    },
+    {
+      "type": "h2",
+      "content": "Risks and Mitigations",
+      "page": 1,
+      "bbox": [
+        57.0,
+        751.0,
+        211.2,
+        771.6
+      ],
+      "id": "el_0021",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Risks and Mitigations"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h3",
+      "content": "Layout variation",
+      "page": 2,
+      "bbox": [
+        57.0,
+        56.2,
+        149.7,
+        72.7
+      ],
+      "id": "el_0022",
+      "style": {},
+      "metadata": {
+        "level": 3,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Layout variation"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Mitigation: include documents with different fonts, spacing, numbering schemes and page structures.",
+      "page": 2,
+      "bbox": [
+        57.0,
+        77.3,
+        457.7,
+        89.7
+      ],
+      "id": "el_0023",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Mitigation: include documents with different fonts, spacing, numbering schemes and page structures."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h3",
+      "content": "OCR noise",
+      "page": 2,
+      "bbox": [
+        57.0,
+        100.2,
+        118.4,
+        116.7
+      ],
+      "id": "el_0024",
+      "style": {},
+      "metadata": {
+        "level": 3,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "OCR noise"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Mitigation: test extracted text from both digitally generated PDFs and scanned PDFs, and flag low-confidence pages.",
+      "page": 2,
+      "bbox": [
+        57.0,
+        121.3,
+        520.7,
+        133.7
+      ],
+      "id": "el_0025",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Mitigation: test extracted text from both digitally generated PDFs and scanned PDFs, and flag low-confidence pages."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h2",
+      "content": "Decision Required",
+      "page": 2,
+      "bbox": [
+        57.0,
+        148.0,
+        188.7,
+        168.6
+      ],
+      "id": "el_0026",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Decision Required"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "The project owner should approve the sample set and evaluation rubric before the pilot begins.",
+      "page": 2,
+      "bbox": [
+        57.0,
+        175.3,
+        433.7,
+        187.7
+      ],
+      "id": "el_0027",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "The project owner should approve the sample set and evaluation rubric before the pilot begins."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h2",
+      "content": "Appendix — Glossary",
+      "page": 2,
+      "bbox": [
+        57.0,
+        202.0,
+        212.9,
+        222.6
+      ],
+      "id": "el_0028",
+      "style": {},
+      "metadata": {
+        "level": 2,
+        "role": "clause_heading",
+        "runs": [
+          {
+            "text": "Appendix — Glossary"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h3",
+      "content": "Heading",
+      "page": 2,
+      "bbox": [
+        57.0,
+        231.2,
+        104.4,
+        247.7
+      ],
+      "id": "el_0029",
+      "style": {},
+      "metadata": {
+        "level": 3,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Heading"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "A line or phrase that identifies a section or subsection.",
+      "page": 2,
+      "bbox": [
+        57.0,
+        252.3,
+        272.6,
+        264.7
+      ],
+      "id": "el_0030",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "A line or phrase that identifies a section or subsection."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "h3",
+      "content": "Body paragraph",
+      "page": 2,
+      "bbox": [
+        57.0,
+        275.2,
+        149.0,
+        291.7
+      ],
+      "id": "el_0031",
+      "style": {},
+      "metadata": {
+        "level": 3,
+        "role": "section_heading",
+        "runs": [
+          {
+            "text": "Body paragraph"
+          }
+        ],
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": "Explanatory text belonging to a section rather than naming the section.",
+      "page": 2,
+      "bbox": [
+        57.0,
+        296.3,
+        338.2,
+        308.7
+      ],
+      "id": "el_0032",
+      "style": {},
+      "metadata": {
+        "runs": [
+          {
+            "text": "Explanatory text belonging to a section rather than naming the section."
+          },
+          {
+            "text": " "
+          }
+        ],
+        "role": "paragraph",
+        "confidence": 1.0,
+        "needs_review": false
+      }
+    }
+  ]
+}
